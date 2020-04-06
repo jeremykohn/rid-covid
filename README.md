@@ -2,7 +2,7 @@
 
 A list of software projects, datasets, and other publicly available resources for diagnosing COVID-19 based on clinical images such as X-rays and CT scans.
 
-For now, the goal is to help people find what already exists. Eventually this effort may develop into a project to create new diagnostic tools suitable for clinical use.
+For now, the goal is to help people find what already exists. Eventually this effort may develop into a project to produce new diagnostic tools suitable for clinical use.
 
 
 ## Software Projects and Tutorials
