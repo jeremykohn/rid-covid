@@ -14,7 +14,7 @@ For now, the goal is to help people find what already exists. Eventually this ef
   - Description: COVID-Net Open Source Initiative
   - License: [GNU Affero General Public License 3.0](https://github.com/lindawangg/COVID-Net/blob/master/LICENSE.md)
 
-- [Chester the AI Radiology Assistant](https://mlmed.org/tools/xray/)
+- [Chester the AI Radiology Assistant](https://github.com/mlmed/dl-web-xray)
   - Description: NOT FOR MEDICAL USE. This is a prototype system for diagnosing chest x-rays using neural networks.
   - Implementations: 
     - [In-browser web app](https://mlmed.org/tools/xray/)
