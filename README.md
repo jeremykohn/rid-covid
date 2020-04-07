@@ -15,6 +15,9 @@ For now, the goal is to help people find what already exists. Eventually this ef
     - Related research paper: [COVID-Net: A Tailored Deep Convolutional Neural Network Design for Detection of COVID-19 Cases from Chest Radiography Images](https://arxiv.org/abs/2003.09871)
   - License: [GNU Affero General Public License 3.0](https://github.com/lindawangg/COVID-Net/blob/master/LICENSE.md)
 
+- [zeeshannisar/COVID-19](https://github.com/zeeshannisar/COVID-19)
+  - Description: Detecting and Visualising the Infectious Regions of COVID-19 in X-ray Images Using Different Pretrained-Networks in Tensorflow 2.x.
+
 - [Chester the AI Radiology Assistant](https://github.com/mlmed/dl-web-xray)
   - Description: NOT FOR MEDICAL USE. This is a prototype system for diagnosing chest x-rays using neural networks.
   - Implementations: 
@@ -26,7 +29,7 @@ For now, the goal is to help people find what already exists. Eventually this ef
     - Related research paper (preprint): [v1](https://www.medrxiv.org/content/10.1101/2020.03.12.20027185v1.full.pdf), [v2](https://www.medrxiv.org/content/10.1101/2020.03.12.20027185v2)
   - License: [Creative Commons CC-BY-NC-SA-4.0](https://github.com/sydney0zq/covid-19-detection/blob/master/CC-BY-NC-SA-4.0)  
 
-- [COVID-19](https://github.com/elcronos/COVID-19) (Predecessor of [FightCOVID19](https://github.com/FightCOVID19))
+- [elcronos/COVID-19](https://github.com/elcronos/COVID-19) (Predecessor of [FightCOVID19](https://github.com/FightCOVID19))
   - Description: COVID-19 Detector from x-rays using Computer Vision and Deep Learning
   - License: COVID-19 Detector by Camilo Pestana is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
 
