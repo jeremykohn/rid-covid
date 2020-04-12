@@ -8,7 +8,8 @@ For now, the goal is to help people find what already exists. Eventually this ef
 ## Software Projects and Tutorials
 
 - [SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR)
-  - Description: An image based CT attempt at coronavirus2019 (covid19) diagnosis.
+  - Description: An image based Xray attempt at coronavirus2019 (covid19) diagnosis.
+  - License: [MIT License](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/blob/master/LICENSE.txt)
 
 - [COVID-Net](https://github.com/lindawangg/COVID-Net)
   - Description: COVID-Net Open Source Initiative
