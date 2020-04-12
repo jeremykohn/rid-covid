@@ -38,6 +38,10 @@ For now, the goal is to help people find what already exists. Eventually this ef
   - Description: Fight COVID-19 is a non-profit, collaborative community democratising AI to assist in the detection and triage of COVID-19 cases
   - Website (with information on upcoming Deepvision app): https://www.fightcovid19.ai/
 
+- [covidhelper](https://github.com/AleGiovanardi/covidhelper)
+  - Description: Detect COVID19 infection from RX and CT scans
+  
+
 - [lightning-Covid19](https://github.com/PyTorchLightning/lightning-Covid19)
   - Description: A detector for covid-19 chest X-ray images using PyTorch Lightning (for educational purposes)
 
