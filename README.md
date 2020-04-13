@@ -51,6 +51,9 @@ For now, the goal is to help people find what already exists. Eventually this ef
 
 - [covid19_detector](https://github.com/rekalantar/covid19_detector)
   - Description: Using Deep Learning to detect Covid-19 from X-Ray/CT scans of patients
+
+- [COVNet](https://github.com/bkong999/COVNet)
+  - Description: Artificial Intelligence Distinguishes COVID-19 from Community Acquired Pneumonia on Chest CT
   
 ## Image Data
 
