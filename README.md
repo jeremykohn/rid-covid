@@ -52,9 +52,9 @@ For now, the goal is to help people find what already exists. Eventually this ef
 - [covid19_detector](https://github.com/rekalantar/covid19_detector)
   - Description: Using Deep Learning to detect Covid-19 from X-Ray/CT scans of patients
 
-- [COVNet](https://github.com/bkong999/COVNet)
-  - Description: Artificial Intelligence Distinguishes COVID-19 from Community Acquired Pneumonia on Chest CT
-  
+- [COVID-19 Detection Neural Network (COVNet)](https://github.com/bkong999/COVNet)
+  - Description: This is a PyTorch implementation of the paper "[Artificial Intelligence Distinguishes COVID-19 from Community Acquired Pneumonia on Chest CT](https://pubs.rsna.org/doi/10.1148/radiol.2020200905)". It supports training, validation and testing for COVNet.
+
 ## Image Data
 
 - [covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)
