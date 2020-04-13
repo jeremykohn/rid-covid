@@ -38,10 +38,6 @@ For now, the goal is to help people find what already exists. Eventually this ef
   - Description: Fight COVID-19 is a non-profit, collaborative community democratising AI to assist in the detection and triage of COVID-19 cases
   - Website (with information on upcoming Deepvision app): https://www.fightcovid19.ai/
 
-- [covidhelper](https://github.com/AleGiovanardi/covidhelper)
-  - Description: Detect COVID19 infection from RX and CT scans
-  
-
 - [lightning-Covid19](https://github.com/PyTorchLightning/lightning-Covid19)
   - Description: A detector for covid-19 chest X-ray images using PyTorch Lightning (for educational purposes)
 
@@ -49,7 +45,13 @@ For now, the goal is to help people find what already exists. Eventually this ef
   - Description: In this tutorial, you will learn how to automatically detect COVID-19 in a hand-created X-ray image dataset using Keras, TensorFlow, and Deep Learning.
   - Availability: (Source code can be downloaded upon request via website)
 
+- [covidhelper](https://github.com/AleGiovanardi/covidhelper)
+  - Description: Detect COVID19 infection from RX and CT scans
+  
 
+- [covid19_detector](https://github.com/rekalantar/covid19_detector)
+  - Description: Using Deep Learning to detect Covid-19 from X-Ray/CT scans of patients
+  
 ## Image Data
 
 - [covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)
