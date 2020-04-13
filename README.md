@@ -57,6 +57,9 @@ For now, the goal is to help people find what already exists. Eventually this ef
     - Related research paper: [On the limits of cross-domain generalization in automated X-ray prediction](https://arxiv.org/abs/2002.02497)
   - License: (Some images in this dataset are licensed under CC BY, CC BY-NC-SA, CC BY-NC-ND, or Apache 2.0; for many other images, the license is unknown)
 
+- [COVID-CT](https://github.com/UCSD-AI4H/COVID-CT)
+  - Description: COVID-CT-Dataset: A CT Scan Dataset about COVID-19
+
 ---
 
 **NOTE**
