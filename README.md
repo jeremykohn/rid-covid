@@ -61,6 +61,8 @@ For now, the goal is to help people find what already exists. Eventually this ef
 - [COVID19-Detection](https://github.com/chiragsamal/COVID19-Detection)
   - Description: CoronaVirus (COVID-19) detection using X_Ray Images
 
+- [Synthetic.Network](https://synthetic.network/)
+  - Description: NOT FOR MEDICAL USE. This is a prototype of a deep learning tool to diagnose frontal chest X-ray images and recognize bacterial pneumonia, viral pneumonia and coronavirus. 
 
 ## Image Data
 
