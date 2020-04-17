@@ -73,7 +73,7 @@ For now, the goal is to help people find what already exists. Eventually this ef
 
 - [COVID-CT](https://github.com/UCSD-AI4H/COVID-CT)
   - Description: The COVID-CT-Dataset has CT images containing clinical findings of COVID-19. We are continuously adding new COVID CT images and we would like to invite the community to contribute COVID CTs as well.
-  - Related research paper: [COVID-CT-Dataset: A CT Scan Dataset about COVID-19](https://arxiv.org/pdf/2003.13865.pdf)
+    - Related research paper: [COVID-CT-Dataset: A CT Scan Dataset about COVID-19](https://arxiv.org/pdf/2003.13865.pdf)
 
 ---
 
