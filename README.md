@@ -72,8 +72,8 @@ For now, the goal is to help people find what already exists. Eventually this ef
   - License: (Some images in this dataset are licensed under CC BY, CC BY-NC-SA, CC BY-NC-ND, or Apache 2.0; for many other images, the license is unknown)
 
 - [COVID-CT](https://github.com/UCSD-AI4H/COVID-CT)
-- Description: The COVID-CT-Dataset has CT images containing clinical findings of COVID-19. We are continuously adding new COVID CT images and we would like to invite the community to contribute COVID CTs as well.
-- Related research paper: [COVID-CT-Dataset: A CT Scan Dataset about COVID-19](https://arxiv.org/pdf/2003.13865.pdf)
+  - Description: The COVID-CT-Dataset has CT images containing clinical findings of COVID-19. We are continuously adding new COVID CT images and we would like to invite the community to contribute COVID CTs as well.
+  - Related research paper: [COVID-CT-Dataset: A CT Scan Dataset about COVID-19](https://arxiv.org/pdf/2003.13865.pdf)
 
 ---
 
