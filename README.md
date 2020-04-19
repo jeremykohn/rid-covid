@@ -32,7 +32,6 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
   - Online implementation: http://39.100.61.27/ This website provides online testing on user-provided CT volume, and the results are the probabilities of being a normal person and being infected by COVID-19.
   - License: [Creative Commons CC-BY-NC-SA-4.0](https://github.com/sydney0zq/covid-19-detection/blob/master/CC-BY-NC-SA-4.0)
   - Related GitHub Gist: [convert_dicom_to_npy.py](https://gist.github.com/sydney0zq/4813618fd92781618e3c90809fc1db8b)
-  
 
 - [elcronos/COVID-19](https://github.com/elcronos/COVID-19) (Predecessor of [FightCOVID19](https://github.com/FightCOVID19))
   - Description: COVID-19 Detector from x-rays using Computer Vision and Deep Learning
@@ -78,7 +77,6 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [COVID-CT](https://github.com/UCSD-AI4H/COVID-CT)
   - Description: The COVID-CT-Dataset has CT images containing clinical findings of COVID-19. We are continuously adding new COVID CT images and we would like to invite the community to contribute COVID CTs as well.
     - Related research paper: [COVID-CT-Dataset: A CT Scan Dataset about COVID-19](https://arxiv.org/abs/2003.13865) (Jinyu Zhao, UC San Diego; Yichen Zhang, UC San Diego; Xuehai He, UC San Diego; Pengtao Xie, UC San Diego, Petuum Inc)
-
 
 - [Figure1-COVID-chestxray-dataset](https://github.com/agchung/Figure1-COVID-chestxray-dataset)
   - Description: Figure 1 COVID-19 Chest X-ray Dataset Initiative. We are building this dataset as a part of the COVIDx dataset to enhance our models for COVID-19 detection. Please see the main [COVID-Net](https://github.com/lindawangg/COVID-Net) repo for details on data extraction and instructions for creating the full COVIDx dataset.
