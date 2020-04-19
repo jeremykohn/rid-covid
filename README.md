@@ -73,7 +73,8 @@ For now, the goal is to help people find what already exists. Eventually this ef
 
 - [COVID-CT](https://github.com/UCSD-AI4H/COVID-CT)
   - Description: The COVID-CT-Dataset has CT images containing clinical findings of COVID-19. We are continuously adding new COVID CT images and we would like to invite the community to contribute COVID CTs as well.
-    - Related research paper: [COVID-CT-Dataset: A CT Scan Dataset about COVID-19](https://arxiv.org/pdf/2003.13865.pdf)
+    - Related research paper: [COVID-CT-Dataset: A CT Scan Dataset about COVID-19](https://arxiv.org/pdf/2003.13865.pdf) (Jinyu Zhao, UC San Diego; Yichen Zhang, UC San Diego; Xuehai He, UC San Diego; Pengtao Xie, UC San Diego, Petuum Inc)
+
 
 - [Figure1-COVID-chestxray-dataset](https://github.com/agchung/Figure1-COVID-chestxray-dataset)
   - Description: Figure 1 COVID-19 Chest X-ray Dataset Initiative. We are building this dataset as a part of the COVIDx dataset to enhance our models for COVID-19 detection. Please see the main [COVID-Net](https://github.com/lindawangg/COVID-Net) repo for details on data extraction and instructions for creating the full COVIDx dataset.
