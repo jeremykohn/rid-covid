@@ -27,8 +27,12 @@ For now, the goal is to help people find what already exists. Eventually this ef
 
 - [covid-19-detection](https://github.com/sydney0zq/covid-19-detection)
   - Description: The implementation of "Deep Learning-based Detection for COVID-19 from Chest CT using Weak Label".
-    - Related research paper (preprint): [v1](https://www.medrxiv.org/content/10.1101/2020.03.12.20027185v1.full.pdf), [v2](https://www.medrxiv.org/content/10.1101/2020.03.12.20027185v2)
-  - License: [Creative Commons CC-BY-NC-SA-4.0](https://github.com/sydney0zq/covid-19-detection/blob/master/CC-BY-NC-SA-4.0)  
+    - Related research paper: [Deep Learning-based Detection for COVID-19 from Chest CT using Weak Label](https://www.medrxiv.org/content/10.1101/2020.03.12.20027185v2) (Chuangsheng Zheng, Xianbo Deng, Qiang Fu, Qiang Zhou, Jiapei Feng, Hui Ma, Wenyu Liu, Xinggang Wang;
+Department of Radiology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430022, China; Hubei Province Key Laboratory of Molecular Imaging, Wuhan, 430022, China; Artificial Intelligence Institute, School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, 430074, China) (Preprints: [v1](https://www.medrxiv.org/content/10.1101/2020.03.12.20027185v1.full.pdf), [v2](https://www.medrxiv.org/content/10.1101/2020.03.12.20027185v2))
+  - Online implementation: http://39.100.61.27/ This website provides online testing on user-provided CT volume, and the results are the probabilities of being a normal person and being infected by COVID-19.
+  - License: [Creative Commons CC-BY-NC-SA-4.0](https://github.com/sydney0zq/covid-19-detection/blob/master/CC-BY-NC-SA-4.0)
+  - Related GitHub Gist: [convert_dicom_to_npy.py](https://gist.github.com/sydney0zq/4813618fd92781618e3c90809fc1db8b)
+  
 
 - [elcronos/COVID-19](https://github.com/elcronos/COVID-19) (Predecessor of [FightCOVID19](https://github.com/FightCOVID19))
   - Description: COVID-19 Detector from x-rays using Computer Vision and Deep Learning
