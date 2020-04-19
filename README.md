@@ -68,7 +68,7 @@ For now, the goal is to help people find what already exists. Eventually this ef
 
 - [covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)
   - Description: We are building a database of COVID-19 cases with chest X-ray or CT images. We are looking for COVID-19 cases as well as MERS, SARS, and ARDS.
-    - Related research paper: [On the limits of cross-domain generalization in automated X-ray prediction](https://arxiv.org/abs/2002.02497)
+    - Related research paper: [On the limits of cross-domain generalization in automated X-ray prediction](https://arxiv.org/abs/2002.02497) (Joseph Paul Cohen; Mohammad Hashir; Rupert Brooks; Hadrien Bertrand Mila, Université de Montréal)
   - License: (Some images in this dataset are licensed under CC BY, CC BY-NC-SA, CC BY-NC-ND, or Apache 2.0; for many other images, the license is unknown)
 
 - [COVID-CT](https://github.com/UCSD-AI4H/COVID-CT)
