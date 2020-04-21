@@ -16,6 +16,9 @@ For now, the goal is to help people find what already exists. Eventually this ef
     - Related research paper: [COVID-Net: A Tailored Deep Convolutional Neural Network Design for Detection of COVID-19 Cases from Chest Radiography Images](https://arxiv.org/abs/2003.09871) (Linda Wang, Zhong Qiu Lin, and Alexander Wong; Department of Systems Design Engineering, University of Waterloo, Canada; Waterloo Artificial Intelligence Institute, Canada; DarwinAI Corp., Canada)
   - License: [GNU Affero General Public License 3.0](https://github.com/lindawangg/COVID-Net/blob/master/LICENSE.md)
 
+- [IliasPap/COVIDNet](https://github.com/IliasPap/COVIDNet)
+  - Description: PyTorch implementation of [COVID-Net](https://github.com/lindawangg/COVID-Net)
+
 - [zeeshannisar/COVID-19](https://github.com/zeeshannisar/COVID-19)
   - Description: Detecting and Visualising the Infectious Regions of COVID-19 in X-ray Images Using Different Pretrained-Networks in Tensorflow 2.x.
 
@@ -66,6 +69,8 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 
 - [Synthetic.Network](https://synthetic.network/)
   - Description: NOT FOR MEDICAL USE. This is a prototype of a deep learning tool to diagnose frontal chest X-ray images and recognize bacterial pneumonia, viral pneumonia and coronavirus. 
+
+
 
 ## Image Data
 
