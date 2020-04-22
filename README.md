@@ -86,6 +86,9 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [Figure1-COVID-chestxray-dataset](https://github.com/agchung/Figure1-COVID-chestxray-dataset)
   - Description: Figure 1 COVID-19 Chest X-ray Dataset Initiative. We are building this dataset as a part of the COVIDx dataset to enhance our models for COVID-19 detection. Please see the main [COVID-Net](https://github.com/lindawangg/COVID-Net) repo for details on data extraction and instructions for creating the full COVIDx dataset.
 
+- [covid19-images](https://github.com/coyotespike/covid19-images)
+  - Description: A large collection of COVID-19 radiology imaging datasets for use in machine learning.
+
 ---
 
 **NOTE**
