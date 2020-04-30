@@ -70,7 +70,8 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [Synthetic.Network](https://synthetic.network/)
   - Description: NOT FOR MEDICAL USE. This is a prototype of a deep learning tool to diagnose frontal chest X-ray images and recognize bacterial pneumonia, viral pneumonia and coronavirus. 
 
-
+- [covid-cxr](https://github.com/aildnont/covid-cxr)
+  - Description: Neural network model for classifying chest X-rays by presence of COVID-19 features
 
 ## Image Data
 
