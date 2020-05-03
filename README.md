@@ -1,4 +1,4 @@
-# RID-COVID: Radiological Image Data for Clinical Open-source Viral Infection Diagnosis
+# Radiological Image Data for Clinical Open-source Viral Infection Diagnosis (RID-COVID)
 
 A list of software projects, datasets, and other publicly available resources for diagnosing COVID-19 based on clinical images such as X-rays and CT scans.
 
