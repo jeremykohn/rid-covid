@@ -91,7 +91,7 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
   - Description: A large collection of COVID-19 radiology imaging datasets for use in machine learning.
 
 - [CORONACASES.ORG](https://coronacases.org/)
-  - Description: This community is for health professionals share confirmed cases of coronavirus. We review posts in order to assure anonymization.
+  - Description: This community is for health professionals to share confirmed cases of coronavirus. We review posts in order to assure anonymization.
 
 ---
 
