@@ -93,6 +93,16 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [CORONACASES.ORG](https://coronacases.org/)
   - Description: This community is for health professionals to share confirmed cases of coronavirus. We review posts in order to assure anonymization.
 
+- [COVID-19 BSTI Imaging Database](https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/)
+  - Description: The British Society of Thoracic Imaging (BSTI), in conjunction with Cimar UK’s Imaging Cloud Technology (cimar.co.uk), have designed, built and deployed a simple, free to use, anonymised and encrypted online portal to upload and refer imaging of patients with either confirmed or suspected COVID-19. From these cases, BSTI hope to provide an imaging database of known UK patient examples for reference and teaching.
+
+- [The Role of Chest Imaging in Patient Management during the COVID-19 Pandemic](https://www.fleischner-covid19.org/)
+  - Description: Welcome to the Fleischner Society’s educational repository of radiographic and CT images of patients diagnosed with COVID-19. We provide this on-line supplement to our published statement as an aid to familiarize the medical community with the typical imaging findings of COVID-19. 
+
+- [SIRM COVID-19 DATABASE](https://www.sirm.org/category/senza-categoria/covid-19/)
+  - Description: COVID-19 radiological cases from the Italian Society of Medical Radiology (SIRM), including images from X-rays and CT scans.
+
+
 ---
 
 **NOTE**
