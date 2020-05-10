@@ -76,6 +76,10 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [COVID FIGHTERS](https://github.com/farmy-ai/covid-fighters)
   - Description: Data collection and label tool for COVID-19 disease chest scans. 
   - Online implementation: [COVIDEEP](http://www.covideep.net)
+  
+- [COVID-Next-Pytorch](https://github.com/velebit-ai/COVID-Next-Pytorch)
+  - Description: COVID-Next -> Pytorch upgrade of the COVID-Net for COVID-19 detection in X-Ray images
+  - License: MIT
 
 ## Image Data
 
