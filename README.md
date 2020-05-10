@@ -73,6 +73,10 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [covid-cxr](https://github.com/aildnont/covid-cxr)
   - Description: Neural network model for classifying chest X-rays by presence of COVID-19 features
 
+- [COVID FIGHTERS](https://github.com/farmy-ai/covid-fighters)
+  - Description: Data collection and label tool for COVID-19 disease chest scans. 
+  - Online implementation: [COVIDEEP](http://www.covideep.net)
+
 ## Image Data
 
 - [covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)
