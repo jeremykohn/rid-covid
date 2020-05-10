@@ -79,7 +79,7 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
   
 - [COVID-Next-Pytorch](https://github.com/velebit-ai/COVID-Next-Pytorch)
   - Description: COVID-Next -> Pytorch upgrade of the COVID-Net for COVID-19 detection in X-Ray images
-  - License: MIT
+  - License: [MIT License](https://github.com/velebit-ai/COVID-Next-Pytorch/blob/master/LICENSE)
 
 ## Image Data
 
