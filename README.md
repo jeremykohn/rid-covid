@@ -110,6 +110,9 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [SIRM COVID-19 DATABASE](https://www.sirm.org/category/senza-categoria/covid-19/)
   - Description: COVID-19 radiological cases from the Italian Society of Medical Radiology (SIRM), including images from X-rays and CT scans.
 
+- [COVID FIGHTERS](https://github.com/farmy-ai/covid-fighters)
+  - Description: Data collection and label tool for COVID-19 disease chest scans. 
+  - Project website: [COVIDEEP](http://www.covideep.net)
 
 ---
 
