@@ -81,6 +81,11 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
   - Description: COVID-Next -> Pytorch upgrade of the COVID-Net for COVID-19 detection in X-Ray images
   - License: [MIT License](https://github.com/velebit-ai/COVID-Next-Pytorch/blob/master/LICENSE)
 
+- [covid-xray-imagenet](https://github.com/manujosephv/covid-xray-imagenet)
+  - Description: Imagenet Pretraining for Covid-19 Xray Identification
+  - Related blog post: [Does Imagenet Pretraining work for Chest Radiography Images(COVID-19)?](https://deep-and-shallow.com/2020/04/05/does-imagenet-pretraining-work-for-chest-radiography-imagescovid-19/)
+
+
 ## Image Data
 
 - [covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)
