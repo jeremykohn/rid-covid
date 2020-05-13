@@ -18,6 +18,7 @@ For now, the goal is to help people find what already exists. Eventually this ef
 
 - [IliasPap/COVIDNet](https://github.com/IliasPap/COVIDNet)
   - Description: PyTorch implementation of [COVID-Net](https://github.com/lindawangg/COVID-Net)
+  - License: [GNU General Public License 3.0](https://github.com/IliasPap/COVIDNet/blob/master/LICENSE)
 
 - [zeeshannisar/COVID-19](https://github.com/zeeshannisar/COVID-19)
   - Description: Detecting and Visualising the Infectious Regions of COVID-19 in X-ray Images Using Different Pretrained-Networks in Tensorflow 2.x.
