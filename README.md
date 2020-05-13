@@ -72,7 +72,8 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 
 - [covid-cxr](https://github.com/aildnont/covid-cxr)
   - Description: Neural network model for classifying chest X-rays by presence of COVID-19 features
-  
+  - License: [MIT License](https://github.com/aildnont/covid-cxr/blob/master/LICENSE)
+
 - [COVID-Next-Pytorch](https://github.com/velebit-ai/COVID-Next-Pytorch)
   - Description: COVID-Next -> Pytorch upgrade of the COVID-Net for COVID-19 detection in X-Ray images
   - License: [MIT License](https://github.com/velebit-ai/COVID-Next-Pytorch/blob/master/LICENSE)
