@@ -42,14 +42,14 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 
 - [FightCOVID19](https://github.com/FightCOVID19)
   - Description: Fight COVID-19 is a non-profit, collaborative community democratising AI to assist in the detection and triage of COVID-19 cases
-  - Website (with information on upcoming Deepvision app): https://www.fightcovid19.ai/
+  - Project website (with information on upcoming Deepvision app): https://www.fightcovid19.ai/
 
 - [lightning-Covid19](https://github.com/PyTorchLightning/lightning-Covid19)
   - Description: A detector for covid-19 chest X-ray images using PyTorch Lightning (for educational purposes)
 
 - [Detecting COVID-19 in X-ray images with Keras, TensorFlow, and Deep Learning](https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/)
   - Description: In this tutorial, you will learn how to automatically detect COVID-19 in a hand-created X-ray image dataset using Keras, TensorFlow, and Deep Learning.
-  - Availability: (Source code can be downloaded upon request via website)
+  - Availability: (Source code can be downloaded upon request via email)
 
 - [covidhelper](https://github.com/AleGiovanardi/covidhelper)
   - Description: Detect COVID19 infection from RX and CT scans
@@ -79,7 +79,7 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 
 - [covid-xray-imagenet](https://github.com/manujosephv/covid-xray-imagenet)
   - Description: Imagenet Pretraining for Covid-19 Xray Identification
-  - Related blog post: [Does Imagenet Pretraining work for Chest Radiography Images(COVID-19)?](https://deep-and-shallow.com/2020/04/05/does-imagenet-pretraining-work-for-chest-radiography-imagescovid-19/)
+    - Related blog post: [Does Imagenet Pretraining work for Chest Radiography Images(COVID-19)?](https://deep-and-shallow.com/2020/04/05/does-imagenet-pretraining-work-for-chest-radiography-imagescovid-19/)
 
 
 ## Image Data
