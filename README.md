@@ -89,6 +89,14 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [AI4COVID](https://github.com/adeaeede/ai4covid)
   - Description: This project is a result of the [WirVsVirus Hackathon](https://wirvsvirushackathon.org/). Our objective was to assist doctors in diagnosing COVID-19 patients by training a convolutional network to discriminate between patients with and without the disease, based on an X-ray image.
 
+- [COVID-Z](https://github.com/ChirilaLaura/COVID-Z)
+  - Description: An online AI based platform for COVID-19 testing.
+  - Web page on Devpost: https://devpost.com/software/covid-z
+  - License: [MIT License](https://github.com/ChirilaLaura/COVID-Z/blob/master/LICENSE)
+  
+- [COVID-X](https://github.com/ChirilaLaura/COVID-X) ([V1](https://github.com/ChirilaLaura/COVID-X), [V2](https://github.com/ChirilaLaura/COVID-X_V2), [V3](https://github.com/ChirilaLaura/COVID-X_V3))
+  - License: [MIT License](https://github.com/ChirilaLaura/COVID-X/blob/master/LICENSE)
+
 ## Image Data
 
 - [covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)
