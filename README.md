@@ -86,6 +86,8 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [COVID-19 X-Ray classification](https://github.com/sagarnildass/covid_19_xray_classification)
   - Description: In this repo, we will explore the methodology of implementing AI Based solutions for comparing COVID-19 against other types of viral illness, and will analyze the results obtained.
 
+- [AI4COVID](https://github.com/adeaeede/ai4covid)
+  - Description: This project is a result of the [WirVsVirus Hackathon](https://wirvsvirushackathon.org/). Our objective was to assist doctors in diagnosing COVID-19 patients by training a convolutional network to discriminate between patients with and without the disease, based on an X-ray image.
 
 ## Image Data
 
