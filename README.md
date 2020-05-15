@@ -82,6 +82,7 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [covid-xray-imagenet](https://github.com/manujosephv/covid-xray-imagenet)
   - Description: Imagenet Pretraining for Covid-19 Xray Identification
     - Related blog post: [Does Imagenet Pretraining work for Chest Radiography Images(COVID-19)?](https://deep-and-shallow.com/2020/04/05/does-imagenet-pretraining-work-for-chest-radiography-imagescovid-19/)
+  - License: [MIT License](https://github.com/manujosephv/covid-xray-imagenet/blob/master/LICENSE)
 
 - [COVID-19 X-Ray classification](https://github.com/sagarnildass/covid_19_xray_classification)
   - Description: In this repo, we will explore the methodology of implementing AI Based solutions for comparing COVID-19 against other types of viral illness, and will analyze the results obtained.
