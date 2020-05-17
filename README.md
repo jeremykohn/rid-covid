@@ -107,6 +107,9 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
     - Related research paper: [Can AI help in screening Viral and COVID-19 pneumonia?](https://arxiv.org/abs/2003.13145) (M.E.H. Chowdhury, T. Rahman, A. Khandakar, R. Mazhar, M.A. Kadir, Z.B. Mahbub, K.R. Islam, M.S. Khan, A. Iqbal, N. Al-Emadi, M.B.I. Reaz)
     - Related dataset: [COVID-19 Radiography Database](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database)
 
+- [talhaanwarch/Corona_Virus](https://github.com/talhaanwarch/Corona_Virus)
+  - Description: Diagnosis of corona virus using Chest Xray, through deep learning
+
 
 ## Image Data
 
