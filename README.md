@@ -110,6 +110,9 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [talhaanwarch/Corona_Virus](https://github.com/talhaanwarch/Corona_Virus)
   - Description: Diagnosis of corona virus using Chest Xray, through deep learning
 
+- [defeatcovid19/defeatcovid19-net-pytorch](https://github.com/defeatcovid19/defeatcovid19-net-pytorch)
+  - Description: Pytorch solution for predictions on X-ray images of COVID-19 patients
+  - License: [MIT License](https://github.com/defeatcovid19/defeatcovid19-net-pytorch/blob/master/LICENSE)
 
 ## Image Data
 
