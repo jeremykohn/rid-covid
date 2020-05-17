@@ -102,6 +102,11 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [hananshafi/covid19-detection](https://github.com/hananshafi/covid19-detection)
   - Description: This code is for predicting COVID-19 from chest Xrays.
 
+- [tawsifur/COVID-19-Chest-X-ray-Detection](https://github.com/tawsifur/COVID-19-Chest-X-ray-Detection)
+  - Description: A team of researchers from Qatar University, Doha, Qatar and the University of Dhaka, Bangladesh along with their collaborators from Pakistan and Malaysia in collaboration with medical doctors have managed to classify COVID-19, Viral pneumonia and Normal Chest X-ray images with an accuracy of 98.3%.
+    - Related research paper: [Can AI help in screening Viral and COVID-19 pneumonia?](https://arxiv.org/abs/2003.13145) (M.E.H. Chowdhury, T. Rahman, A. Khandakar, R. Mazhar, M.A. Kadir, Z.B. Mahbub, K.R. Islam, M.S. Khan, A. Iqbal, N. Al-Emadi, M.B.I. Reaz)
+    - Related dataset: [COVID-19 Radiography Database](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database)
+
 
 ## Image Data
 
@@ -139,6 +144,12 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [farmy-ai/covid-fighters](https://github.com/farmy-ai/covid-fighters)
   - Description: Data collection and label tool for COVID-19 disease chest scans. 
   - Project website: [COVIDEEP](http://www.covideep.net)
+
+- [COVID-19 Radiography Database](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database)
+  - Description: A team of researchers from Qatar University, Doha, Qatar and the University of Dhaka, Bangladesh along with their collaborators from Pakistan and Malaysia in collaboration with medical doctors have created a database of chest X-ray images for COVID-19 positive cases along with Normal and Viral Pneumonia images. 
+    - Related research paper: [Can AI help in screening Viral and COVID-19 pneumonia?](https://arxiv.org/abs/2003.13145) (M.E.H. Chowdhury, T. Rahman, A. Khandakar, R. Mazhar, M.A. Kadir, Z.B. Mahbub, K.R. Islam, M.S. Khan, A. Iqbal, N. Al-Emadi, M.B.I. Reaz)
+    - Code repository: [tawsifur/COVID-19-Chest-X-ray-Detection](https://github.com/tawsifur/COVID-19-Chest-X-ray-Detection)  
+
 
 ---
 
