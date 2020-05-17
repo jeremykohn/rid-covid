@@ -7,11 +7,11 @@ For now, the goal is to help people find what already exists. Eventually this ef
 
 ## Software Projects and Tutorials
 
-- [SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR)
+- [JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR)
   - Description: An image based Xray attempt at coronavirus2019 (covid19) diagnosis using a convolutional neural network design.
   - License: [MIT License](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/blob/master/LICENSE.txt)
 
-- [COVID-Net](https://github.com/lindawangg/COVID-Net)
+- [lindawangg/COVID-Net](https://github.com/lindawangg/COVID-Net)
   - Description: COVID-Net Open Source Initiative
     - Related research paper: [COVID-Net: A Tailored Deep Convolutional Neural Network Design for Detection of COVID-19 Cases from Chest Radiography Images](https://arxiv.org/abs/2003.09871) (Linda Wang, Zhong Qiu Lin, and Alexander Wong; Department of Systems Design Engineering, University of Waterloo, Canada; Waterloo Artificial Intelligence Institute, Canada; DarwinAI Corp., Canada)
   - License: [GNU Affero General Public License 3.0](https://github.com/lindawangg/COVID-Net/blob/master/LICENSE.md)
@@ -29,7 +29,7 @@ For now, the goal is to help people find what already exists. Eventually this ef
     - [In-browser web app](https://mlmed.org/tools/xray/)
     - [Downloadable macOS app](https://github.com/mlmed/dl-web-xray/releases/download/2.0/Chester.app.zip)
 
-- [covid-19-detection](https://github.com/sydney0zq/covid-19-detection)
+- [sydney0zq/covid-19-detection](https://github.com/sydney0zq/covid-19-detection)
   - Description: The implementation of "Deep Learning-based Detection for COVID-19 from Chest CT using Weak Label".
     - Related research paper: [Deep Learning-based Detection for COVID-19 from Chest CT using Weak Label](https://www.medrxiv.org/content/10.1101/2020.03.12.20027185v2) (Chuangsheng Zheng, Xianbo Deng, Qiang Fu, Qiang Zhou, Jiapei Feng, Hui Ma, Wenyu Liu, Xinggang Wang;
 Department of Radiology, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, 430022, China; Hubei Province Key Laboratory of Molecular Imaging, Wuhan, 430022, China; Artificial Intelligence Institute, School of Electronic Information and Communications, Huazhong University of Science and Technology, Wuhan, 430074, China) (Preprints: [v1](https://www.medrxiv.org/content/10.1101/2020.03.12.20027185v1.full.pdf), [v2](https://www.medrxiv.org/content/10.1101/2020.03.12.20027185v2))
@@ -45,78 +45,78 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
   - Description: Fight COVID-19 is a non-profit, collaborative community democratising AI to assist in the detection and triage of COVID-19 cases
   - Project website (with information on upcoming Deepvision app): https://www.fightcovid19.ai/
 
-- [lightning-Covid19](https://github.com/PyTorchLightning/lightning-Covid19)
+- [PyTorchLightning/lightning-Covid19](https://github.com/PyTorchLightning/lightning-Covid19)
   - Description: A detector for covid-19 chest X-ray images using PyTorch Lightning (for educational purposes)
 
 - [Detecting COVID-19 in X-ray images with Keras, TensorFlow, and Deep Learning](https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/)
   - Description: In this tutorial, you will learn how to automatically detect COVID-19 in a hand-created X-ray image dataset using Keras, TensorFlow, and Deep Learning.
   - Availability: (Source code can be downloaded upon request via email)
 
-- [covidhelper](https://github.com/AleGiovanardi/covidhelper)
+- [AleGiovanardi/covidhelper](https://github.com/AleGiovanardi/covidhelper)
   - Description: Detect COVID19 infection from RX and CT scans
   
 
-- [covid19_detector](https://github.com/rekalantar/covid19_detector)
+- [rekalantar/covid19_detector](https://github.com/rekalantar/covid19_detector)
   - Description: Using Deep Learning to detect Covid-19 from X-Ray/CT scans of patients
 
-- [COVID-19 Detection Neural Network (COVNet)](https://github.com/bkong999/COVNet)
+- [bkong999/COVNet](https://github.com/bkong999/COVNet)
   - Description: This is a PyTorch implementation of the paper "[Artificial Intelligence Distinguishes COVID-19 from Community Acquired Pneumonia on Chest CT](https://pubs.rsna.org/doi/10.1148/radiol.2020200905)". It supports training, validation and testing for COVNet.
 
-- [Covid-19-X-Rays-Detector](https://github.com/ahmed3991/Covid-19-X-Rays-Detector)
+- [ahmed3991/Covid-19-X-Rays-Detector](https://github.com/ahmed3991/Covid-19-X-Rays-Detector)
   - Description: Detect Covid-19 infection from X-Rays
 
-- [COVID19-Detection](https://github.com/chiragsamal/COVID19-Detection)
+- [chiragsamal/COVID19-Detection](https://github.com/chiragsamal/COVID19-Detection)
   - Description: CoronaVirus (COVID-19) detection using X_Ray Images
 
 - [Synthetic.Network](https://synthetic.network/)
   - Description: NOT FOR MEDICAL USE. This is a prototype of a deep learning tool to diagnose frontal chest X-ray images and recognize bacterial pneumonia, viral pneumonia and coronavirus. 
 
-- [covid-cxr](https://github.com/aildnont/covid-cxr)
+- [aildnont/covid-cxr](https://github.com/aildnont/covid-cxr)
   - Description: Neural network model for classifying chest X-rays by presence of COVID-19 features
   - License: [MIT License](https://github.com/aildnont/covid-cxr/blob/master/LICENSE)
 
-- [COVID-Next-Pytorch](https://github.com/velebit-ai/COVID-Next-Pytorch)
+- [velebit-ai/COVID-Next-Pytorch](https://github.com/velebit-ai/COVID-Next-Pytorch)
   - Description: COVID-Next -> Pytorch upgrade of the COVID-Net for COVID-19 detection in X-Ray images
   - License: [MIT License](https://github.com/velebit-ai/COVID-Next-Pytorch/blob/master/LICENSE)
 
-- [covid-xray-imagenet](https://github.com/manujosephv/covid-xray-imagenet)
+- [manujosephv/covid-xray-imagenet](https://github.com/manujosephv/covid-xray-imagenet)
   - Description: Imagenet Pretraining for Covid-19 Xray Identification
     - Related blog post: [Does Imagenet Pretraining work for Chest Radiography Images(COVID-19)?](https://deep-and-shallow.com/2020/04/05/does-imagenet-pretraining-work-for-chest-radiography-imagescovid-19/)
   - License: [MIT License](https://github.com/manujosephv/covid-xray-imagenet/blob/master/LICENSE)
 
-- [COVID-19 X-Ray classification](https://github.com/sagarnildass/covid_19_xray_classification)
+- [sagarnildass/covid_19_xray_classification](https://github.com/sagarnildass/covid_19_xray_classification)
   - Description: In this repo, we will explore the methodology of implementing AI Based solutions for comparing COVID-19 against other types of viral illness, and will analyze the results obtained.
 
-- [AI4COVID](https://github.com/adeaeede/ai4covid)
+- [adeaeede/ai4covid](https://github.com/adeaeede/ai4covid)
   - Description: This project is a result of the [WirVsVirus Hackathon](https://wirvsvirushackathon.org/). Our objective was to assist doctors in diagnosing COVID-19 patients by training a convolutional network to discriminate between patients with and without the disease, based on an X-ray image.
 
-- [COVID-Z](https://github.com/ChirilaLaura/COVID-Z)
+- [ChirilaLaura/COVID-Z](https://github.com/ChirilaLaura/COVID-Z)
   - Description: An online AI based platform for COVID-19 testing.
   - Web page on Devpost: https://devpost.com/software/covid-z
   - License: [MIT License](https://github.com/ChirilaLaura/COVID-Z/blob/master/LICENSE)
   
-- [COVID-X](https://github.com/ChirilaLaura/COVID-X) ([V1](https://github.com/ChirilaLaura/COVID-X), [V2](https://github.com/ChirilaLaura/COVID-X_V2), [V3](https://github.com/ChirilaLaura/COVID-X_V3))
+- [ChirilaLaura/COVID-X](https://github.com/ChirilaLaura/COVID-X) ([V1](https://github.com/ChirilaLaura/COVID-X), [V2](https://github.com/ChirilaLaura/COVID-X_V2), [V3](https://github.com/ChirilaLaura/COVID-X_V3))
   - License: [MIT License](https://github.com/ChirilaLaura/COVID-X/blob/master/LICENSE)
 
 ## Image Data
 
-- [covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)
+- [ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)
   - Description: We are building a database of COVID-19 cases with chest X-ray or CT images. We are looking for COVID-19 cases as well as MERS, SARS, and ARDS.
     - Related research paper: [On the limits of cross-domain generalization in automated X-ray prediction](https://arxiv.org/abs/2002.02497) (Joseph Paul Cohen; Mohammad Hashir; Rupert Brooks; Hadrien Bertrand Mila, Université de Montréal)
   - License: (Some images in this dataset are licensed under CC BY, CC BY-NC-SA, CC BY-NC-ND, or Apache 2.0; for many other images, the license is unknown)
 
-- [COVID-19 Image Repository](https://github.com/ml-workgroup/covid-19-image-repository)
+- [ml-workgroup/covid-19-image-repository](https://github.com/ml-workgroup/covid-19-image-repository)
   - Description: This project aims to create an anonymized data set of COVID-19 cases with a focus on radiological imaging. This includes images with extensive metadata, such as admission-, ICU-, laboratory-, and patient master-data.
   - License: CC BY 3.0
 
-- [COVID-CT](https://github.com/UCSD-AI4H/COVID-CT)
+- [UCSD-AI4H/COVID-CT](https://github.com/UCSD-AI4H/COVID-CT)
   - Description: The COVID-CT-Dataset has CT images containing clinical findings of COVID-19. We are continuously adding new COVID CT images and we would like to invite the community to contribute COVID CTs as well.
     - Related research paper: [COVID-CT-Dataset: A CT Scan Dataset about COVID-19](https://arxiv.org/abs/2003.13865) (Jinyu Zhao, UC San Diego; Yichen Zhang, UC San Diego; Xuehai He, UC San Diego; Pengtao Xie, UC San Diego, Petuum Inc)
 
-- [Figure1-COVID-chestxray-dataset](https://github.com/agchung/Figure1-COVID-chestxray-dataset)
+- [agchung/Figure1-COVID-chestxray-dataset](https://github.com/agchung/Figure1-COVID-chestxray-dataset)
   - Description: Figure 1 COVID-19 Chest X-ray Dataset Initiative. We are building this dataset as a part of the COVIDx dataset to enhance our models for COVID-19 detection. Please see the main [COVID-Net](https://github.com/lindawangg/COVID-Net) repo for details on data extraction and instructions for creating the full COVIDx dataset.
 
-- [covid19-images](https://github.com/coyotespike/covid19-images)
+- [coyotespike/covid19-images](https://github.com/coyotespike/covid19-images)
   - Description: A large collection of COVID-19 radiology imaging datasets for use in machine learning.
 
 - [CORONACASES.ORG](https://coronacases.org/)
@@ -131,7 +131,7 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [SIRM COVID-19 DATABASE](https://www.sirm.org/category/senza-categoria/covid-19/)
   - Description: COVID-19 radiological cases from the Italian Society of Medical Radiology (SIRM), including images from X-rays and CT scans.
 
-- [COVID FIGHTERS](https://github.com/farmy-ai/covid-fighters)
+- [farmy-ai/covid-fighters](https://github.com/farmy-ai/covid-fighters)
   - Description: Data collection and label tool for COVID-19 disease chest scans. 
   - Project website: [COVIDEEP](http://www.covideep.net)
 
