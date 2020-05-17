@@ -14,6 +14,7 @@ For now, the goal is to help people find what already exists. Eventually this ef
 - [lindawangg/COVID-Net](https://github.com/lindawangg/COVID-Net)
   - Description: COVID-Net Open Source Initiative
     - Related research paper: [COVID-Net: A Tailored Deep Convolutional Neural Network Design for Detection of COVID-19 Cases from Chest Radiography Images](https://arxiv.org/abs/2003.09871) (Linda Wang, Zhong Qiu Lin, and Alexander Wong; Department of Systems Design Engineering, University of Waterloo, Canada; Waterloo Artificial Intelligence Institute, Canada; DarwinAI Corp., Canada)
+    - Related dataset: [agchung/Figure1-COVID-chestxray-dataset](https://github.com/agchung/Figure1-COVID-chestxray-dataset)
   - License: [GNU Affero General Public License 3.0](https://github.com/lindawangg/COVID-Net/blob/master/LICENSE.md)
 
 - [IliasPap/COVIDNet](https://github.com/IliasPap/COVIDNet)
