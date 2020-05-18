@@ -114,6 +114,9 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
   - Description: Pytorch solution for predictions on X-ray images of COVID-19 patients
   - License: [MIT License](https://github.com/defeatcovid19/defeatcovid19-net-pytorch/blob/master/LICENSE)
 
+- [itratrahman/covid_19](https://github.com/itratrahman/covid_19)
+  - Description: Project to detect COVID19 from X-Rays.
+
 ## Image Data
 
 - [ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)
