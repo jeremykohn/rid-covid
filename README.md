@@ -117,6 +117,9 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [itratrahman/covid_19](https://github.com/itratrahman/covid_19)
   - Description: Project to detect COVID19 from X-Rays.
 
+- [saisriteja/covid19](https://github.com/saisriteja/covid19)
+  - Description: COVID image data analysis using chest X-rays and CT scans.
+
 ## Image Data
 
 - [ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)
