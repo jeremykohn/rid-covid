@@ -123,6 +123,8 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [BioXAI/DeepCOVIDExplainer](https://github.com/BioXAI/DeepCOVIDExplainer)
   - Description: Explainable COVID-19 Diagnosis from Chest Radiography Images
 
+- [appushona123/Instant-COVID19-detection](https://github.com/appushona123/Instant-COVID19-detection)
+  - Description: This project is able to detect the COVID19 patient with the X-ray image of the person. 
 
 ## Image Data
 
