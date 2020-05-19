@@ -120,6 +120,10 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [saisriteja/covid19](https://github.com/saisriteja/covid19)
   - Description: COVID image data analysis using chest X-rays and CT scans.
 
+- [BioXAI/DeepCOVIDExplainer](https://github.com/BioXAI/DeepCOVIDExplainer)
+  - Description: Explainable COVID-19 Diagnosis from Chest Radiography Images
+
+
 ## Image Data
 
 - [ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)
