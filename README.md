@@ -126,6 +126,9 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [appushona123/Instant-COVID19-detection](https://github.com/appushona123/Instant-COVID19-detection)
   - Description: This project is able to detect the COVID19 patient with the X-ray image of the person. 
 
+- [talhaanwarch/Corona_Virus](https://github.com/talhaanwarch/Corona_Virus)
+  - Description: Diagnosis of corona virus using Chest Xray, through deep learning
+
 ## Image Data
 
 - [ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)
