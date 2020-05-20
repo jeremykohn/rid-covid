@@ -196,6 +196,11 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
   - Description: Radiopaedia.org is a rapidly growing, open-edit radiology resource, compiled by radiologists and other health professionals from across the globe.
   - Search for COVID cases: https://radiopaedia.org/search?lang=us&page=6&q=covid&scope=cases
   - License: [Modified CC license](https://radiopaedia.org/terms)
+
+- [Eurorad](https://www.eurorad.org/)
+  - Description: The purpose of Eurorad is to provide a learning environment for radiologists, radiology residents and students worldwide. It is a peer-reviewed educational tool based on radiological case reports.
+  - Search for COVID cases: https://www.eurorad.org/advanced-search?search=COVID
+
 ---
 
 **NOTE**
