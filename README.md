@@ -141,6 +141,12 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
   - Description: Covid X-ray prediction model
   - Online implementation: http://covid.mlproducts.app/
 
+- [xinli0928/COVID-Xray](https://github.com/xinli0928/COVID-Xray)
+  - Description: We present COVID-MobileXpert: a lightweight deep neural network (DNN) based mobile app that can use noisy snapshots of chest X-ray (CXR) for point-of-care COVID-19 screening. 
+    - Related research paper: "[COVID-MobileXpert: On-Device COVID-19 Screening using Snapshots of Chest X-Ray](https://arxiv.org/pdf/2004.03042.pdf)" (Xin Li, Chengyin Li, Dongxiao Zhu).
+  - Android app: https://drive.google.com/file/d/1yqNsVHkrrCoo_XYedOOqSUJRnzc0vjIB/view?usp=sharing
+  - License: [MIT License](https://github.com/xinli0928/COVID-Xray/blob/master/LICENSE)
+
 ## Image Data
 
 - [ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)
