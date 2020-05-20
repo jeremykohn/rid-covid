@@ -137,7 +137,9 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [devcode925/covid19XraySample](https://github.com/devcode925/covid19XraySample)
   - Description: COVID-19 Xray Study using CNN from deeplearning4J library.
 
-
+- [arunslb123/covid19_xrays](https://github.com/arunslb123/covid19_xrays)
+  - Description: Covid X-ray prediction model
+  - Online implementation: http://covid.mlproducts.app/
 
 ## Image Data
 
