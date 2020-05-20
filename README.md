@@ -134,6 +134,11 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
   - Online implementation: http://www.covidfilter.life/
   - License: [GNU General Public License v3.0](https://github.com/karanshah7371/Covid19Xray/blob/master/LICENSE)
 
+- [devcode925/covid19XraySample](https://github.com/devcode925/covid19XraySample)
+  - Description: COVID-19 Xray Study using CNN from deeplearning4J library.
+
+
+
 ## Image Data
 
 - [ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)
