@@ -129,6 +129,11 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [talhaanwarch/Corona_Virus](https://github.com/talhaanwarch/Corona_Virus)
   - Description: Diagnosis of corona virus using Chest Xray, through deep learning
 
+- [karanshah7371/Covid19Xray](https://github.com/karanshah7371/Covid19Xray)
+  - Description: This model predicts covid-19 (if we feed image of X-Ray of patients). DISCLAIMER: This model is currently in development and we do not recommend using it for screening purposes as of now.
+  - Online implementation: http://www.covidfilter.life/
+  - License: [GNU General Public License v3.0](https://github.com/karanshah7371/Covid19Xray/blob/master/LICENSE)
+
 ## Image Data
 
 - [ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)
