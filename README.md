@@ -192,6 +192,10 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [Aman9026/COVID-19-Predictor-dataset](https://github.com/Aman9026/COVID-19-Predictor-dataset)
   - Description: Predict COVID-19 by analyzing chest X-Ray images in this dataset.
 
+- [Radiopaedia](https://radiopaedia.org/)
+  - Description: Radiopaedia.org is a rapidly growing, open-edit radiology resource, compiled by radiologists and other health professionals from across the globe.
+  - Search for COVID cases: https://radiopaedia.org/search?lang=us&page=6&q=covid&scope=cases
+  - License: [Modified CC license](https://radiopaedia.org/terms)
 ---
 
 **NOTE**
