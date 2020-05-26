@@ -147,6 +147,9 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
   - Android app: https://drive.google.com/file/d/1yqNsVHkrrCoo_XYedOOqSUJRnzc0vjIB/view?usp=sharing
   - License: [MIT License](https://github.com/xinli0928/COVID-Xray/blob/master/LICENSE)
 
+- [anirudhtulasi/COVID19XrayAnalysisCNN](https://github.com/anirudhtulasi/COVID19XrayAnalysisCNN)
+  - Description: Detection of COVID-19 presence from Chest X-ray scans using CNN & Class Activation Maps
+
 ## Image Data
 
 - [ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)
