@@ -150,6 +150,10 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [anirudhtulasi/COVID19XrayAnalysisCNN](https://github.com/anirudhtulasi/COVID19XrayAnalysisCNN)
   - Description: Detection of COVID-19 presence from Chest X-ray scans using CNN & Class Activation Maps
 
+- [linhduongtuan/Covid-19_Xray_Classifier](https://github.com/linhduongtuan/Covid-19_Xray_Classifier)
+  - Description: Demo diagnosis tools for Covid-19 Chest Xray
+  - License: [MIT License](https://github.com/linhduongtuan/Covid-19_Xray_Classifier/blob/master/LICENSE)
+
 ## Image Data
 
 - [ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)
