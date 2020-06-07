@@ -216,6 +216,12 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
   - Description: The purpose of Eurorad is to provide a learning environment for radiologists, radiology residents and students worldwide. It is a peer-reviewed educational tool based on radiological case reports.
   - Search for COVID cases: https://www.eurorad.org/advanced-search?search=COVID
 
+- [SARS-COV-2 Ct-Scan Dataset](https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset)
+  - Description: A large dataset of CT scans for SARS-CoV-2 (COVID-19) identification
+    - Related research paper: [SARS-CoV-2 CT-scan dataset: A large dataset of real patients CT scans for SARS-CoV-2 identification](https://www.medrxiv.org/content/10.1101/2020.04.24.20078584v3) (Eduardo Soares,  View ORCID ProfilePlamen Angelov, Sarah Biaso, Michele Higa Froes, Daniel Kanda Abe)
+    - Code repository: https://github.com/Plamen-Eduardo/xDNN-SARS-CoV-2-CT-Scan
+  - License: [CC BY-NC-SA 4.0](https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset)
+
 ---
 
 **NOTE**
