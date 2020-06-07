@@ -151,6 +151,17 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
   - Description: Demo diagnosis tools for Covid-19 Chest Xray
   - License: [MIT License](https://github.com/linhduongtuan/Covid-19_Xray_Classifier/blob/master/LICENSE)
 
+- [ufopcsilab/EfficientNet-C19](https://github.com/ufopcsilab/EfficientNet-C19)
+  - Description: Repository to reproduce the results of "Towards an Effective and Efficient Deep Learning Model for COVID-19 Patterns Detection in X-ray Images"
+    - Related research paper: [Towards an Effective and Efficient Deep Learning Model for COVID-19 Patterns Detection in X-ray Images](https://arxiv.org/abs/2004.05717) (Eduardo Luz, Pedro Lopes Silva, Rodrigo Silva, Ludmila Silva, Gladston Moreira, David Menotti)
+  - License: [GNU Affero General Public License v3.0](https://github.com/ufopcsilab/EfficientNet-C19/blob/master/LICENSE)
+
+- [ufopcsilab/covid-19](https://github.com/ufopcsilab/covid-19)
+  - Description: Based on the work "Towards an Effective and Efficient Deep Learning Model for COVID-19 Patterns Detection in X-ray Images"
+    - Related research paper: [Towards an Effective and Efficient Deep Learning Model for COVID-19 Patterns Detection in X-ray Images](https://arxiv.org/abs/2004.05717) (Eduardo Luz, Pedro Lopes Silva, Rodrigo Silva, Ludmila Silva, Gladston Moreira, David Menotti)
+  - Project web page: [iCOVID-X: COVID-19 Detection in X-Ray Images using AI](http://www.decom.ufop.br/csilab/projects/)
+  - License: [MIT License](https://github.com/ufopcsilab/covid-19/blob/master/LICENSE)
+
 ## Image Data
 
 - [ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)
