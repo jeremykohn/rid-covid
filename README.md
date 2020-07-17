@@ -11,6 +11,10 @@ For now, the goal is to help people find what already exists. Eventually this ef
   - Description: An image based Xray attempt at coronavirus2019 (covid19) diagnosis using a convolutional neural network design.
   - License: [MIT License](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR/blob/master/LICENSE.txt)
 
+- [haydengunraj/COVIDNet-CT](https://github.com/haydengunraj/COVIDNet-CT)
+  - Description: COVID-Net Open Source Initiative - Models for COVID-19 Detection from Chest CT
+  - License: [GNU Affero General Public License 3.0](https://github.com/haydengunraj/COVIDNet-CT/blob/master/LICENSE.md)
+
 - [lindawangg/COVID-Net](https://github.com/lindawangg/COVID-Net)
   - Description: COVID-Net Open Source Initiative
     - Related research paper: [COVID-Net: A Tailored Deep Convolutional Neural Network Design for Detection of COVID-19 Cases from Chest Radiography Images](https://arxiv.org/abs/2003.09871) (Linda Wang, Zhong Qiu Lin, and Alexander Wong; Department of Systems Design Engineering, University of Waterloo, Canada; Waterloo Artificial Intelligence Institute, Canada; DarwinAI Corp., Canada)
