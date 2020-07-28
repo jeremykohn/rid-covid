@@ -250,7 +250,7 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
   - Description: A Large COVID-19 CT Scans dataset 
     - The dataset is shared in this folder: https://drive.google.com/drive/folders/1xdk-mCkxCDNwsMAk2SGv203rY1mrbnPB?usp=sharing
     - Related research paper (preprint): [A Fully Automated Deep Learning-based Network For Detecting COVID-19 from a New And Large Lung CT Scan Dataset](https://www.researchgate.net/publication/341804692_A_Fully_Automated_Deep_Learning-based_Network_For_Detecting_COVID-19_from_a_New_And_Large_Lung_CT_Scan_Dataset) (Mohammad Rahimzadeh, Abolfazl Attar, Seyed Mohammad Sakhaei)
-    - The codes for data analysis and training or validating the networks based on this dataset are shared at https://github.com/mr7495/COVID-CT-Code.
+    - Code repository: https://github.com/mr7495/COVID-CT-Code.
 
 ---
 
