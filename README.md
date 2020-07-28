@@ -166,6 +166,11 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
   - Project web page: [iCOVID-X: COVID-19 Detection in X-Ray Images using AI](http://www.decom.ufop.br/csilab/projects/)
   - License: [MIT License](https://github.com/ufopcsilab/covid-19/blob/master/LICENSE)
 
+- [kaushikjadhav01/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans](https://github.com/kaushikjadhav01/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans)
+  - Description: COVID-19 Detection based on Chest X-rays and CT Scans using four Transfer Learning algorithms: VGG16, ResNet50, InceptionV3, Xception.
+    - Related blog post: [COVID-19 Detector Flask App based on Chest X-rays and CT Scans using Deep Learning](https://towardsdatascience.com/covid-19-detector-flask-app-based-on-chest-x-rays-and-ct-scans-using-deep-learning-a0db89e1ed2a)
+
+
 ## Image Data
 
 - [ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)
