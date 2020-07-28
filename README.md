@@ -101,6 +101,7 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
   - License: [MIT License](https://github.com/ChirilaLaura/COVID-Z/blob/master/LICENSE)
 
 - [ChirilaLaura/COVID-X](https://github.com/ChirilaLaura/COVID-X) ([V1](https://github.com/ChirilaLaura/COVID-X), [V2](https://github.com/ChirilaLaura/COVID-X_V2), [V3](https://github.com/ChirilaLaura/COVID-X_V3))
+  - Project description: *(No description, website, or topics provided)*
   - License: [MIT License](https://github.com/ChirilaLaura/COVID-X/blob/master/LICENSE)
 
 - [hananshafi/covid19-detection](https://github.com/hananshafi/covid19-detection)
