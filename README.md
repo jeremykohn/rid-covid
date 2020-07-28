@@ -170,6 +170,13 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
   - Description: COVID-19 Detection based on Chest X-rays and CT Scans using four Transfer Learning algorithms: VGG16, ResNet50, InceptionV3, Xception.
     - Related blog post: [COVID-19 Detector Flask App based on Chest X-rays and CT Scans using Deep Learning](https://towardsdatascience.com/covid-19-detector-flask-app-based-on-chest-x-rays-and-ct-scans-using-deep-learning-a0db89e1ed2a)
 
+- [amobiny/DECAPS_for_COVID19](https://github.com/amobiny/DECAPS_for_COVID19)
+  - Description: Official PyTorch implementation of the Detail-oriented Capsule Network (DECAPS) proposed in the paper Radiologist-Level COVID-19 Detection Using CT Scans with Detail-Oriented Capsule Networks.
+    - Related research paper: [Radiologist-Level COVID-19 Detection Using CT Scans with Detail-Oriented Capsule Networks](https://arxiv.org/pdf/2004.07407.pdf) (Aryan Mobiny, Pietro A. Cicalese, Samira Zare, Pengyu Yuan, Mohammad S. Abavisan, Carol C. Wu, Jitesh Ahuja, Patricia M. de Groot, and Hien V. Nguyen)
+  - License: [MIT License](https://github.com/amobiny/DECAPS_for_COVID19/blob/master/LICENSE)
+
+- [junqiangchen/COVID-CT19-Challenge](https://github.com/junqiangchen/COVID-CT19-Challenge)
+  - Description: This is an example of classifying each CT image into positive COVID-19 (the image has clinical findings of COVID-19) or negative COVID-19 ( the image does not have clinical findings of COVID-19).
 
 ## Image Data
 
