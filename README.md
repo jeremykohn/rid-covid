@@ -178,8 +178,9 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [junqiangchen/COVID-CT19-Challenge](https://github.com/junqiangchen/COVID-CT19-Challenge)
   - Description: This is an example of classifying each CT image into positive COVID-19 (the image has clinical findings of COVID-19) or negative COVID-19 ( the image does not have clinical findings of COVID-19).
 
-- [mr7495/COVID-CT-Code](https://github.com/mr7495/COVID-CT-Code)   
-  - Description: A Fully Automated Deep Learning-based Network For Detecting COVID-19 from a New And Large Lung CT Scan Dataset.
+- [mr7495/COVID-CT-Code](https://github.com/mr7495/COVID-CT-Code)
+  - Description: Fully automated code for Covid-19 detection from CT scans from paper: https://doi.org/10.1101/2020.06.08.20121541
+    - Related research paper: [A Fully Automated Deep Learning-based Network For Detecting COVID-19 from a New And Large Lung CT Scan Dataset](https://doi.org/10.1101/2020.06.08.20121541) (Mohammad Rahimzadeh, Abolfazl Attar, Seyed Mohammad Sakhaei)
     - Related dataset: https://github.com/mr7495/COVID-CTset
 
 - [AshleyRudland/covid19](https://github.com/AshleyRudland/covid19)
@@ -252,10 +253,11 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
     - Related research paper: [Clinically Applicable AI System for Accurate Diagnosis, Quantitative Measurements and Prognosis of COVID-19 Pneumonia Using Computed Tomography](https://www.cell.com/cell/fulltext/S0092-8674(20)30551-1?rss=yes) (Kang Zhang, Xiaohong Liu, Jun Shen, et al. Jianxing He, Tianxin Lin, Weimin Li, Guangyu Wang)
 
 - [mr7495/COVID-CTset](https://github.com/mr7495/COVID-CTset)
-  - Description: A Large COVID-19 CT Scans dataset 
-    - The dataset is shared in this folder: https://drive.google.com/drive/folders/1xdk-mCkxCDNwsMAk2SGv203rY1mrbnPB?usp=sharing
-    - Related research paper (preprint): [A Fully Automated Deep Learning-based Network For Detecting COVID-19 from a New And Large Lung CT Scan Dataset](https://www.researchgate.net/publication/341804692_A_Fully_Automated_Deep_Learning-based_Network_For_Detecting_COVID-19_from_a_New_And_Large_Lung_CT_Scan_Dataset) (Mohammad Rahimzadeh, Abolfazl Attar, Seyed Mohammad Sakhaei)
-    - Code repository: https://github.com/mr7495/COVID-CT-Code.
+  - Description: Large Covid-19 CT scans dataset from paper: https://doi.org/10.1101/2020.06.08.20121541
+    - The dataset is shared in this folder:
+https://drive.google.com/drive/folders/1xdk-mCkxCDNwsMAk2SGv203rY1mrbnPB?usp=sharing
+    - Related research paper: [A Fully Automated Deep Learning-based Network For Detecting COVID-19 from a New And Large Lung CT Scan Dataset](https://doi.org/10.1101/2020.06.08.20121541) (Mohammad Rahimzadeh, Abolfazl Attar, Seyed Mohammad Sakhaei)
+    - Code repository: https://github.com/mr7495/COVID-CT-Code
 
 ---
 
