@@ -182,6 +182,11 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
   - Description: A Fully Automated Deep Learning-based Network For Detecting COVID-19 from a New And Large Lung CT Scan Dataset.
     - Related dataset: https://github.com/mr7495/COVID-CTset
 
+- [AshleyRudland/covid19](https://github.com/AshleyRudland/covid19)
+  - Description: Upload images of CT/xray scans to see if a patient has COVID19. Not for production use yet, first POC.
+    - Related blog post: [Detecting COVID-19 from X-Ray/CT Scans using AI with 98% Accuracy (Deep Learning) - Lesson #1](https://ashleyrudland.com/2020/03/16/detecting-covid19-with-ai.html)
+
+
 ## Image Data
 
 - [ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)
