@@ -188,6 +188,9 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
   - Project description: Upload images of CT/xray scans to see if a patient has COVID19. Not for production use yet, first POC.
     - Related blog post: [Detecting COVID-19 from X-Ray/CT Scans using AI with 98% Accuracy (Deep Learning) - Lesson #1](https://ashleyrudland.com/2020/03/16/detecting-covid19-with-ai.html)
 
+- [paulinawins/CovidProject](https://github.com/paulinawins/CovidProject)
+  - Project description: Covid CT Scan Detection Web Application
+
 
 ## Image Data
 
