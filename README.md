@@ -244,7 +244,7 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 
 - [China National Center for Bioinformation: 2019 Novel Coronavirus Resource (2019nCoVR)](http://ncov-ai.big.ac.cn/download?lang=en)
   - Description: Dataset of the CT images and metadata are constructed from cohorts from the China Consortium of Chest CT Image Investigation (CC-CCII). All CT images are classified into novel coronavirus pneumonia (NCP) due to SARS-CoV-2 virus infection, common pneumonia and normal controls. This dataset is available globally with the aim to assist the clinicians and researchers to combat the COVID-19 pandemic.
-  - Related research paper: [Clinically Applicable AI System for Accurate Diagnosis, Quantitative Measurements and Prognosis of COVID-19 Pneumonia Using Computed Tomography](https://www.cell.com/cell/fulltext/S0092-8674(20)30551-1?rss=yes) (Kang Zhang, Xiaohong Liu, Jun Shen, et al. Jianxing He, Tianxin Lin, Weimin Li, Guangyu Wang)
+    - Related research paper: [Clinically Applicable AI System for Accurate Diagnosis, Quantitative Measurements and Prognosis of COVID-19 Pneumonia Using Computed Tomography](https://www.cell.com/cell/fulltext/S0092-8674(20)30551-1?rss=yes) (Kang Zhang, Xiaohong Liu, Jun Shen, et al. Jianxing He, Tianxin Lin, Weimin Li, Guangyu Wang)
 
 - [mr7495/COVID-CTset](https://github.com/mr7495/COVID-CTset)
   - Description: A Large COVID-19 CT Scans dataset 
