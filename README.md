@@ -13,17 +13,17 @@ For now, the goal is to help people find what already exists. Eventually this ef
 
 - [haydengunraj/COVIDNet-CT](https://github.com/haydengunraj/COVIDNet-CT)
   - Project description: COVID-Net Open Source Initiative - Models for COVID-19 Detection from Chest CT
-  - License: [GNU Affero General Public License 3.0](https://github.com/haydengunraj/COVIDNet-CT/blob/master/LICENSE.md)
+  - License: [GNU Affero General Public License v3.0](https://github.com/haydengunraj/COVIDNet-CT/blob/master/LICENSE.md)
 
 - [lindawangg/COVID-Net](https://github.com/lindawangg/COVID-Net)
   - Project description: COVID-Net Open Source Initiative
     - Related research paper: [COVID-Net: A Tailored Deep Convolutional Neural Network Design for Detection of COVID-19 Cases from Chest Radiography Images](https://arxiv.org/abs/2003.09871) (Linda Wang, Zhong Qiu Lin, and Alexander Wong; Department of Systems Design Engineering, University of Waterloo, Canada; Waterloo Artificial Intelligence Institute, Canada; DarwinAI Corp., Canada)
     - Related dataset: [agchung/Figure1-COVID-chestxray-dataset](https://github.com/agchung/Figure1-COVID-chestxray-dataset)
-  - License: [GNU Affero General Public License 3.0](https://github.com/lindawangg/COVID-Net/blob/master/LICENSE.md)
+  - License: [GNU Affero General Public License v3.0](https://github.com/lindawangg/COVID-Net/blob/master/LICENSE.md)
 
 - [IliasPap/COVIDNet](https://github.com/IliasPap/COVIDNet)
   - Project description: PyTorch implementation of [COVID-Net](https://github.com/lindawangg/COVID-Net)
-  - License: [GNU General Public License 3.0](https://github.com/IliasPap/COVIDNet/blob/master/LICENSE)
+  - License: [GNU General Public License v3.0](https://github.com/IliasPap/COVIDNet/blob/master/LICENSE)
 
 - [zeeshannisar/COVID-19](https://github.com/zeeshannisar/COVID-19)
   - Project description: Detecting and Visualising the Infectious Regions of COVID-19 in X-ray Images Using Different Pretrained-Networks in Tensorflow 2.x.
