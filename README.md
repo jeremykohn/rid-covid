@@ -207,6 +207,7 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 
 - [includeamin/COVID-19](https://github.com/includeamin/COVID-19)
   - Project description: Detection of covid-19 from X-ray images Using keras and tensorflow.
+  - License: [Apache License 2.0](https://github.com/includeamin/COVID-19/blob/master/LICENSE)
 
 - [hortonworks-sk/CML-COVID-CT](https://github.com/hortonworks-sk/CML-COVID-CT)
   - Project description: Diagnosing COVID-19 - Classification of Ground Glass Opacities in CT scans using CML
