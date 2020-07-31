@@ -191,6 +191,10 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [paulinawins/CovidProject](https://github.com/paulinawins/CovidProject)
   - Project description: Covid CT Scan Detection Web Application
 
+- [aniruddh-1/COVID19_Pneumonia_detection/tree/master/codes](https://github.com/aniruddh-1/COVID19_Pneumonia_detection/tree/master/codes)
+  - Project description: Detects Covid-19 Pneumonia signs from CT Scan Images by a CNN Model
+    - Related dataset: https://github.com/aniruddh-1/COVID19_Pneumonia_detection/tree/master/ct_scan_dataset
+
 
 ## Image Data
 
@@ -262,6 +266,11 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 https://drive.google.com/drive/folders/1xdk-mCkxCDNwsMAk2SGv203rY1mrbnPB?usp=sharing
     - Related research paper: [A Fully Automated Deep Learning-based Network For Detecting COVID-19 from a New And Large Lung CT Scan Dataset](https://doi.org/10.1101/2020.06.08.20121541) (Mohammad Rahimzadeh, Abolfazl Attar, Seyed Mohammad Sakhaei)
     - Code repository: https://github.com/mr7495/COVID-CT-Code
+
+- [aniruddh-1/COVID19_Pneumonia_detection/tree/master/ct_scan_dataset](https://github.com/aniruddh-1/COVID19_Pneumonia_detection/tree/master/ct_scan_dataset)
+  - Dataset description: Images taken from https://github.com/UCSD-AI4H/COVID-CT/tree/master/Images-processed and then converted into PNG format
+    - Code repository: https://github.com/aniruddh-1/COVID19_Pneumonia_detection/tree/master/codes
+
 
 ---
 
