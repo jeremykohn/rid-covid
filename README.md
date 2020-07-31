@@ -198,6 +198,33 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [MI-12/BigBIGAN-for-COVID-19](https://github.com/MI-12/BigBIGAN-for-COVID-19)
   - Project description: Code and resorces of the study "End-to-end automatic detection of the Coronavirus disease 2019 (COVID-19) based on CT image"
 
+- [SUMEETRM/covid19-ai](https://github.com/SUMEETRM/covid19-ai)
+  - Project description: The following model aims to present a neural network aimed to detect COVID-19 cases through chest X-Rays.
+  - License: [GNU General Public License v3.0](https://github.com/SUMEETRM/covid19-ai/blob/master/LICENSE)
+
+- [Coronavirus-Visualization-Team/CVT_COVID-CT-CNN](https://github.com/Coronavirus-Visualization-Team/CVT_COVID-CT-CNN)
+  - Project description: Collaboration space/data storage for development of a COVID CT CNN by CVT
+
+- [includeamin/COVID-19](https://github.com/includeamin/COVID-19)
+  - Project description: Detection of covid-19 from X-ray images Using keras and tensorflow.
+
+- [hortonworks-sk/CML-COVID-CT](https://github.com/hortonworks-sk/CML-COVID-CT)
+  - Project description: Diagnosing COVID-19 - Classification of Ground Glass Opacities in CT scans using CML
+    - Related research paper: [Correlation of Chest CT and RT-PCR Testing for Coronavirus Disease 2019 (COVID-19) in China: A Report of 1014 Cases](https://doi.org/10.1148/radiol.2020200642) (Tao Ai, Zhenlu Yang, Hongyan Hou, Chenao Zhan, Chong Chen, Wenzhi Lv, Qian Tao, Ziyong Sun, Liming Xia)
+
+- [ThaisLuca/WNN-Covid-CT](https://github.com/ThaisLuca/WNN-Covid-CT)
+  - Project description: Application of Weightless Neural Networks (WNNs) for Covid-19 detection in CT images. 
+
+- [aaron2181/CovidProject](https://github.com/aaron2181/CovidProject)
+  - Project description: Covid CT Scan Detection Web Application
+
+- [Prerna5194/COVID-19-CT-Classification](https://github.com/Prerna5194/COVID-19-CT-Classification)
+  - Project description: COVID 19 CT Image Classification
+
+- [strcoder4007/COVID-19-Deep-Learning](https://github.com/strcoder4007/COVID-19-Deep-Learning)
+  - Project description: Detecting COVID-19 using X-ray Images, CT Scans and Deep Learning
+
+
 ## Image Data
 
 - [ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)
