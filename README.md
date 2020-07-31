@@ -271,6 +271,12 @@ https://drive.google.com/drive/folders/1xdk-mCkxCDNwsMAk2SGv203rY1mrbnPB?usp=sha
   - Dataset description: Images taken from https://github.com/UCSD-AI4H/COVID-CT/tree/master/Images-processed and then converted into PNG format
     - Code repository: https://github.com/aniruddh-1/COVID19_Pneumonia_detection/tree/master/codes
 
+- [mohammad2682/Covid19-Dataset](https://github.com/mohammad2682/Covid19-Dataset)
+  - Dataset description: This dataset contains 1252 CT scans that are positive for SARS-CoV-2 infection (COVID-19) and 1230 CT scans for patients non-infected by SARS-CoV-2, 2482 CT scans in total.
+    - Dataset on Kaggle: http://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset
+    - Related research paper: [EXPLAINABLE-BY-DESIGN APPROACH FOR COVID-19
+CLASSIFICATION VIA CT-SCAN](https://eprints.lancs.ac.uk/id/eprint/143767/1/EXPLAINABLE_BY_DESIGN_APPROACH_FOR_COVID_19_CLASSI.pdf) (Plamen Angelov and Eduardo Almeida Soares)
+    - Related research paper: [SARS-CoV-2 CT-scan dataset: A large dataset of real patients CT scans for SARS-CoV-2 identification](https://doi.org/10.1101/2020.04.24.20078584) (Eduardo Soares, Plamen Angelov, Sarah Biaso, Michele Higa Froes, Daniel Kanda Abe)
 
 ---
 
