@@ -195,6 +195,8 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
   - Project description: Detects Covid-19 Pneumonia signs from CT Scan Images by a CNN Model
     - Related dataset: https://github.com/aniruddh-1/COVID19_Pneumonia_detection/tree/master/ct_scan_dataset
 
+- [MI-12/BigBIGAN-for-COVID-19](https://github.com/MI-12/BigBIGAN-for-COVID-19)
+  - Project description: Code and resorces of the study "End-to-end automatic detection of the Coronavirus disease 2019 (COVID-19) based on CT image"
 
 ## Image Data
 
