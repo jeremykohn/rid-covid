@@ -232,6 +232,9 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [josehernandezsc/COVID19Net](https://github.com/josehernandezsc/COVID19Net)
   - Project description: COVID19 CT Scan Visual Recognition Project
 
+- [apascuet/covID](https://github.com/apascuet/covID)
+  - Project description: Use of different convolutional neural networks for classification of COVID-19 2D CT images.
+
 
 ## Image Data
 
