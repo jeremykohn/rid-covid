@@ -229,6 +229,9 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
   - Project description: COVID 19 CT SCAN Screening Model
   - Online implementation: https://covid19-ctscan.herokuapp.com/
 
+- [josehernandezsc/COVID19Net](https://github.com/josehernandezsc/COVID19Net)
+  - Project description: COVID19 CT Scan Visual Recognition Project
+
 
 ## Image Data
 
