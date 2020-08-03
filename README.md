@@ -225,6 +225,10 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [strcoder4007/COVID-19-Deep-Learning](https://github.com/strcoder4007/COVID-19-Deep-Learning)
   - Project description: Detecting COVID-19 using X-ray Images, CT Scans and Deep Learning
 
+- [shrey-bansal/COVID19-CTSCAN](https://github.com/shrey-bansal/COVID19-CTSCAN)
+  - Project description: COVID 19 CT SCAN Screening Model
+  - Online implementation: https://covid19-ctscan.herokuapp.com/
+
 
 ## Image Data
 
