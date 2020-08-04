@@ -238,6 +238,12 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [reva2498/Medical-Imaging-Samhar-COVID19](https://github.com/reva2498/Medical-Imaging-Samhar-COVID19)
   - Project description: Detecting COVID-19 in CT Scan images
 
+- [devkumar07/COVID19-CTScanClassifier](https://github.com/devkumar07/COVID19-CTScanClassifier)
+  - Project description: This deep learning model is trained using the CNN model to determine whether the patient is normal or has pneumonia based on the patient's CT Scan image. Furthermore, it can classify the virus that is causing the respiratory illness including COVID-19 with overall accuracy of >90%
+
+- [shawon100/Covid-19-Disease-Diagnosis](https://github.com/shawon100/Covid-19-Disease-Diagnosis)
+  - Project description: Covid-19 Diagnosis Python Flask Web App . It can detect COVID-19 from CT Scan Medical Images
+
 
 ## Image Data
 
