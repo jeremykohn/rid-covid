@@ -235,6 +235,9 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [apascuet/covID](https://github.com/apascuet/covID)
   - Project description: Use of different convolutional neural networks for classification of COVID-19 2D CT images.
 
+- [reva2498/Medical-Imaging-Samhar-COVID19](https://github.com/reva2498/Medical-Imaging-Samhar-COVID19)
+  - Project description: Detecting COVID-19 in CT Scan images
+
 
 ## Image Data
 
