@@ -244,6 +244,18 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [shawon100/Covid-19-Disease-Diagnosis](https://github.com/shawon100/Covid-19-Disease-Diagnosis)
   - Project description: Covid-19 Diagnosis Python Flask Web App . It can detect COVID-19 from CT Scan Medical Images
 
+- [tkseneee/COVID19_Image_Classification](https://github.com/tkseneee/COVID19_Image_Classification)
+  - Project description: Basic CNN model for classifying COVID19 from CT chest image.
+
+- [shengrenhou/COVID-19-Detection](https://github.com/shengrenhou/COVID-19-Detection)
+  - Project description: Detecting COVID-19 by Resnet neural network
+
+- [jiangdat/COVID-19](https://github.com/jiangdat/COVID-19)
+  - Project description: Deep Learning for COVID-19 chest CT image analysis
+
+- [am-uff/covid19-ct](https://github.com/am-uff/covid19-ct)
+  - Project description: Diagnosis of Covid-19 based on chest CT using Deep Learning (Diagnóstico da Covid-19 com base em TC de Tórax utilizando Deep Learning)
+
 
 ## Image Data
 
