@@ -249,6 +249,7 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 
 - [shengrenhou/COVID-19-Detection](https://github.com/shengrenhou/COVID-19-Detection)
   - Project description: Detecting COVID-19 by Resnet neural network
+  - License: [MIT License](https://github.com/shengrenhou/COVID-19-Detection/blob/master/LICENSE)
 
 - [jiangdat/COVID-19](https://github.com/jiangdat/COVID-19)
   - Project description: Deep Learning for COVID-19 chest CT image analysis
