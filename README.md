@@ -266,6 +266,7 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 
 - [bigvisionai/covid-ct-challenge](https://github.com/bigvisionai/covid-ct-challenge)
   - Project description: This repo contains the code for the COVID-CT Challenge ("CT diagnosis of COVID-19," https://covid-ct.grand-challenge.org/CT-diagnosis-of-COVID-19)
+  - License: [MIT License](https://github.com/bigvisionai/covid-ct-challenge/blob/master/LICENSE)
 
 - [shuxg2017/COVID19-CTscan-image-classification](https://github.com/shuxg2017/COVID19-CTscan-image-classification)
   - Project description: In this project, we were trying to classify NonCOVID and COVID CT scan images. We built an autoencoder to extract latent space features. Then by using the latent space features, we can classify the images by using K nearest neighbor and Bayesian model.
