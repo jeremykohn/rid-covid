@@ -276,6 +276,7 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 
 - [alext234/covid19-models-testing](https://github.com/alext234/covid19-models-testing)
   - Project description: Testing various deep learning models that detect COVID-19 based on X-ray images or CT scan images
+  - License: [Apache License 2.0](https://github.com/alext234/covid19-models-testing/blob/master/LICENSE)
 
 - [T-SHARMILA/Covid-19-CT-scans](https://github.com/T-SHARMILA/Covid-19-CT-scans)
   - Project description: Classification of Covid-19 CT scans and Non-covid CT scans using Transfer Learning(VGG-16 model)
