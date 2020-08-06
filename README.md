@@ -270,6 +270,30 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [shuxg2017/COVID19-CTscan-image-classification](https://github.com/shuxg2017/COVID19-CTscan-image-classification)
   - Project description: In this project, we were trying to classify NonCOVID and COVID CT scan images. We built an autoencoder to extract latent space features. Then by using the latent space features, we can classify the images by using K nearest neighbor and Bayesian model.
 
+- [Divyakathirvel26/Covid-19](https://github.com/Divyakathirvel26/Covid-19)
+  - Project description: Detection of Covid-19 using CNN with X-ray and CT-scan images
+
+- [alext234/covid19-models-testing](https://github.com/alext234/covid19-models-testing)
+  - Project description: Testing various deep learning models that detect COVID-19 based on X-ray images or CT scan images
+
+- [T-SHARMILA/Covid-19-CT-scans](https://github.com/T-SHARMILA/Covid-19-CT-scans)
+  - Project description: Classification of Covid-19 CT scans and Non-covid CT scans using Transfer Learning(VGG-16 model)
+
+- [bjmcshane/Covid-19_CTscans](https://github.com/bjmcshane/Covid-19_CTscans)
+  - Project description: My convolutional neural network built to diagnose coronavirus by looking at CT scans.
+
+- [varna30/COVID-19-Classifier](https://github.com/varna30/COVID-19-Classifier)
+  - Project description: Detection of COVID-19 from standard Machine Learning Algorithms using CT scan images dataset
+
+- [Ayazdi/COVID-19-Diagnosis](https://github.com/Ayazdi/COVID-19-Diagnosis)
+  - Project description: A web based engine to diagnose COVID-19 by CT scans
+
+- [jlcadavid/COVID-19_CNN_Project](https://github.com/jlcadavid/COVID-19_CNN_Project)
+  - Project description: COVID-19 (Coronavirus) CT Scanner using Convolutional Neural Network (CNN) classifier.
+
+- [pourabkarchaudhuri/covid-19-classification-x-ray](https://github.com/pourabkarchaudhuri/covid-19-classification-x-ray)
+  - Project description: Deep Learning based COVID-19 affect lungs CT-scan classification to healthy or infected
+
 
 ## Image Data
 
