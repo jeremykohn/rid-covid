@@ -257,6 +257,19 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [am-uff/covid19-ct](https://github.com/am-uff/covid19-ct)
   - Project description: Diagnosis of Covid-19 based on chest CT using Deep Learning (Diagnóstico da Covid-19 com base em TC de Tórax utilizando Deep Learning)
 
+- [raunak-sood2003/COVID-19-Classification](https://github.com/raunak-sood2003/COVID-19-Classification)
+  - Project description: Automated Classification of COVID-19 in lung CT scans
+    - Related article: [Using pretrained deep convolutional neural networks for binary classification of COVID-19 CT scans](https://towardsdatascience.com/using-pretrained-deep-convolutional-neural-networks-for-binary-classification-of-covid-19-ct-scans-3a7f7ea8b543)
+
+- [ThomasMerkh/covid-ct](https://github.com/ThomasMerkh/covid-ct)
+  - Project description: This repository contains a deep convolutional network trained on CT data for the binary classification of COVID/Non-COVID. Transfer learning was used here, where I utilized a pre-trained COVID-Net model (see https://arxiv.org/abs/2003.09871v1), and fine-tuned the parameters of the network using the training set. 
+
+- [bigvisionai/covid-ct-challenge](https://github.com/bigvisionai/covid-ct-challenge)
+  - Project description: This repo contains the code for the COVID-CT Challenge ("CT diagnosis of COVID-19," https://covid-ct.grand-challenge.org/CT-diagnosis-of-COVID-19)
+
+- [shuxg2017/COVID19-CTscan-image-classification](https://github.com/shuxg2017/COVID19-CTscan-image-classification)
+  - Project description: In this project, we were trying to classify NonCOVID and COVID CT scan images. We built an autoencoder to extract latent space features. Then by using the latent space features, we can classify the images by using K nearest neighbor and Bayesian model.
+
 
 ## Image Data
 
