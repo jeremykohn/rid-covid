@@ -294,6 +294,40 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [pourabkarchaudhuri/covid-19-classification-x-ray](https://github.com/pourabkarchaudhuri/covid-19-classification-x-ray)
   - Project description: Deep Learning based COVID-19 affect lungs CT-scan classification to healthy or infected
 
+- [Divyakathirvel26/Covid-19](https://github.com/Divyakathirvel26/Covid-19)
+  - Project description: Detection of Covid-19 using CNN with X-ray and CT-scan images
+
+- [alext234/covid19-models-testing](https://github.com/alext234/covid19-models-testing)
+  - Project description: Testing various deep learning models that detect COVID-19 based on X-ray images or CT scan images
+
+- [T-SHARMILA/Covid-19-CT-scans](https://github.com/T-SHARMILA/Covid-19-CT-scans)
+  - Project description: Classification of Covid-19 CT scans and Non-covid CT scans using Transfer Learning(VGG-16 model)
+
+- [bjmcshane/Covid-19_CTscans](https://github.com/bjmcshane/Covid-19_CTscans)
+  - Project description: My convolutional neural network built to diagnose coronavirus by looking at CT scans.
+
+- [varna30/COVID-19-Classifier](https://github.com/varna30/COVID-19-Classifier)
+  - Project description: Detection of COVID-19 from standard Machine Learning Algorithms using CT scan images dataset
+
+- [Ayazdi/COVID-19-Diagnosis](https://github.com/Ayazdi/COVID-19-Diagnosis)
+  - Project description: A web based engine to diagnose COVID-19 by CT scans
+
+- [jlcadavid/COVID-19_CNN_Project](https://github.com/jlcadavid/COVID-19_CNN_Project)
+  - Project description: COVID-19 (Coronavirus) CT Scanner using Convolutional Neural Network (CNN) classifier.
+
+- [pourabkarchaudhuri/covid-19-classification-x-ray](https://github.com/pourabkarchaudhuri/covid-19-classification-x-ray)
+  - Project description: Deep Learning based COVID-19 affect lungs CT-scan classification to healthy or infected
+
+- [aayush9400/Covid-19-CT-SCAN-Classifier](https://github.com/aayush9400/Covid-19-CT-SCAN-Classifier)
+  - Project description: This is a project with a working website integrated with a CNN model to make predictions whether a patient is covid-19 positive or not
+
+- [yaseenaiman/COVID19_detector](https://github.com/yaseenaiman/COVID19_detector)
+  - Project description: A deep learning algorithm using Colab and Tensorflow to predict whether or not a person has COVID-19 by uploading his/her CT scan
+    - Related blog post: https://yaseenaimanmohammed.wordpress.com/2020/04/06/covid-19-detector/
+
+- [moklesur1993/COVID-Attention](https://github.com/moklesur1993/COVID-Attention)
+  - Project description: An Attention based deep neural network for recognition of COVID-19 cases from CT images
+
 
 ## Image Data
 
