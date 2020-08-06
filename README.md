@@ -289,6 +289,7 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 
 - [Ayazdi/COVID-19-Diagnosis](https://github.com/Ayazdi/COVID-19-Diagnosis)
   - Project description: A web based engine to diagnose COVID-19 by CT scans
+  - License: [MIT License](https://github.com/Ayazdi/COVID-19-Diagnosis/blob/master/LICENSE)
 
 - [jlcadavid/COVID-19_CNN_Project](https://github.com/jlcadavid/COVID-19_CNN_Project)
   - Project description: COVID-19 (Coronavirus) CT Scanner using Convolutional Neural Network (CNN) classifier.
