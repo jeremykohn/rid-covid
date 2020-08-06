@@ -328,6 +328,12 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [moklesur1993/COVID-Attention](https://github.com/moklesur1993/COVID-Attention)
   - Project description: An Attention based deep neural network for recognition of COVID-19 cases from CT images
 
+- [xiaoxuegao499/LA-DNN-for-COVID-19-diagnosis](https://github.com/xiaoxuegao499/LA-DNN-for-COVID-19-diagnosis)
+  - Project description: Online COVID-19 diagnosis with chest CT images: Lesion-attention deep neural networks
+
+- [shujams/CT-AI-Deep-Learning-Project](https://github.com/shujams/CT-AI-Deep-Learning-Project)
+  - Project description: 2019-nCoV Categorization and Prediction: A Deep Learning Analysis. Thoracic CT Scan Classification and Probable Diagnosis of COVID-19 Utilizing ML/Fast.ai Libraries.
+
 
 ## Image Data
 
