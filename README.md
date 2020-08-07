@@ -313,6 +313,11 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [shujams/CT-AI-Deep-Learning-Project](https://github.com/shujams/CT-AI-Deep-Learning-Project)
   - Project description: 2019-nCoV Categorization and Prediction: A Deep Learning Analysis. Thoracic CT Scan Classification and Probable Diagnosis of COVID-19 Utilizing ML/Fast.ai Libraries.
 
+- [arthursdays/HKBU_HPML_COVID-19](https://github.com/arthursdays/HKBU_HPML_COVID-19)
+  - Project description: Source code of paper "Benchmarking Deep Learning Models and Automated Model Design for COVID-19 Detection with Chest CT Scans".
+    - Related research paper: [Benchmarking Deep Learning Models and Automated Model Design for COVID-19 Detection with Chest CT Scans](https://www.medrxiv.org/content/10.1101/2020.06.08.20125963v2) (Xin He, Shihao Wang, Shaohuai Shi, Xiaowen Chu, Jiangping Tang, Xin Liu, Chenggang Yan,  View ORCID ProfileJiyong Zhang, Guiguang Ding)
+
+
 
 ## Image Data
 
