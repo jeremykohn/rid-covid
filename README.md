@@ -399,7 +399,8 @@ CLASSIFICATION VIA CT-SCAN](https://eprints.lancs.ac.uk/id/eprint/143767/1/EXPLA
 - [ncbi-nlp/COVID-19-CT-CXR](https://github.com/ncbi-nlp/COVID-19-CT-CXR)
   - Dataset description: COVID-19-CT-CXR is a public database of COVID-19 CXR and CT images, which are automatically extracted from COVID-19-relevant articles from the PubMed Central Open Access (PMC-OA) Subset.
     - Related research paper: [COVID-19-CT-CXR: a freely accessible and weakly labeled chest X-ray and CT image collection on COVID-19 from biomedical literature](https://arxiv.org/abs/2006.06177) (Yifan Peng, Yu-Xing Tang, Sungwon Lee, Yingying Zhu, Ronald M. Summers, Zhiyong Lu)
-
+  - License: [Public domain as a "United States Government Work" under the terms of the United States Copyright Act.](https://github.com/ncbi-nlp/COVID-19-CT-CXR/blob/master/LICENSE.txt)
+    - Please cite the author in any work or product based on this material: Peng Y, Tang YX, Lee S, Zhu Y, Summers RM, Lu Z. COVID-19-CT-CXR: a freely accessible and weakly labeled chest X-ray and CT image collection on COVID-19 from the biomedical literature. 2020.
 
 ---
 
