@@ -420,6 +420,10 @@ CLASSIFICATION VIA CT-SCAN](https://eprints.lancs.ac.uk/id/eprint/143767/1/EXPLA
     - If you're using this dataset, please cite: Peng Y, Tang YX, Lee S, Zhu Y, Summers RM, Lu Z. COVID-19-CT-CXR: a freely accessible and weakly labeled chest X-ray and CT image collection on COVID-19 from the biomedical literature. arxiv:2006.06177. 2020.
     - Related research paper: [COVID-19-CT-CXR: a freely accessible and weakly labeled chest X-ray and CT image collection on COVID-19 from biomedical literature](https://arxiv.org/abs/2006.06177) (Yifan Peng, Yu-Xing Tang, Sungwon Lee, Yingying Zhu, Ronald M. Summers, Zhiyong Lu)
 
+- [A large dataset of real patients CT scans for COVID-19 identification](https://doi.org/10.7910/DVN/SZDUQX)
+  - Dataset description: We describe a publicly available multiclass CT scan dataset for SARS-CoV-2 infection identification. These data have been collected in the Public Hospital of the Government Employees of Sao Paulo (HSPM) and the Metropolitan Hospital of Lapa, both in Sao Paulo - Brazil. 
+    - Related research paper: [SARS-CoV-2 CT-scan dataset: A large dataset of real patients CT scans for SARS-CoV-2 identification](https://www.medrxiv.org/content/10.1101/2020.04.24.20078584v3) (Eduardo Soares, Plamen Angelov, Sarah Biaso, Michele Higa Froes, Daniel Kanda Abe)
+  - Citation: Soares, Eduardo; Angelov, Plamen, 2020, "A large dataset of real patients CT scans for COVID-19 identification", https://doi.org/10.7910/DVN/SZDUQX, Harvard Dataverse, V1
 
 ---
 
