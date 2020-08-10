@@ -340,6 +340,11 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [themendu/covid_from_ctscan](https://github.com/themendu/covid_from_ctscan)
   - Project description: Model which can predict COVID-19 positive case from axial lung CT-scan images.
 
+- [shervinmin/DeepCovid](https://github.com/shervinmin/DeepCovid)
+  - Project description: In this repository, we provide the PyTorch implementation of the DeepCovid Framework (the training and inference code) for the research community to use.
+    - Related research paper: [Deep-COVID: Predicting COVID-19 From Chest X-Ray Images Using Deep Transfer
+Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb, Milan Sonkac, Shakib Yazdanid, Ghazaleh Jamalipour Souf)
+    - Related dataset: [COVID-XRay-5K DATASET](https://github.com/shervinmin/DeepCovid/tree/master/data) from two sources: [Covid-Chestxray-Dataset](https://github.com/ieee8023/covid-chestxray-dataset) for COVID-19 X-ray samples, and [ChexPert Dataset](https://stanfordmlgroup.github.io/competitions/chexpert/) for Non-COVID samples.
 
 ## Image Data
 
