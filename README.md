@@ -317,6 +317,21 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
   - Project description: Source code of paper "Benchmarking Deep Learning Models and Automated Model Design for COVID-19 Detection with Chest CT Scans".
     - Related research paper: [Benchmarking Deep Learning Models and Automated Model Design for COVID-19 Detection with Chest CT Scans](https://www.medrxiv.org/content/10.1101/2020.06.08.20125963v2) (Xin He, Shihao Wang, Shaohuai Shi, Xiaowen Chu, Jiangping Tang, Xin Liu, Chenggang Yan, Jiyong Zhang, Guiguang Ding)
 
+- [saanville/CovidCT](https://github.com/saanville/CovidCT)
+  - Project description: Detection of COVID-19 by classifying Lungs CT scan
+
+- [ilmimris/ct-covid19-model](https://github.com/ilmimris/ct-covid19-model)
+  - Project description: Detecting COVID-19 in X-ray images with Keras, TensorFlow, and Deep Learning
+
+- [GastonLagaffe2013/Covid-19-Classifier](https://github.com/GastonLagaffe2013/Covid-19-Classifier)
+  - Project description: Classify COVID-19 CT images using ResNeXt and other networks
+
+- [amartinez2020/COVID_CT](https://github.com/amartinez2020/COVID_CT)
+  - Project description: Classification of COVID-19 in CT Scans using Multi-Source Transfer Learning
+
+- [Arindam-coder/COVID19-Detection-from-Chest-CT-Scan](https://github.com/Arindam-coder/COVID19-Detection-from-Chest-CT-Scan)
+  - Project description: Image classification project using CNN. I have used a dataset which I have got from Harvard University’s site, https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FSZDUQX
+  - License: [MIT License](https://github.com/Arindam-coder/COVID19-Detection-from-Chest-CT-Scan/blob/master/LICENSE)
 
 ## Image Data
 
