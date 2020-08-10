@@ -346,6 +346,15 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb, Milan Sonkac, Shakib Yazdanid, Ghazaleh Jamalipour Souf)
     - Related dataset: [COVID-XRay-5K DATASET](https://github.com/shervinmin/DeepCovid/tree/master/data) from two sources: [Covid-Chestxray-Dataset](https://github.com/ieee8023/covid-chestxray-dataset) for COVID-19 X-ray samples, and [ChexPert Dataset](https://stanfordmlgroup.github.io/competitions/chexpert/) for Non-COVID samples.
 
+- [arunpandian7/covid-19-detection](https://github.com/arunpandian7/covid-19-detection)
+  - Project description: Covid-19 Detection using CT Scan of Lung Infections with Deep Learning and Computer Vision
+  - Flask app for deployment: https://github.com/arunpandian7/covid-detector-flask
+    - Online demo: https://covid-xray-detector.herokuapp.com/
+
+- [TianxingWang0/COVID-19-CT-Diagnose](https://github.com/TianxingWang0/COVID-19-CT-Diagnose)
+  - Project description: Pretrained (imagenet) ResNet50 with 3 classification.
+
+
 ## Image Data
 
 - [ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)
