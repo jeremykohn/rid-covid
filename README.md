@@ -315,8 +315,7 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 
 - [arthursdays/HKBU_HPML_COVID-19](https://github.com/arthursdays/HKBU_HPML_COVID-19)
   - Project description: Source code of paper "Benchmarking Deep Learning Models and Automated Model Design for COVID-19 Detection with Chest CT Scans".
-    - Related research paper: [Benchmarking Deep Learning Models and Automated Model Design for COVID-19 Detection with Chest CT Scans](https://www.medrxiv.org/content/10.1101/2020.06.08.20125963v2) (Xin He, Shihao Wang, Shaohuai Shi, Xiaowen Chu, Jiangping Tang, Xin Liu, Chenggang Yan,  View ORCID ProfileJiyong Zhang, Guiguang Ding)
-
+    - Related research paper: [Benchmarking Deep Learning Models and Automated Model Design for COVID-19 Detection with Chest CT Scans](https://www.medrxiv.org/content/10.1101/2020.06.08.20125963v2) (Xin He, Shihao Wang, Shaohuai Shi, Xiaowen Chu, Jiangping Tang, Xin Liu, Chenggang Yan, Jiyong Zhang, Guiguang Ding)
 
 
 ## Image Data
@@ -375,7 +374,7 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 
 - [SARS-COV-2 Ct-Scan Dataset](https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset)
   - Dataset description: A large dataset of CT scans for SARS-CoV-2 (COVID-19) identification
-    - Related research paper: [SARS-CoV-2 CT-scan dataset: A large dataset of real patients CT scans for SARS-CoV-2 identification](https://www.medrxiv.org/content/10.1101/2020.04.24.20078584v3) (Eduardo Soares,  View ORCID ProfilePlamen Angelov, Sarah Biaso, Michele Higa Froes, Daniel Kanda Abe)
+    - Related research paper: [SARS-CoV-2 CT-scan dataset: A large dataset of real patients CT scans for SARS-CoV-2 identification](https://www.medrxiv.org/content/10.1101/2020.04.24.20078584v3) (Eduardo Soares, Plamen Angelov, Sarah Biaso, Michele Higa Froes, Daniel Kanda Abe)
     - Code repository: https://github.com/Plamen-Eduardo/xDNN-SARS-CoV-2-CT-Scan
   - License: [CC BY-NC-SA 4.0](https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset)
 
