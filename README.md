@@ -333,6 +333,14 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
   - Project description: Image classification project using CNN. I have used a dataset which I have got from Harvard University’s site, https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FSZDUQX
   - License: [MIT License](https://github.com/Arindam-coder/COVID19-Detection-from-Chest-CT-Scan/blob/master/LICENSE)
 
+- [junyuchen245/COVID19_CT_Segmentation_3DSlicer](https://github.com/junyuchen245/COVID19_CT_Segmentation_3DSlicer)
+  - Project description: An extension module in [3DSlicer](https://www.slicer.org/) for COVID19 CT segmentation using Convolutional Neural Networks.
+  - License: [MIT License](https://github.com/junyuchen245/COVID19_CT_Segmentation_3DSlicer/blob/master/LICENSE)
+
+- [themendu/covid_from_ctscan](https://github.com/themendu/covid_from_ctscan)
+  - Project description: Model which can predict COVID-19 positive case from axial lung CT-scan images.
+
+
 ## Image Data
 
 - [ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)
