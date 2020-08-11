@@ -354,6 +354,12 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [TianxingWang0/COVID-19-CT-Diagnose](https://github.com/TianxingWang0/COVID-19-CT-Diagnose)
   - Project description: Pretrained (imagenet) ResNet50 with 3 classification.
 
+- [sensynehealth/lung-ct-covid-pathology-detection](https://github.com/sensynehealth/lung-ct-covid-pathology-detection)
+  - Project description: Early exploration of detecting signs of lung pathology in COVID-19 Lung CT cases
+    - Related blog post:  "A weekend, a ‘virtual’ hackathon and ML approaches to automate the analysis of COVID-19 lung CT scans" ([Sensyne Health](https://www.sensynehealth.com/newsroom/a-weekend-a-virtual-hackathon-and-ml-approaches-to-automate-the-analysis-of-covid-19-lung-ct-scans), [Medium](https://medium.com/@heaven_spring_cheetah_212/a-weekend-a-virtual-hackathon-and-ml-approaches-to-automate-the-analysis-of-covid-19-lung-ct-5ad4c89fe03c))
+  - License: [MIT License](https://github.com/sensynehealth/lung-ct-covid-pathology-detection/blob/master/LICENSE)
+
+
 
 ## Image Data
 
