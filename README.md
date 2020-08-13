@@ -365,6 +365,25 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [andi-iqbal/covid-chestxray](https://github.com/andi-iqbal/covid-chestxray)
   - Project description: A Machine Learning project with aim to predict COVID-19 diagnosis using X-Ray and CT Scan Images
 
+- [Firoxon/covid-flask-deploy](https://github.com/Firoxon/covid-flask-deploy)
+  - Project description: The deploy-able solution of ML Based COVID Detector using X-ray and CT Scans of Lungs
+  - License: [MIT License](https://github.com/Firoxon/covid-flask-deploy/blob/master/LICENSE)
+
+- [AdityaPotluri/CoronaCT](https://github.com/AdityaPotluri/CoronaCT)
+  - Project description: Determines whether a given CT scan has coronavirus or not.
+
+- [melanieshi0120/COVID_19_chest_CT_Image_Classification](https://github.com/melanieshi0120/COVID_19_chest_CT_Image_Classification)
+  - Project description: Image Classification: Neural Network/ Random Forest
+
+- [durvesh8/COVID-19-Classifier-based-on-CT-Scans](https://github.com/durvesh8/COVID-19-Classifier-based-on-CT-Scans)
+  - Project description: A classifier based on Tensorflow and Keras. The model which was used for this classifier was DenseNet121. 
+
+- [sandijean90/covid-19](https://github.com/sandijean90/covid-19)
+  - Project description: Using FastAI/PyTorch to create a CNN (Convolutional Neural Network) to predict whether an X-ray or CT Image is COVID-19 positive or negative (binary output).
+
+- [nnassime/A-simple-and-useful-code-for-covid-19-detection-on-CT-Scans](https://github.com/nnassime/A-simple-and-useful-code-for-covid-19-detection-on-CT-Scans)
+  - Project description: A simple tensorflow and keras code useful for the covid 19 detection on CT scans.
+
 
 ## Image Data
 
