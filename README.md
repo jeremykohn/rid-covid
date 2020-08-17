@@ -384,6 +384,9 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [nnassime/A-simple-and-useful-code-for-covid-19-detection-on-CT-Scans](https://github.com/nnassime/A-simple-and-useful-code-for-covid-19-detection-on-CT-Scans)
   - Project description: A simple tensorflow and keras code useful for the covid 19 detection on CT scans.
 
+- [Rushikesh042/COVID-19-Detection-using-Deep-Learning](https://github.com/Rushikesh042/COVID-19-Detection-using-Deep-Learning)
+  - Project description: Development of a deep learning-based model for automatic Covid-19 detection on chest CT to counter the outbreak of SARS-CoV-2
+
 
 ## Image Data
 
