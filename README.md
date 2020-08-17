@@ -387,6 +387,9 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [Rushikesh042/COVID-19-Detection-using-Deep-Learning](https://github.com/Rushikesh042/COVID-19-Detection-using-Deep-Learning)
   - Project description: Development of a deep learning-based model for automatic Covid-19 detection on chest CT to counter the outbreak of SARS-CoV-2
 
+- [umarshakeb/WWCode-Image_Classification](https://github.com/umarshakeb/WWCode-Image_Classification)
+  - Project description: The project aims to use Chest X-Ray and CT Scan images to identify patients who are COVID positive.
+
 
 ## Image Data
 
