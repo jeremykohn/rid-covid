@@ -483,6 +483,11 @@ CLASSIFICATION VIA CT-SCAN](https://eprints.lancs.ac.uk/id/eprint/143767/1/EXPLA
     - Related research paper: [SARS-CoV-2 CT-scan dataset: A large dataset of real patients CT scans for SARS-CoV-2 identification](https://www.medrxiv.org/content/10.1101/2020.04.24.20078584v3) (Eduardo Soares, Plamen Angelov, Sarah Biaso, Michele Higa Froes, Daniel Kanda Abe)
     - Dataset citation: Soares, Eduardo; Angelov, Plamen, 2020, "A large dataset of real patients CT scans for COVID-19 identification", https://doi.org/10.7910/DVN/SZDUQX, Harvard Dataverse, V1
 
+- [lido1500/Extensive-and-Augmented-COVID-19-X-Ray-and-CT-Chest-Images-Dataset-](https://github.com/lido1500/Extensive-and-Augmented-COVID-19-X-Ray-and-CT-Chest-Images-Dataset-)
+  - Dataset description: This COVID-19 dataset consists of Non-COVID and COVID cases of both X-ray and CT images. The associated dataset is augmented with different augmentation techniques to generate about 17100 X-ray and CT images. 
+    - You can download this dataset from the following link: https://data.mendeley.com/datasets/8h65ywd2jr/2
+    - Dataset citation: El-Shafai, Walid; E. Abd El-Samie, Fathi (2020), “Extensive and Augmented COVID-19 X-Ray and CT Chest Images Dataset”, Mendeley Data, v2
+    - Other dataset versions: [v1](https://data.mendeley.com/datasets/8h65ywd2jr/1), [v2](https://data.mendeley.com/datasets/8h65ywd2jr/2), [v3](https://data.mendeley.com/datasets/8h65ywd2jr/3)
 
 
 ---
