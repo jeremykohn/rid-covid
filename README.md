@@ -44,7 +44,7 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 
 - [elcronos/COVID-19](https://github.com/elcronos/COVID-19) (Predecessor of [FightCOVID19](https://github.com/FightCOVID19))
   - Project description: COVID-19 Detector from x-rays using Computer Vision and Deep Learning
-  - License: COVID-19 Detector by Camilo Pestana is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.
+  - License: COVID-19 Detector by Camilo Pestana is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
 
 - [FightCOVID19](https://github.com/FightCOVID19)
   - Project description: Fight COVID-19 is a non-profit, collaborative community democratising AI to assist in the detection and triage of COVID-19 cases
@@ -410,7 +410,7 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 
 - [ml-workgroup/covid-19-image-repository](https://github.com/ml-workgroup/covid-19-image-repository)
   - Dataset description: This project aims to create an anonymized data set of COVID-19 cases with a focus on radiological imaging. This includes images with extensive metadata, such as admission-, ICU-, laboratory-, and patient master-data.
-  - License: CC BY 3.0
+  - License: [Creative Commons CC BY 3.0](https://github.com/ml-workgroup/covid-19-image-repository/blob/master/LICENSE)
 
 - [UCSD-AI4H/COVID-CT](https://github.com/UCSD-AI4H/COVID-CT)
   - Dataset description: The COVID-CT-Dataset has CT images containing clinical findings of COVID-19. We are continuously adding new COVID CT images and we would like to invite the community to contribute COVID CTs as well.
@@ -459,7 +459,7 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
   - Dataset description: A large dataset of CT scans for SARS-CoV-2 (COVID-19) identification
     - Related research paper: [SARS-CoV-2 CT-scan dataset: A large dataset of real patients CT scans for SARS-CoV-2 identification](https://www.medrxiv.org/content/10.1101/2020.04.24.20078584v3) (Eduardo Soares, Plamen Angelov, Sarah Biaso, Michele Higa Froes, Daniel Kanda Abe)
     - Code repository: https://github.com/Plamen-Eduardo/xDNN-SARS-CoV-2-CT-Scan
-  - License: [CC BY-NC-SA 4.0](https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset)
+  - License: [Creative Commons CC BY-NC-SA 4.0](https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset)
 
 - [China National Center for Bioinformation: 2019 Novel Coronavirus Resource (2019nCoVR)](http://ncov-ai.big.ac.cn/download?lang=en)
   - Dataset description: Dataset of the CT images and metadata are constructed from cohorts from the China Consortium of Chest CT Image Investigation (CC-CCII). All CT images are classified into novel coronavirus pneumonia (NCP) due to SARS-CoV-2 virus infection, common pneumonia and normal controls. This dataset is available globally with the aim to assist the clinicians and researchers to combat the COVID-19 pandemic.
