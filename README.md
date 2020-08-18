@@ -390,6 +390,16 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [umarshakeb/WWCode-Image_Classification](https://github.com/umarshakeb/WWCode-Image_Classification)
   - Project description: The project aims to use Chest X-Ray and CT Scan images to identify patients who are COVID positive.
 
+- [modabbir24/Build-COVID19-Classifiers-Based-on-Medical-Imaging](https://github.com/modabbir24/Build-COVID19-Classifiers-Based-on-Medical-Imaging)
+  - Project description: We developed an advanced machine learning-based classifier that can scan chest X-rays and classify COVID19 positive cases and negative cases.
+
+- [JunyuanLin/Capstone_Project_COVID-19_CNN_classification_based_on_Lung_CT_-Scans](https://github.com/JunyuanLin/Capstone_Project_COVID-19_CNN_classification_based_on_Lung_CT_-Scans)
+  - Project description: This project aims to develop a convolutional neural network (CNN) based model to identify COVID-19 positive patients based on their lung CT scans.
+  - License: [GNU General Public License v3.0](https://github.com/JunyuanLin/Capstone_Project_COVID-19_CNN_classification_based_on_Lung_CT_-Scans/blob/master/LICENSE)
+
+- [kabaka121212/Identify-COVID-19-from-chest-X-ray-images-by-Artificial-Intelligence](https://github.com/kabaka121212/Identify-COVID-19-from-chest-X-ray-images-by-Artificial-Intelligence)
+  - Project description: Seeking the best and cheapest way to diagnose individuals with COVID-19 infections or suspects.
+
 
 ## Image Data
 
