@@ -400,6 +400,11 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [kabaka121212/Identify-COVID-19-from-chest-X-ray-images-by-Artificial-Intelligence](https://github.com/kabaka121212/Identify-COVID-19-from-chest-X-ray-images-by-Artificial-Intelligence)
   - Project description: Seeking the best and cheapest way to diagnose individuals with COVID-19 infections or suspects.
 
+- [BrixIA/Brixia-score-COVID-19](https://github.com/BrixIA/Brixia-score-COVID-19)
+  - Project description: Info, code (BS-Net), link to data (BrixIA COVID-19 Dataset annotated with Brixia-score), and additional material related to the BrixIA COVID-19 Project
+    - Related research paper: [End-to-end learning for semiquantitative rating of COVID-19 severity on Chest X-rays](https://arxiv.org/abs/2006.04603) (Alberto Signoroni, Mattia Savardi, Sergio Benini, Nicola Adami, Riccardo Leonardi, Paolo Gibellini, Filippo Vaccher, Marco Ravanelli, Andrea Borghesi, Roberto Maroldi, Davide Farina (University of Brescia))
+    - Related dataset: [BrixIA: COVID19 severity score assessment project and database](https://brixia.github.io/)
+
 
 ## Image Data
 
@@ -499,6 +504,10 @@ CLASSIFICATION VIA CT-SCAN](https://eprints.lancs.ac.uk/id/eprint/143767/1/EXPLA
     - Dataset citation: El-Shafai, Walid; E. Abd El-Samie, Fathi (2020), “Extensive and Augmented COVID-19 X-Ray and CT Chest Images Dataset”, Mendeley Data, v2
     - Other dataset versions: [v1](https://data.mendeley.com/datasets/8h65ywd2jr/1), [v2](https://data.mendeley.com/datasets/8h65ywd2jr/2), [v3](https://data.mendeley.com/datasets/8h65ywd2jr/3)
 
+- [BrixIA: COVID19 severity score assessment project and database](https://brixia.github.io/)
+  - Dataset description: We designed an end-to-end deep learning architecture for predicting, on Chest X-rays images (CRX), a multi-regional score conveying the degree of lung compromise in COVID-19 patients. Such scoring system, namely Brixia score, was applied in serial monitoring of such patients, showing significant prognostic value, in one of the hospitals that experienced one of the highest pandemic peaks in Italy. Moreover, we provide the full dataset with the related metadata and Brixia score annotations, and the code to reproduce our results.
+    - Related research paper: [End-to-end learning for semiquantitative rating of COVID-19 severity on Chest X-rays](https://arxiv.org/abs/2006.04603) (Alberto Signoroni, Mattia Savardi, Sergio Benini, Nicola Adami, Riccardo Leonardi, Paolo Gibellini, Filippo Vaccher, Marco Ravanelli, Andrea Borghesi, Roberto Maroldi, Davide Farina (University of Brescia))
+    - Code repository: [BrixIA/Brixia-score-COVID-19](https://github.com/BrixIA/Brixia-score-COVID-19)
 
 ---
 
