@@ -405,6 +405,10 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
     - Related research paper: [End-to-end learning for semiquantitative rating of COVID-19 severity on Chest X-rays](https://arxiv.org/abs/2006.04603) (Alberto Signoroni, Mattia Savardi, Sergio Benini, Nicola Adami, Riccardo Leonardi, Paolo Gibellini, Filippo Vaccher, Marco Ravanelli, Andrea Borghesi, Roberto Maroldi, Davide Farina (University of Brescia))
     - Related dataset: [BrixIA: COVID19 severity score assessment project and database](https://brixia.github.io/)
 
+- [COVID-19-AI-Research-Project/AI-Classification](https://github.com/COVID-19-AI-Research-Project/AI-Classification)
+  - Project description: Open source Artificial Intelligence for COVID-19 detection/early detection. Includes Convolutional Neural Networks (CNN) & Generative Adversarial Networks (GAN)
+  - Project Facebook page: [Peter Moss Covid-19 AI Research Project](https://www.facebook.com/covid19airesearch)
+
 
 ## Image Data
 
