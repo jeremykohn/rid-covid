@@ -154,6 +154,7 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 
 - [linhduongtuan/Covid-19_Xray_Classifier](https://github.com/linhduongtuan/Covid-19_Xray_Classifier)
   - Project description: Demo diagnosis tools for Covid-19 Chest Xray
+    - Related research paper: [Deep Learning for Automated Recognition of Covid-19 from Chest X-ray Images](https://www.medrxiv.org/content/10.1101/2020.08.13.20173997v1) (Phuong Nguyen, Ludovico Iovino, Michele Flammini, Linh Tuan Linh)
   - License: [MIT License](https://github.com/linhduongtuan/Covid-19_Xray_Classifier/blob/master/LICENSE)
 
 - [ufopcsilab/EfficientNet-C19](https://github.com/ufopcsilab/EfficientNet-C19)
