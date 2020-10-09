@@ -410,6 +410,10 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
   - Project description: Open source Artificial Intelligence for COVID-19 detection/early detection. Includes Convolutional Neural Networks (CNN) & Generative Adversarial Networks (GAN)
   - Project Facebook page: [Peter Moss Covid-19 AI Research Project](https://www.facebook.com/covid19airesearch)
 
+- [vijay-ss/Covid19-Xray-Detection](https://github.com/vijay-ss/Covid19-Xray-Detection)
+  - Project description: Covid-19 X-Ray Detection model using deep learning
+  - Online implementation: https://covid19xraydetection.herokuapp.com/
+
 
 ## Image Data
 
