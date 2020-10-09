@@ -414,7 +414,7 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
   - Project description: Covid-19 X-Ray Detection model using deep learning
   - Online implementation: https://covid19xraydetection.herokuapp.com/
 
-- [vb100/Pneumonia-X-Rays-of-Human-Lungs-AI-project](https://github.com/vb100/Pneumonia-X-Rays-of-Human-Lungs-AI-project)
+- [LaurentVeyssier/Detecting-COVID-19-with-chest-X-Ray-using-PyTorch](https://github.com/LaurentVeyssier/Detecting-COVID-19-with-chest-X-Ray-using-PyTorch)
   - Project description: Deep learning model to classify XRay Scan images between 3 classes and detect COVID19
 
 
