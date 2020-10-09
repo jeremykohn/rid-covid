@@ -31,8 +31,8 @@ For now, the goal is to help people find what already exists. Eventually this ef
 - [Chester the AI Radiology Assistant](https://github.com/mlmed/dl-web-xray)
   - Project description: NOT FOR MEDICAL USE. This is a prototype system for diagnosing chest x-rays using neural networks.
   - Implementations: 
-    - [In-browser web app](https://mlmed.org/tools/xray/)
-    - [Downloadable macOS app](https://github.com/mlmed/dl-web-xray/releases/download/2.0/Chester.app.zip)
+    - In-browser web app: https://mlmed.org/tools/xray/
+    - Downloadable macOS app: https://github.com/mlmed/dl-web-xray/releases/download/2.0/Chester.app.zip
 
 - [sydney0zq/covid-19-detection](https://github.com/sydney0zq/covid-19-detection)
   - Project description: The implementation of "Deep Learning-based Detection for COVID-19 from Chest CT using Weak Label".
