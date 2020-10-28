@@ -417,7 +417,24 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [LaurentVeyssier/Detecting-COVID-19-with-chest-X-Ray-using-PyTorch](https://github.com/LaurentVeyssier/Detecting-COVID-19-with-chest-X-Ray-using-PyTorch)
   - Project description: Deep learning model to classify XRay Scan images between 3 classes and detect COVID19
 
+- [sumitrj/FSARL](https://github.com/sumitrj/FSARL)
+  - Project description: Detection of COVID-19 from chest Xray images using Active Learning
 
+- [gauravsinha7/Covid-Xray-Analysis-Tool](https://github.com/gauravsinha7/Covid-Xray-Analysis-Tool)
+  - Project description: This repository contains Python code to process chest congestion XRay analysis for COVID-19.
+
+- [ranabanik/COVID_Xray_classification](https://github.com/ranabanik/COVID_Xray_classification)
+  - Project description: 2D Xray lung image, that has 3 different imbalanced classes: Covid, Pneumonia and Normal.
+
+- [bloodbee/xray_covid_classifier](https://github.com/bloodbee/xray_covid_classifier)
+  - Project description: ML Classifier to detect xray with covid disease
+
+- [utkucolak/covid-detection-from-xray](https://github.com/utkucolak/covid-detection-from-xray)
+  - Project description: Deep Learning model which tries to determine if covid-19 positive or negative according to its lung x-ray images
+  - License: [Apache License 2.0](https://github.com/utkucolak/covid-detection-from-xray/blob/main/LICENSE)
+
+- [rvignav/CT2Xray](https://github.com/rvignav/CT2Xray)
+  - Project description: Automatic conversion from axial CT and mask volumes to an annotated coronal X-ray. Segments COVID-19 lung lesions on said X-rays via a custom Mask-RCNN. Generates segmented CT data using Inf-Net.
 
 
 ## Image Data
