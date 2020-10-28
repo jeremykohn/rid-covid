@@ -436,7 +436,16 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [Priyanshu-C/COVID-DETECTION-USING-XRAY](https://github.com/Priyanshu-C/COVID-DETECTION-USING-XRAY)
   - Project description: This app has mutiple models you can predict the xray upon, we trained a model on over 9 CNN models with different layers setup along with pretrained model like VGG16 and VGG19.
 
+- [gokulnair2001/COVID-TODAY](https://github.com/gokulnair2001/COVID-TODAY)
+  - Project description: COVID TODAY is an COVID determination app which uses users chest Xray to diagnose it. The app also provides live updates of worldwide cases.
+  - License: [MIT License](https://github.com/gokulnair2001/COVID-TODAY/blob/main/LICENSE)
 
+- [faniadev/covid19-xray-image-classification-using-CNN](https://github.com/faniadev/covid19-xray-image-classification-using-CNN)
+  - Project description: Classifying COVID-19 X-Ray Images using Convolutional Neural Network (Tensorflow and Keras)
+  - Explanation of the program and code: https://youtu.be/z0ihtCALmz4
+
+- [abshubh/Covid-19-Detection-using-Chest-Xray-Images-through-Deep-Learning](https://github.com/abshubh/Covid-19-Detection-using-Chest-Xray-Images-through-Deep-Learning)
+  - Project description: The Project was based on CNN model, which through deep learning can help detect COVID using Chest Radiography images.
 
 
 ## Image Data
