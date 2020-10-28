@@ -433,8 +433,10 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
   - Project description: Deep Learning model which tries to determine if covid-19 positive or negative according to its lung x-ray images
   - License: [Apache License 2.0](https://github.com/utkucolak/covid-detection-from-xray/blob/main/LICENSE)
 
-- [rvignav/CT2Xray](https://github.com/rvignav/CT2Xray)
-  - Project description: Automatic conversion from axial CT and mask volumes to an annotated coronal X-ray. Segments COVID-19 lung lesions on said X-rays via a custom Mask-RCNN. Generates segmented CT data using Inf-Net.
+- [Priyanshu-C/COVID-DETECTION-USING-XRAY](https://github.com/Priyanshu-C/COVID-DETECTION-USING-XRAY)
+  - Project description: This app has mutiple models you can predict the xray upon, we trained a model on over 9 CNN models with different layers setup along with pretrained model like VGG16 and VGG19.
+
+
 
 
 ## Image Data
