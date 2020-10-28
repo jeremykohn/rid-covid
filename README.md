@@ -447,6 +447,11 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [abshubh/Covid-19-Detection-using-Chest-Xray-Images-through-Deep-Learning](https://github.com/abshubh/Covid-19-Detection-using-Chest-Xray-Images-through-Deep-Learning)
   - Project description: The Project was based on CNN model, which through deep learning can help detect COVID using Chest Radiography images.
 
+- [vishal-s-v/Covid-Xray-analyser](https://github.com/vishal-s-v/Covid-Xray-analyser)
+  - Project description: An application to predict COVID cases using X-ray images. Implemented using Keras and Flask API
+
+
+
 
 ## Image Data
 
