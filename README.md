@@ -468,7 +468,43 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [git-aditya-star/Covid-19-detection-using-lung-xrays](https://github.com/git-aditya-star/Covid-19-detection-using-lung-xrays)
   - Project description: COVID 19 detection using lungs x ray images
 
+- [iamrachit/Covid-19-Detection-](https://github.com/iamrachit/Covid-19-Detection-)
+  - Project description: In this Repository, Viewers will be able to see the python code for covid 19 detection using chest xray images
 
+- [aakashratha1006/Chest-Xray-COVID-Detection-CNN](https://github.com/aakashratha1006/Chest-Xray-COVID-Detection-CNN)
+  - Project description: Detecting COVID-19 in chest xray images(Input) with keras, tensorflow and deep learning - used Convolutional Neural Networks (CNN).
+
+- [sb-robo/Covid-Detection-with-XRay-images](https://github.com/sb-robo/Covid-Detection-with-XRay-images)
+  - Project description: Covid Detection with XRay images among Normal & Covid Cases
+
+- [ulises-jeremias/aa2020unlp-covid-19-xray](https://github.com/ulises-jeremias/aa2020unlp-covid-19-xray)
+  - Project description: Kaggle Challenge to Classify Covid Pneumonia Xray
+
+- [kevbow/CNN-using-covid-pneumonia-xray-dataset](https://github.com/kevbow/CNN-using-covid-pneumonia-xray-dataset)
+  - Project description: In this project, I used Convolutional Neural Network (CNN) to classify x-ray images of patients with pneumonia and healthy patients. 
+
+- [lopezbec/COVID19_XRay_Tutorial](https://github.com/lopezbec/COVID19_XRay_Tutorial)
+  - Project description: Training NN to predict COVID-19 from X-Ray images
+
+- [vam-sin/deep-covid](https://github.com/vam-sin/deep-covid)
+  - Project description: A deep learning tool for the detection of COVID-19 by analyzing Chest-Xrays
+
+- [samuel-frankliln/covid-xray](https://github.com/samuel-frankliln/covid-xray)
+  - Project description: A cnn model to detect covid 19 (educational purpose only)
+
+- [doaa-altarawy/covid_xrays](https://github.com/doaa-altarawy/covid_xrays)
+  - Project description: This project is a Web tool for the screening of COVID-19 from chest x-ray images.
+  - License: [MIT License](https://github.com/doaa-altarawy/covid_xrays/blob/master/LICENSE)
+
+- [dhruv-varshney/Covid-19-Detection-Using-Xrays](https://github.com/dhruv-varshney/Covid-19-Detection-Using-Xrays)
+  - Project description: Covid19 Detection Using Xrays (Jupyter notebook)
+
+- [SateehTeppala/DetectingCOVID19](https://github.com/SateehTeppala/DetectingCOVID19)
+  - Project description: Detecting covid 19 using Radiography chest XRays
+
+- [paul-data-science/Deep-Learning-Covid-CXR](https://github.com/paul-data-science/Deep-Learning-Covid-CXR)
+  - Project description: NJIT CS677 Deep Learning Project Explainability of Covid Chest Xrays
+  - License: [MIT License](https://github.com/paul-data-science/Deep-Learning-Covid-CXR/blob/main/LICENSE)
 
 
 ## Image Data
