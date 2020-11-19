@@ -456,7 +456,11 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [cameronnunez/Diagnosing-COVID-and-pneumonia-from-chest-Xrays-Multiclass-Classification](https://github.com/cameronnunez/Diagnosing-COVID-and-pneumonia-from-chest-Xrays-Multiclass-Classification)
   - Project description: This project attempts to diagnose patients with COVID-19, viral pneumonia, and bacterial pneumonia from images of chest X-rays. The goal is to develop a multiclass classifier that achieves good weighted categorization accuracy on a set of unseen examples.
 
+- [abhisheksakibanda/covid-19-detection-with-xrays-using-pytorch](https://github.com/abhisheksakibanda/covid-19-detection-with-xrays-using-pytorch)
+  - Project description: A Resnet-18 model trained to detect COVID-19 with Chest X-Ray's
 
+- [ShoumikMajumdar/Covid-Detection-From-Chest-XRays](https://github.com/ShoumikMajumdar/Covid-Detection-From-Chest-XRays)
+  - Project description: COVID19 detection from chest X Ray Scans 
 
 
 ## Image Data
