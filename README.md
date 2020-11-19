@@ -462,6 +462,14 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [ShoumikMajumdar/Covid-Detection-From-Chest-XRays](https://github.com/ShoumikMajumdar/Covid-Detection-From-Chest-XRays)
   - Project description: COVID19 detection from chest X Ray Scans 
 
+- [vk1996/COVID19_DETECTION_FROM_XRAY](https://github.com/vk1996/COVID19_DETECTION_FROM_XRAY)
+  - Project description: This is a research project to analyse feasibility of putting efficient deep learning models in production for detecting COVID19 samples from xray as fast and precise as possible.
+
+- [git-aditya-star/Covid-19-detection-using-lung-xrays](https://github.com/git-aditya-star/Covid-19-detection-using-lung-xrays)
+  - Project description: COVID 19 detection using lungs x ray images
+
+
+
 
 ## Image Data
 
