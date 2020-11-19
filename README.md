@@ -450,7 +450,8 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [vishal-s-v/Covid-Xray-analyser](https://github.com/vishal-s-v/Covid-Xray-analyser)
   - Project description: An application to predict COVID cases using X-ray images. Implemented using Keras and Flask API
 
-
+- [Siddhant-K-code/COVID-19-RAPID-TESTER](https://github.com/Siddhant-K-code/COVID-19-RAPID-TESTER)
+  - Project description: ML Model will detect the patient’s condition whether patient is positive or negative, than the person is prompted to consult a doctor.
 
 
 ## Image Data
