@@ -453,6 +453,11 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [Siddhant-K-code/COVID-19-RAPID-TESTER](https://github.com/Siddhant-K-code/COVID-19-RAPID-TESTER)
   - Project description: ML Model will detect the patient’s condition whether patient is positive or negative, than the person is prompted to consult a doctor.
 
+- [cameronnunez/Diagnosing-COVID-and-pneumonia-from-chest-Xrays-Multiclass-Classification](https://github.com/cameronnunez/Diagnosing-COVID-and-pneumonia-from-chest-Xrays-Multiclass-Classification)
+  - Project description: This project attempts to diagnose patients with COVID-19, viral pneumonia, and bacterial pneumonia from images of chest X-rays. The goal is to develop a multiclass classifier that achieves good weighted categorization accuracy on a set of unseen examples.
+
+
+
 
 ## Image Data
 
