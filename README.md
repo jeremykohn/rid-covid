@@ -553,6 +553,24 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [bakharia/Covid19XRay](https://github.com/bakharia/Covid19XRay)
   - Project description: Image classification of Chest X Rays in one of three classes: Normal, Viral Pneumonia, COVID-19.
 
+- [ajinabraham123/COVID19-using-Xray-](https://github.com/ajinabraham123/COVID19-using-Xray-)
+  - Project description: COVID-19 X-ray classification using Keras (Sequential and U-Net)
+
+- [IrisW9527/CovidXRayDeepLearning](https://github.com/IrisW9527/CovidXRayDeepLearning)
+  - Project description: Measuring Convolutional Neural Network model accuracies with the latest COVID-19 XRay image data.
+
+- [shubhamt10/Covid19xray_detection](https://github.com/shubhamt10/Covid19xray_detection)
+  - Project description: Covid 19 detector from patient's chest xray. Built using Keras in Tensorflow.
+
+- [Sujeeth-Shetty/covid19-XRay-pytorch](https://github.com/Sujeeth-Shetty/covid19-XRay-pytorch)
+  - Project description: Detecting COVID-19 with Chest X-Ray using PyTorch
+
+- [makhloufi200/covid19-xray-detect](https://github.com/makhloufi200/covid19-xray-detect)
+  - Project description: This repository aims to show a simple example of a machine learning project using Keras. The program determines whether or not the image is infected with coronavirus.
+
+- [spapazov/covid19-xray-diagnoser](https://github.com/spapazov/covid19-xray-diagnoser)
+  - Project description: This project leverages computer vision and convolutional neural networks to diagnose COVID-19 patients based on X-Ray scans of their lungs, with the hope of providing alternative ways to achieve rapid widespread testing.
+
 
 
 ## Image Data
