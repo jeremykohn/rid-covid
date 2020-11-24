@@ -547,6 +547,12 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [shubhamkrjain/covid19-xray](https://github.com/shubhamkrjain/covid19-xray)
   - Project description: covid-19 x-ray detection using RESNET18
 
+- [umangdubey/Detecting_Covid19_from_Xray_image](https://github.com/umangdubey/Detecting_Covid19_from_Xray_image)
+  - Project description: Detection of Covid19 from Chest Xray images
+
+- [bakharia/Covid19XRay](https://github.com/bakharia/Covid19XRay)
+  - Project description: Image classification of Chest X Rays in one of three classes: Normal, Viral Pneumonia, COVID-19.
+
 
 
 ## Image Data
