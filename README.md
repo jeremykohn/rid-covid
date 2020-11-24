@@ -506,6 +506,13 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
   - Project description: NJIT CS677 Deep Learning Project Explainability of Covid Chest Xrays
   - License: [MIT License](https://github.com/paul-data-science/Deep-Learning-Covid-CXR/blob/main/LICENSE)
 
+- [subhasishgosw5/Covid19-Chest-XRay-CNN](https://github.com/subhasishgosw5/Covid19-Chest-XRay-CNN)
+  - Project description: A web app to determine Covid19 from Lung X-Ray Images
+  - License: [GNU General Public License v3.0](https://github.com/subhasishgosw5/Covid19-Chest-XRay-CNN/blob/master/LICENSE)
+
+- [its-ash/covid-19-x-ray](https://github.com/its-ash/covid-19-x-ray)
+  - Project description: Covid Detection Using Xray
+
 
 ## Image Data
 
