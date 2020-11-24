@@ -523,6 +523,11 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [btrixtran/XrayChestCOVID19](https://github.com/btrixtran/XrayChestCOVID19)
   - Project description: Based on DarkCovidNet classifier which implemented for the you only look once (YOLO) real time object detection system.
 
+- [armiro/COVID-CXNet](https://github.com/armiro/COVID-CXNet)
+  - Project description: Diagnosing COVID-19 in Frontal Chest X-ray Images using Deep Learning.
+    - Related research paper: [COVID-CXNet: Detecting COVID-19 in Frontal Chest X-ray Images using Deep Learning](https://arxiv.org/abs/2006.13807) (Arman Haghanifar, Mahdiyar Molahasani Majdabadi, Younhee Choi, S. Deivalakshmi, Seokbum Ko)
+  - License: [MIT License](https://github.com/armiro/COVID-CXNet/blob/master/LICENSE)
+
 
 ## Image Data
 
