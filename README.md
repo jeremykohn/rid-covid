@@ -516,6 +516,13 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [Dasharath4812/Covid-19-detection-using-chest-X-rays](https://github.com/Dasharath4812/Covid-19-detection-using-chest-X-rays)
   - Project description: Classifying Xrays into covid 19 positive and normal Xrays
 
+- [muhammedtalo/COVID-19](https://github.com/muhammedtalo/COVID-19)
+  - Project description: Automated Detection of COVID-19 Cases Using Deep Neural Networks with X-Ray Images
+  - Related research paper: [Automated Detection of COVID-19 Cases Using Deep Neural Networks with X-ray Images](https://www.researchgate.net/publication/340935440_Automated_Detection_of_COVID-19_Cases_Using_Deep_Neural_Networks_with_X-ray_Images) (Tulin Ozturk, Muhammed Talo, Eylul Azra Yildirim, Ulas Baran Baloglu, Ozal Yildirim, U. Rajendra Acharya)
+
+- [btrixtran/XrayChestCOVID19](https://github.com/btrixtran/XrayChestCOVID19)
+  - Project description: Based on DarkCovidNet classifier which implemented for the you only look once (YOLO) real time object detection system.
+
 
 ## Image Data
 
