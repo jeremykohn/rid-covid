@@ -13,17 +13,17 @@ For now, the goal is to help people find what already exists. Eventually this ef
 
 - [haydengunraj/COVIDNet-CT](https://github.com/haydengunraj/COVIDNet-CT)
   - Project description: COVID-Net Open Source Initiative - Models for COVID-19 Detection from Chest CT
-  - License: [GNU Affero General Public License v3.0](https://github.com/haydengunraj/COVIDNet-CT/blob/master/LICENSE.md)
+  - License: [GNU Affero General Public License (AGPL) v3.0](https://github.com/haydengunraj/COVIDNet-CT/blob/master/LICENSE.md)
 
 - [lindawangg/COVID-Net](https://github.com/lindawangg/COVID-Net)
   - Project description: COVID-Net Open Source Initiative
     - Related research paper: [COVID-Net: A Tailored Deep Convolutional Neural Network Design for Detection of COVID-19 Cases from Chest Radiography Images](https://arxiv.org/abs/2003.09871) (Linda Wang, Zhong Qiu Lin, and Alexander Wong; Department of Systems Design Engineering, University of Waterloo, Canada; Waterloo Artificial Intelligence Institute, Canada; DarwinAI Corp., Canada)
     - Related dataset: [agchung/Figure1-COVID-chestxray-dataset](https://github.com/agchung/Figure1-COVID-chestxray-dataset)
-  - License: [GNU Affero General Public License v3.0](https://github.com/lindawangg/COVID-Net/blob/master/LICENSE.md)
+  - License: [GNU Affero General Public License (AGPL) v3.0](https://github.com/lindawangg/COVID-Net/blob/master/LICENSE.md)
 
 - [IliasPap/COVIDNet](https://github.com/IliasPap/COVIDNet)
   - Project description: PyTorch implementation of [COVID-Net](https://github.com/lindawangg/COVID-Net)
-  - License: [GNU General Public License v3.0](https://github.com/IliasPap/COVIDNet/blob/master/LICENSE)
+  - License: [GNU General Public License (GPL) v3.0](https://github.com/IliasPap/COVIDNet/blob/master/LICENSE)
 
 - [zeeshannisar/COVID-19](https://github.com/zeeshannisar/COVID-19)
   - Project description: Detecting and Visualising the Infectious Regions of COVID-19 in X-ray Images Using Different Pretrained-Networks in Tensorflow 2.x.
@@ -137,7 +137,7 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [karanshah7371/Covid19Xray](https://github.com/karanshah7371/Covid19Xray)
   - Project description: This model predicts covid-19 (if we feed image of X-Ray of patients). DISCLAIMER: This model is currently in development and we do not recommend using it for screening purposes as of now.
   - Online implementation: http://www.covidfilter.life/
-  - License: [GNU General Public License v3.0](https://github.com/karanshah7371/Covid19Xray/blob/master/LICENSE)
+  - License: [GNU General Public License (GPL) v3.0](https://github.com/karanshah7371/Covid19Xray/blob/master/LICENSE)
 
 - [devcode925/covid19XraySample](https://github.com/devcode925/covid19XraySample)
   - Project description: COVID-19 Xray Study using CNN from deeplearning4J library.
@@ -160,7 +160,7 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [ufopcsilab/EfficientNet-C19](https://github.com/ufopcsilab/EfficientNet-C19)
   - Project description: Repository to reproduce the results of "Towards an Effective and Efficient Deep Learning Model for COVID-19 Patterns Detection in X-ray Images"
     - Related research paper: [Towards an Effective and Efficient Deep Learning Model for COVID-19 Patterns Detection in X-ray Images](https://arxiv.org/abs/2004.05717) (Eduardo Luz, Pedro Lopes Silva, Rodrigo Silva, Ludmila Silva, Gladston Moreira, David Menotti)
-  - License: [GNU Affero General Public License v3.0](https://github.com/ufopcsilab/EfficientNet-C19/blob/master/LICENSE)
+  - License: [GNU Affero General Public License (AGPL) v3.0](https://github.com/ufopcsilab/EfficientNet-C19/blob/master/LICENSE)
 
 - [ufopcsilab/covid-19](https://github.com/ufopcsilab/covid-19)
   - Project description: Based on the work "Towards an Effective and Efficient Deep Learning Model for COVID-19 Patterns Detection in X-ray Images"
@@ -201,7 +201,7 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 
 - [SUMEETRM/covid19-ai](https://github.com/SUMEETRM/covid19-ai)
   - Project description: The following model aims to present a neural network aimed to detect COVID-19 cases through chest X-Rays.
-  - License: [GNU General Public License v3.0](https://github.com/SUMEETRM/covid19-ai/blob/master/LICENSE)
+  - License: [GNU General Public License (GPL) v3.0](https://github.com/SUMEETRM/covid19-ai/blob/master/LICENSE)
 
 - [Coronavirus-Visualization-Team/CVT_COVID-CT-CNN](https://github.com/Coronavirus-Visualization-Team/CVT_COVID-CT-CNN)
   - Project description: Collaboration space/data storage for development of a COVID CT CNN by CVT
@@ -396,7 +396,7 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 
 - [JunyuanLin/Capstone_Project_COVID-19_CNN_classification_based_on_Lung_CT_-Scans](https://github.com/JunyuanLin/Capstone_Project_COVID-19_CNN_classification_based_on_Lung_CT_-Scans)
   - Project description: This project aims to develop a convolutional neural network (CNN) based model to identify COVID-19 positive patients based on their lung CT scans.
-  - License: [GNU General Public License v3.0](https://github.com/JunyuanLin/Capstone_Project_COVID-19_CNN_classification_based_on_Lung_CT_-Scans/blob/master/LICENSE)
+  - License: [GNU General Public License (GPL) v3.0](https://github.com/JunyuanLin/Capstone_Project_COVID-19_CNN_classification_based_on_Lung_CT_-Scans/blob/master/LICENSE)
 
 - [kabaka121212/Identify-COVID-19-from-chest-X-ray-images-by-Artificial-Intelligence](https://github.com/kabaka121212/Identify-COVID-19-from-chest-X-ray-images-by-Artificial-Intelligence)
   - Project description: Seeking the best and cheapest way to diagnose individuals with COVID-19 infections or suspects.
@@ -508,7 +508,7 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 
 - [subhasishgosw5/Covid19-Chest-XRay-CNN](https://github.com/subhasishgosw5/Covid19-Chest-XRay-CNN)
   - Project description: A web app to determine Covid19 from Lung X-Ray Images
-  - License: [GNU General Public License v3.0](https://github.com/subhasishgosw5/Covid19-Chest-XRay-CNN/blob/master/LICENSE)
+  - License: [GNU General Public License (GPL) v3.0](https://github.com/subhasishgosw5/Covid19-Chest-XRay-CNN/blob/master/LICENSE)
 
 - [its-ash/covid-19-x-ray](https://github.com/its-ash/covid-19-x-ray)
   - Project description: Covid Detection Using Xray
