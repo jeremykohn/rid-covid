@@ -528,6 +528,26 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
     - Related research paper: [COVID-CXNet: Detecting COVID-19 in Frontal Chest X-ray Images using Deep Learning](https://arxiv.org/abs/2006.13807) (Arman Haghanifar, Mahdiyar Molahasani Majdabadi, Younhee Choi, S. Deivalakshmi, Seokbum Ko)
   - License: [MIT License](https://github.com/armiro/COVID-CXNet/blob/master/LICENSE)
 
+- [khaqanashraf/covid19-chest-xray](https://github.com/khaqanashraf/covid19-chest-xray)
+  - Project description: This repository contains code and report for the COVID19 Chest XRay image classifications by using Deep Learning techniques.
+
+- [isabelhssilva/CovidDeepLearningXRay](https://github.com/isabelhssilva/CovidDeepLearningXRay)
+  - Project description: A study on Deep Learning techniques applied to the diagnosis of Covid-19, through x-ray images.
+
+- [shamiktiwari/Covid19_Xray](https://github.com/shamiktiwari/Covid19_Xray)
+  - Project description: Covid 19 detection using X-Ray Images
+
+- [amrithc/covid19_xray_detection](https://github.com/amrithc/covid19_xray_detection)
+  - Project description: COVID19 detection using Chest X-Ray Detection
+
+- [whosethere/dnn_xray_covid19](https://github.com/whosethere/dnn_xray_covid19)
+  - Project description: Presentation of the solution to the problem in the automatic diagnosis of lung changes (covid-19 / pneumonia) on X-rays. Work done during the hackathon "Hack The Crisis".
+    - Video presentation of the project: https://www.youtube.com/watch?v=I_stdPAymWU
+
+- [shubhamkrjain/covid19-xray](https://github.com/shubhamkrjain/covid19-xray)
+  - Project description: covid-19 x-ray detection using RESNET18
+
+
 
 ## Image Data
 
