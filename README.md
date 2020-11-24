@@ -513,6 +513,9 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [its-ash/covid-19-x-ray](https://github.com/its-ash/covid-19-x-ray)
   - Project description: Covid Detection Using Xray
 
+- [Dasharath4812/Covid-19-detection-using-chest-X-rays](https://github.com/Dasharath4812/Covid-19-detection-using-chest-X-rays)
+  - Project description: Classifying Xrays into covid 19 positive and normal Xrays
+
 
 ## Image Data
 
