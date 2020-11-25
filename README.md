@@ -713,6 +713,9 @@ CLASSIFICATION VIA CT-SCAN](https://eprints.lancs.ac.uk/id/eprint/143767/1/EXPLA
 - [GeneralBlockchain/covid-19-chest-xray-segmentations-dataset](https://github.com/GeneralBlockchain/covid-19-chest-xray-segmentations-dataset)
   - Dataset description: Lung Segmentations of COVID-19 Chest X-ray Dataset.
 
+- [GeneralBlockchain/covid-19-chest-xray-lung-bounding-boxes-dataset](https://github.com/GeneralBlockchain/covid-19-chest-xray-lung-bounding-boxes-dataset)
+  - Dataset description: Lung Bounding Boxes of COVID-19 Chest X-ray Dataset.
+
 ---
 
 **NOTE**
