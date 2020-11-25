@@ -571,6 +571,21 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [spapazov/covid19-xray-diagnoser](https://github.com/spapazov/covid19-xray-diagnoser)
   - Project description: This project leverages computer vision and convolutional neural networks to diagnose COVID-19 patients based on X-Ray scans of their lungs, with the hope of providing alternative ways to achieve rapid widespread testing.
 
+- [hcho22/COVID19_Xray_fastai](https://github.com/hcho22/COVID19_Xray_fastai)
+  - Project description: Detecting COVID19 by analyzing X rays using CNN
+
+- [zeeshanahmad10809/covid19-xray-pytorch](https://github.com/zeeshanahmad10809/covid19-xray-pytorch)
+  - Project description: Covid19 x-ray classification using mnasnet and alexnet in pytorch.
+
+- [hcho22/COVID19_Xray_Keras](https://github.com/hcho22/COVID19_Xray_Keras)
+  - Project description: Detecting COVID19 by analyzing X rays using CNN
+
+- [k4rth33k/covid-xray](https://github.com/k4rth33k/covid-xray)
+  - Project description: An auto-retraining powered REST API with automated training pipeline for classifying XRay images as 'COVID' or 'NOT'. Built during quarantine!
+
+- [swagatamr/covid19-chest-xray-classification-using-transfer-learning](https://github.com/swagatamr/covid19-chest-xray-classification-using-transfer-learning)
+  - Project description: XRAY classification using different transfer learning model
+
 
 
 ## Image Data
