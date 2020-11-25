@@ -589,6 +589,18 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [swagatamr/covid19-chest-xray-classification-using-transfer-learning](https://github.com/swagatamr/covid19-chest-xray-classification-using-transfer-learning)
   - Project description: XRAY classification using different transfer learning model
 
+- [Aman9026/Predict-COVID-19](https://github.com/Aman9026/Predict-COVID-19)
+  - Project description: Predicts COVID-19 from PA view of X-ray when submitted on the website
+  - License: [MIT License](https://github.com/Aman9026/Predict-COVID-19/blob/master/LICENSE)
+
+- [Mjrovai/covid19Xray](https://github.com/Mjrovai/covid19Xray)
+  - Project description: Covid-19 vs Pneumo Xray Detection using TensorFlow
+
+- [mdalmas/covid19_xray_detection](https://github.com/mdalmas/covid19_xray_detection)
+  - Project description: Detecting Covid 19 in a person using PA Chest X-ray images, Using Deep-learning & Tensorflow
+
+- [haruiz/COVID19-Xray](https://github.com/haruiz/COVID19-Xray)
+  - Project description: Pytorch COVID-19 Detector using X-Ray images
 
 
 ## Image Data
