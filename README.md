@@ -706,6 +706,13 @@ CLASSIFICATION VIA CT-SCAN](https://eprints.lancs.ac.uk/id/eprint/143767/1/EXPLA
     - Related research paper: [End-to-end learning for semiquantitative rating of COVID-19 severity on Chest X-rays](https://arxiv.org/abs/2006.04603) (Alberto Signoroni, Mattia Savardi, Sergio Benini, Nicola Adami, Riccardo Leonardi, Paolo Gibellini, Filippo Vaccher, Marco Ravanelli, Andrea Borghesi, Roberto Maroldi, Davide Farina (University of Brescia))
     - Code repository: [BrixIA/Brixia-score-COVID-19](https://github.com/BrixIA/Brixia-score-COVID-19)
 
+- [v7labs/covid-19-xray-dataset](https://github.com/v7labs/covid-19-xray-dataset)
+  - Dataset description: 12000+ manually drawn pixel-level lung segmentations, with and without covid. **WARNING:** This dataset is not intended for use in clinical diagnostics.
+    - Browse & download the dataset on V7 Darwin here: https://darwin.v7labs.com/v7-labs/covid-19-chest-x-ray-dataset
+
+- [GeneralBlockchain/covid-19-chest-xray-segmentations-dataset](https://github.com/GeneralBlockchain/covid-19-chest-xray-segmentations-dataset)
+  - Dataset description: Lung Segmentations of COVID-19 Chest X-ray Dataset.
+
 ---
 
 **NOTE**
