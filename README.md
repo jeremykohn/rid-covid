@@ -420,6 +420,9 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [sumitrj/FSARL](https://github.com/sumitrj/FSARL)
   - Project description: Detection of COVID-19 from chest Xray images using Active Learning
 
+- [sumitrj/ChestXray-TransferLearning](https://github.com/sumitrj/ChestXray-TransferLearning)
+  - Project description: Plug & Play easy to use code for multi-channel transfer learning; applied for detection of COVID-19 in CXR images
+
 - [gauravsinha7/Covid-Xray-Analysis-Tool](https://github.com/gauravsinha7/Covid-Xray-Analysis-Tool)
   - Project description: This repository contains Python code to process chest congestion XRay analysis for COVID-19.
 
