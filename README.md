@@ -612,6 +612,34 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [Tessium/covid19-xray-detection](https://github.com/Tessium/covid19-xray-detection)
   - Project description: Project was designed for anomaly detection from X-Ray of lungs, in order to detect case of COVID-19 or another disease.
 
+- [devindatt/covid19-chest_xrays-analysis](https://github.com/devindatt/covid19-chest_xrays-analysis)
+  - Project description: Trained a deep learning model using Keras and TensorFlow to predict COVID-19 in chest X-rays of patients.
+
+- [hakantekgul/COVID-19_Classification](https://github.com/hakantekgul/COVID-19_Classification)
+  - Project description: A classifier to detect whether a patient has COVID 19 virus or not from chest X-Ray images.
+
+- [prady123/COVID19](https://github.com/prady123/COVID19)
+  - Project description: COVID19 Classification using Xray images
+
+- [Thejesh-M/covid19-detection-using-chest-Xray](https://github.com/Thejesh-M/covid19-detection-using-chest-Xray)
+  - Project description: Using Convolutional Neural Network, I have implemented a classifier which detects whether the person is Normal or infected by other diseases(especially COVID19).
+
+- [naveeen684/Covid19--Xray-Interpretable-Machine-Learning-](https://github.com/naveeen684/Covid19--Xray-Interpretable-Machine-Learning-)
+  - Project description: Covid19 Prediction using X-RAY with LIME Explanation
+  - License: [MIT License](https://github.com/naveeen684/Covid19--Xray-Interpretable-Machine-Learning-/blob/master/LICENSE)
+
+- [Aadityapritam/Covid_19_Xray_image_pediction](https://github.com/Aadityapritam/Covid_19_Xray_image_pediction)
+  - Project description: Identification of corona using X-ray image (CNN)
+
+- [du00d/XRAY-IMAGING](https://github.com/du00d/XRAY-IMAGING)
+  - Project description: Analyzing X-Ray Imaging of potential covid-patient using deep learning
+
+- [Auggen21/Covid-Detection-using-Lung-Xray-Images](https://github.com/Auggen21/Covid-Detection-using-Lung-Xray-Images)
+  - Project description: Covid19, Pnemonia, or Normal Detection using Lung Xray Images
+
+- [inonwir/Machine-Learning-Image-Classification-Covid19-ChestXray](https://github.com/inonwir/Machine-Learning-Image-Classification-Covid19-ChestXray)
+  - Project description: Machine Learning - Image classification by using dataset of chest x-ray images.
+
 
 ## Image Data
 
