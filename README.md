@@ -609,6 +609,9 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
   - Project description: A flutter app to detect Covid-19 disease using chest radiographs.
   - License: [GNU Affero General Public License (AGPL) v3.0](https://github.com/Parag0506/ChecXray/blob/master/LICENSE)
 
+- [Tessium/covid19-xray-detection](https://github.com/Tessium/covid19-xray-detection)
+  - Project description: Project was designed for anomaly detection from X-Ray of lungs, in order to detect case of COVID-19 or another disease.
+
 
 ## Image Data
 
