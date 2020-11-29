@@ -640,6 +640,9 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [inonwir/Machine-Learning-Image-Classification-Covid19-ChestXray](https://github.com/inonwir/Machine-Learning-Image-Classification-Covid19-ChestXray)
   - Project description: Machine Learning - Image classification by using dataset of chest x-ray images.
 
+- [tsikup/covid19-xray-cnn](https://github.com/tsikup/covid19-xray-cnn)
+  - Project description: A CNN model for predicting COVID19 from X-ray chest images.
+
 
 ## Image Data
 
