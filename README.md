@@ -656,6 +656,18 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [hollowcodes/covid19-chest-xray-classification](https://github.com/hollowcodes/covid19-chest-xray-classification)
   - Project description: An attempt to classify x-ray images of healthy patients, patients with Covid-19 (/SARS-CoV-2) and patients with other pneumonia types.
 
+- [mdelrosa/sta208-covid19-xray](https://github.com/mdelrosa/sta208-covid19-xray)
+  - Project description: Chest X-Ray classification of COVID-19 patients
+
+- [maansisrivastava/Covid19-Chest-Xray-Model](https://github.com/maansisrivastava/Covid19-Chest-Xray-Model)
+  - Project description: Model to predict Covid-19 positive or negative from Chest X-ray
+
+- [Ashlo/Covid19-xray-Flask-app](https://github.com/Ashlo/Covid19-xray-Flask-app)
+  - Project description: Covid 19 X ray Prediction
+
+- [hakimnasaoui/COVID19-Detection-From-Chest-Xray-Images](https://github.com/hakimnasaoui/COVID19-Detection-From-Chest-Xray-Images)
+  - Project description: Detecting COVID-19 in X-ray images with Convolutional Neural Networks
+
 
 ## Image Data
 
