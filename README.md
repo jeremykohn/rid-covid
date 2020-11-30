@@ -668,7 +668,7 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [hakimnasaoui/COVID19-Detection-From-Chest-Xray-Images](https://github.com/hakimnasaoui/COVID19-Detection-From-Chest-Xray-Images)
   - Project description: Detecting COVID-19 in X-ray images with Convolutional Neural Networks
 
-- [COVID19-Detection-using-keras](https://github.com/arnav8/COVID19-Detection-using-keras)
+- [arnav8/COVID19-Detection-using-keras](https://github.com/arnav8/COVID19-Detection-using-keras)
   - Project description: Model classifies a patient's Chest XRay image as Coronavirus positive or negative
 
 - [soumakpoddar/Covid-Detection-Using-Chest-Xray-Scans](https://github.com/soumakpoddar/Covid-Detection-Using-Chest-Xray-Scans)
