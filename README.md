@@ -668,6 +668,21 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [hakimnasaoui/COVID19-Detection-From-Chest-Xray-Images](https://github.com/hakimnasaoui/COVID19-Detection-From-Chest-Xray-Images)
   - Project description: Detecting COVID-19 in X-ray images with Convolutional Neural Networks
 
+- [COVID19-Detection-using-keras](https://github.com/arnav8/COVID19-Detection-using-keras)
+  - Project description: Model classifies a patient's Chest XRay image as Coronavirus positive or negative
+
+- [soumakpoddar/Covid-Detection-Using-Chest-Xray-Scans](https://github.com/soumakpoddar/Covid-Detection-Using-Chest-Xray-Scans)
+  - Project description: CNN based model in Keras, and RNN model
+
+- [prabhat-123/Detecting-Covid-19-In-X-Ray-Image](https://github.com/prabhat-123/Detecting-Covid-19-In-X-Ray-Image)
+  - Project description: This repository contains a Flask app that is capable of detecting Covid19 cases from xray images.
+
+- [sohamsshah/Coronavirus-Prediction-from-XRay-Images](https://github.com/sohamsshah/Coronavirus-Prediction-from-XRay-Images)
+  - Project description: COVID-19 prediction by using Deep Convolutional Neural Networks trained on Xray Dataset. This model is based on VGG16 Transfer Learning Technique.
+
+- [aviralchharia/COVID-19](https://github.com/aviralchharia/COVID-19)
+  - Project description: Research Project for Detection of COVID-19 from X-Ray using Deep Learning methods. Implemented convolutional neural network for classification of X-Ray Images into COVID & non-COVID cases.
+
 
 ## Image Data
 
