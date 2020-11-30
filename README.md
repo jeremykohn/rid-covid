@@ -676,13 +676,14 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 
 - [prabhat-123/Detecting-Covid-19-In-X-Ray-Image](https://github.com/prabhat-123/Detecting-Covid-19-In-X-Ray-Image)
   - Project description: This repository contains a Flask app that is capable of detecting Covid19 cases from xray images.
+  - License: [MIT License](https://github.com/prabhat-123/Detecting-Covid-19-In-X-Ray-Image/blob/master/LICENSE)
 
 - [sohamsshah/Coronavirus-Prediction-from-XRay-Images](https://github.com/sohamsshah/Coronavirus-Prediction-from-XRay-Images)
   - Project description: COVID-19 prediction by using Deep Convolutional Neural Networks trained on Xray Dataset. This model is based on VGG16 Transfer Learning Technique.
 
 - [aviralchharia/COVID-19](https://github.com/aviralchharia/COVID-19)
   - Project description: Research Project for Detection of COVID-19 from X-Ray using Deep Learning methods. Implemented convolutional neural network for classification of X-Ray Images into COVID & non-COVID cases.
-
+  - License: [MIT License](https://github.com/aviralchharia/COVID-19/blob/master/LICENSE)
 
 ## Image Data
 
