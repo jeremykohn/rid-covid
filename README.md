@@ -643,6 +643,19 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [tsikup/covid19-xray-cnn](https://github.com/tsikup/covid19-xray-cnn)
   - Project description: A CNN model for predicting COVID19 from X-ray chest images.
 
+- [probayes/Covid19Xray](https://github.com/probayes/Covid19Xray)
+  - Project description: Classification of chest X-ray images of patients (COVID-19, pneumonia, healthy). Illustration of the interest and limits of methods which can be used to explain the decisions of CNN models in a medical context (explainability methods).
+  - License: [MIT License](https://github.com/probayes/Covid19Xray/blob/master/LICENSE)
+
+- [Dibyanshu-gtm/COVID19Xray](https://github.com/Dibyanshu-gtm/COVID19Xray)
+  - Project description: Comparing X ray Images of COVID-19 Patients with Normal X rays
+
+- [R-Mishra/covid19-xray](https://github.com/R-Mishra/covid19-xray)
+  - Project description: A classification model that predicts whether an x-ray image was taken from a subject who had Coved-19, viral pneumonia or neither.
+
+- [hollowcodes/covid19-chest-xray-classification](https://github.com/hollowcodes/covid19-chest-xray-classification)
+  - Project description: An attempt to classify x-ray images of healthy patients, patients with Covid-19 (/SARS-CoV-2) and patients with other pneumonia types.
+
 
 ## Image Data
 
