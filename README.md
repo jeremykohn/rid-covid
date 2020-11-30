@@ -685,6 +685,27 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
   - Project description: Research Project for Detection of COVID-19 from X-Ray using Deep Learning methods. Implemented convolutional neural network for classification of X-Ray Images into COVID & non-COVID cases.
   - License: [MIT License](https://github.com/aviralchharia/COVID-19/blob/master/LICENSE)
 
+- [dishachauhan2699/Covid_19_Xray](https://github.com/dishachauhan2699/Covid_19_Xray)
+  - Project description: Covid-19 xray classification
+
+- [EXJUSTICE/COVID19_Detection_Transfer_Learning_VGG16](https://github.com/EXJUSTICE/COVID19_Detection_Transfer_Learning_VGG16)
+  - Project description: Detecting COVID-19 induced Pneumonia from Chest X-rays with Transfer Learning
+    - Related blog post: [Detecting COVID-19 induced Pneumonia from Chest X-rays with Transfer Learning: An implementation in Tensorflow and Keras.](https://towardsdatascience.com/detecting-covid-19-induced-pneumonia-from-chest-x-rays-with-transfer-learning-an-implementation-311484e6afc1)
+
+- [sam-98/CovidDetectionXRay](https://github.com/sam-98/CovidDetectionXRay)
+  - Project description: A program to check the covid-19 infection in humans based on chest the x-ray using keras. 
+
+- [pimonteiro/Covid-19-Detector](https://github.com/pimonteiro/Covid-19-Detector)
+  - Project description: Covid-19 XRay Detector
+
+- [renjmindy/COVID19-XRayPneumoniaClassifier](https://github.com/renjmindy/COVID19-XRayPneumoniaClassifier)
+  - Project description: CNN - object detection, classification & various model tuning for prediction optimization
+    - Related blog post: [Diagnosis of COVID-19 alike Viral Pneumonia](https://renjmindy.github.io/diagnosis_of_covid-19_alike_viral_pneumonia)
+
+- [Ashish9914/Covid-detection-using-ChestXrays](https://github.com/Ashish9914/Covid-detection-using-ChestXrays)
+  - Project description: Detecting covid using chest Xray
+
+
 ## Image Data
 
 - [ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)
