@@ -708,6 +708,12 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [SirMalamute/CovidXrays](https://github.com/SirMalamute/CovidXrays)
   - Project description: A ML Model that can detect if a person has covid based on their xrays.
 
+- [IrisW9527/CovidXRayDeepLearning](https://github.com/IrisW9527/CovidXRayDeepLearning)
+  - Project description: Measuring Convolutional Neural Network model accuracies with the latest COVID-19 XRay image data. There are only about two hundred image data which can cause the model overfitting. This is only a demo for feeding image data and tuning hyperparameters in the CNN model.
+
+- [shubhamt10/Covid19xray_detection](https://github.com/shubhamt10/Covid19xray_detection)
+  - Project description: Covid 19 detector from patient's chest xray. Built using Keras in Tensorflow.
+
 
 ## Image Data
 
