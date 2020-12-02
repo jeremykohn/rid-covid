@@ -705,6 +705,9 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [Ashish9914/Covid-detection-using-ChestXrays](https://github.com/Ashish9914/Covid-detection-using-ChestXrays)
   - Project description: Detecting covid using chest Xray
 
+- [SirMalamute/CovidXrays](https://github.com/SirMalamute/CovidXrays)
+  - Project description: A ML Model that can detect if a person has covid based on their xrays.
+
 
 ## Image Data
 
