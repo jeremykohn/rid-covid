@@ -714,6 +714,15 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [shubhamt10/Covid19xray_detection](https://github.com/shubhamt10/Covid19xray_detection)
   - Project description: Covid 19 detector from patient's chest xray. Built using Keras in Tensorflow.
 
+- [mcagriaksoy/COVID-19_Detector_X-RAY](https://github.com/mcagriaksoy/COVID-19_Detector_X-RAY)
+  - Project description: CNN Based COVID-19 Detector via Chest X-Ray images
+
+- [hakantekgul/COVID-19_Classification](https://github.com/hakantekgul/COVID-19_Classification)
+  - Project description: A classifier to detect whether a patient has COVID 19 virus or not from chest X-Ray images.
+
+- [wahabrind/Covid-19_X-ray_classification](https://github.com/wahabrind/Covid-19_X-ray_classification)
+  - Project description: This repository contains data set for covid 19 and code for training covid 19 xray classification plus prediction
+
 
 ## Image Data
 
