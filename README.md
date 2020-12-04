@@ -723,6 +723,13 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [wahabrind/Covid-19_X-ray_classification](https://github.com/wahabrind/Covid-19_X-ray_classification)
   - Project description: This repository contains data set for covid 19 and code for training covid 19 xray classification plus prediction
 
+- [luchonaveiro/covid-19-xray](https://github.com/luchonaveiro/covid-19-xray)
+  - Project description: Detecting COVID-19 on X-ray images using Tensorflow 2
+    - Related blog post: [Detecting COVID-19 with X-ray images and TensorFlow](https://medium.com/analytics-vidhya/detecting-covid-19-with-x-ray-images-and-tensorflow-fd3d2302bb6)
+
+- [Shintaki/Covid19-Xray-Classification](https://github.com/Shintaki/Covid19-Xray-Classification)
+  - Project description: Classifying Covid19 positive cases from Xray images 
+
 
 ## Image Data
 
