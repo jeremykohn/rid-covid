@@ -738,6 +738,13 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
   - Project description: We use the x ray image to predict the covid 19
   - License: [MIT License](https://github.com/hongsea/viewmyai-covid-xray/blob/master/LICENSE)
 
+- [Impactech/covid_xray_prediction](https://github.com/Impactech/covid_xray_prediction)
+  - Project description: Using deep learning to predict COVID-19 from chest X-ray images
+
+- [nansravn/xray-covid19](https://github.com/nansravn/xray-covid19)
+  - Project description: In this tutorial, instead of using TensorFlow and Keras, Azure Custom Vision is being used as the engine for training the Image Classification model.
+  - License: [MIT License](https://github.com/nansravn/xray-covid19/blob/master/LICENSE)
+
 
 ## Image Data
 
