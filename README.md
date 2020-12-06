@@ -730,6 +730,14 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [Shintaki/Covid19-Xray-Classification](https://github.com/Shintaki/Covid19-Xray-Classification)
   - Project description: Classifying Covid19 positive cases from Xray images 
 
+- [dsapandora/basic_covid_19_xray](https://github.com/dsapandora/basic_covid_19_xray)
+  - Project description: Training our COVID-19 detector with Keras and TensorFlow
+  - License: [MIT License](https://github.com/dsapandora/basic_covid_19_xray/blob/master/LICENSE)
+
+- [hongsea/viewmyai-covid-xray](https://github.com/hongsea/viewmyai-covid-xray)
+  - Project description: We use the x ray image to predict the covid 19
+  - License: [MIT License](https://github.com/hongsea/viewmyai-covid-xray/blob/master/LICENSE)
+
 
 ## Image Data
 
