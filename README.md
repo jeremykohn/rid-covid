@@ -185,6 +185,10 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
     - Related research paper: [A Fully Automated Deep Learning-based Network For Detecting COVID-19 from a New And Large Lung CT Scan Dataset](https://doi.org/10.1101/2020.06.08.20121541) (Mohammad Rahimzadeh, Abolfazl Attar, Seyed Mohammad Sakhaei)
     - Related dataset: https://github.com/mr7495/COVID-CTset
 
+- [mr7495/covid19](https://github.com/mr7495/covid19)
+  - Project description: Covid-19 and Pneumonia detection from X-ray Images
+    - Related research paper: [A modified deep convolutional neural network for detecting COVID-19 and pneumonia from chest X-ray images based on the concatenation of Xception and ResNet50V2](https://doi.org/10.1016/j.imu.2020.100360) (Mohammad Rahimzadeh, Abolfazl Attar)
+
 - [AshleyRudland/covid19](https://github.com/AshleyRudland/covid19)
   - Project description: Upload images of CT/xray scans to see if a patient has COVID19. Not for production use yet, first POC.
     - Related blog post: [Detecting COVID-19 from X-Ray/CT Scans using AI with 98% Accuracy (Deep Learning) - Lesson #1](https://ashleyrudland.com/2020/03/16/detecting-covid19-with-ai.html)
