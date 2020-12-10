@@ -771,6 +771,16 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [yeohyuyong/covid-19-xray-classifier](https://github.com/yeohyuyong/covid-19-xray-classifier)
   - Project description: Covid-19 X-Ray Classifier
 
+- [rro2q2/COVID-19_XRay_CNN](https://github.com/rro2q2/COVID-19_XRay_CNN)
+  - Project description: Using a CNN to detect COVID-19 in X-Ray Scans
+  
+- [turahul/ChestXrayCovidDetector](https://github.com/turahul/ChestXrayCovidDetector)
+  - Project description: COVID-19-CHEST-X-RAY-DETECTOR
+  - License: [GNU General Public License (GPL) v3.0](https://github.com/turahul/ChestXrayCovidDetector/blob/master/LICENSE)
+
+- [Pranav63/COVID19_Detection](https://github.com/Pranav63/COVID19_Detection)
+  - Project description: This is an *educational* repo, just to try hands on, how to detect a covid +ve case from a Xray image. Implemented using TF, using VGG16 as the model for transfer learning.
+
 
 ## Image Data
 
