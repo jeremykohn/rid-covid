@@ -761,6 +761,15 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [AlexoDz/ai_covid_app](https://github.com/AlexoDz/ai_covid_app)
   - Project description: Flutter AI COVID-19 Detection using Chest-xray images application
 
+- [fral8/InceptionV3COVID19](https://github.com/fral8/InceptionV3COVID19)
+  - Project description: This research repository aims to share a methodology on the use of deep learning for XRAY lungs images in order to predict COVID, Pneumonia or Normal classes
+  - License: [Apache License 2.0](https://github.com/fral8/InceptionV3COVID19/blob/master/LICENSE)
+
+- [soumitra9/Covid-19-Detection-from-chest-Xrays](https://github.com/soumitra9/Covid-19-Detection-from-chest-Xrays)
+  - Project description: VGG16 model for detecting Covid-19
+  
+- [yeohyuyong/covid-19-xray-classifier](https://github.com/yeohyuyong/covid-19-xray-classifier)
+  - Project description: Covid-19 X-Ray Classifier
 
 
 ## Image Data
