@@ -745,6 +745,19 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
   - Project description: In this tutorial, instead of using TensorFlow and Keras, Azure Custom Vision is being used as the engine for training the Image Classification model.
   - License: [MIT License](https://github.com/nansravn/xray-covid19/blob/master/LICENSE)
 
+- [phaneendrakumarcv/covid19detectorcnn](https://github.com/phaneendrakumarcv/covid19detectorcnn)
+  - Project description: A simple CNN Model that can be used to predict if a person is infected with COVID19 using Xrays of Chest
+
+- [famunir/covid19-detection-using-Xray-images](https://github.com/famunir/covid19-detection-using-Xray-images)
+  - Project description: Detection of covid19 individuals using X-ray images
+
+- [AshuMaths1729/COVID-19_XRay_Classifier](https://github.com/AshuMaths1729/COVID-19_XRay_Classifier)
+  - Project description: The project aims to predict if a person is Normal or having normal Pneumonia or is suffering from COVID-19 Pneumonia.
+
+- [AlexoDz/ai_covid_app](https://github.com/AlexoDz/ai_covid_app)
+  - Project description: Flutter AI COVID-19 Detection using Chest-xray images application
+
+
 
 ## Image Data
 
