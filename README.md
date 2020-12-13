@@ -909,6 +909,22 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
   - Project description: This project presents a high resolution neural network to predict the presence of Covid-19 in chest xrays.
   - License: [Apache License 2.0](https://github.com/lukerschwan/Covid-19_Lung_Image_CNN/blob/master/LICENSE)
 
+- [billmono95/CNN-covid19-detection-xray](https://github.com/billmono95/CNN-covid19-detection-xray)
+  - Project description: A CNN that try to predict from an Xray if you are effect by COVID or by Pneumonia
+
+- [nigelhussain/Covid-19_Xray_Detection](https://github.com/nigelhussain/Covid-19_Xray_Detection)
+  - Project description: Repository for detecting covid-19 in x-rays
+
+- [cvillad/covid_xray_model](https://github.com/cvillad/covid_xray_model)
+  - Project description: Neural network for image classification
+
+- [shashwatwork/COVID-19-Chest-XRay-detection](https://github.com/shashwatwork/COVID-19-Chest-XRay-detection)
+  - Project description: COVID-19 Chest XRAY Detection using Streamlit
+
+- [onvungocminh/Covid-19Xray](https://github.com/onvungocminh/Covid-19Xray)
+  - Project description: This project is implemented to detect covid-19 by using Xray images.
+
+
 ---
 
 **NOTE**
