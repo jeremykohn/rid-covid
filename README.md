@@ -781,6 +781,17 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [Pranav63/COVID19_Detection](https://github.com/Pranav63/COVID19_Detection)
   - Project description: This is an *educational* repo, just to try hands on, how to detect a covid +ve case from a Xray image. Implemented using TF, using VGG16 as the model for transfer learning.
 
+- [saktheeswaranswan/covid-19-pneumonia-chest--xray-image-classification](https://github.com/saktheeswaranswan/covid-19-pneumonia-chest--xray-image-classification)
+  - Project description: Pneumonia Diagnosis using XRays
+
+- [masoudhassani/chest_xray_covid_19](https://github.com/masoudhassani/chest_xray_covid_19)
+  - Project description: Training a neural network model to detect covid-19 from chest X-rays
+  - License: [GNU General Public License (GPL) v3.0](https://github.com/masoudhassani/chest_xray_covid_19/blob/master/LICENSE)
+
+- [lukerschwan/Covid-19_Lung_Image_CNN](https://github.com/lukerschwan/Covid-19_Lung_Image_CNN)
+  - Project description: This project presents a high resolution neural network to predict the presence of Covid-19 in chest xrays.
+  - License: [Apache License 2.0](https://github.com/lukerschwan/Covid-19_Lung_Image_CNN/blob/master/LICENSE)
+
 
 ## Image Data
 
