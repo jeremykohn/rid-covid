@@ -5,6 +5,123 @@ A list of software projects, datasets, and other publicly available resources fo
 For now, the goal is to help people find what already exists. Eventually this effort may develop into a project to produce new diagnostic tools suitable for clinical use.
 
 
+## Image Data
+
+- [ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)
+  - Dataset description: We are building a database of COVID-19 cases with chest X-ray or CT images. We are looking for COVID-19 cases as well as MERS, SARS, and ARDS.
+    - Related research paper: [On the limits of cross-domain generalization in automated X-ray prediction](https://arxiv.org/abs/2002.02497) (Joseph Paul Cohen; Mohammad Hashir; Rupert Brooks; Hadrien Bertrand Mila, Université de Montréal)
+  - License: (Some images in this dataset are licensed under CC BY, CC BY-NC-SA, CC BY-NC-ND, or Apache 2.0; for many other images, the license is unknown)
+
+- [ml-workgroup/covid-19-image-repository](https://github.com/ml-workgroup/covid-19-image-repository)
+  - Dataset description: This project aims to create an anonymized data set of COVID-19 cases with a focus on radiological imaging. This includes images with extensive metadata, such as admission-, ICU-, laboratory-, and patient master-data.
+  - License: [Creative Commons CC BY 3.0](https://github.com/ml-workgroup/covid-19-image-repository/blob/master/LICENSE)
+
+- [UCSD-AI4H/COVID-CT](https://github.com/UCSD-AI4H/COVID-CT)
+  - Dataset description: The COVID-CT-Dataset has CT images containing clinical findings of COVID-19. We are continuously adding new COVID CT images and we would like to invite the community to contribute COVID CTs as well.
+    - Related research paper: [COVID-CT-Dataset: A CT Scan Dataset about COVID-19](https://arxiv.org/abs/2003.13865) (Jinyu Zhao, UC San Diego; Yichen Zhang, UC San Diego; Xuehai He, UC San Diego; Pengtao Xie, UC San Diego, Petuum Inc)
+
+- [agchung/Figure1-COVID-chestxray-dataset](https://github.com/agchung/Figure1-COVID-chestxray-dataset)
+  - Dataset description: Figure 1 COVID-19 Chest X-ray Dataset Initiative. We are building this dataset as a part of the COVIDx dataset to enhance our models for COVID-19 detection. Please see the main [COVID-Net](https://github.com/lindawangg/COVID-Net) repo for details on data extraction and instructions for creating the full COVIDx dataset.
+
+- [coyotespike/covid19-images](https://github.com/coyotespike/covid19-images)
+  - Dataset description: A large collection of COVID-19 radiology imaging datasets for use in machine learning.
+
+- [CORONACASES.ORG](https://coronacases.org/)
+  - Dataset description: This community is for health professionals to share confirmed cases of coronavirus. We review posts in order to assure anonymization.
+
+- [COVID-19 BSTI Imaging Database](https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/)
+  - Dataset description: The British Society of Thoracic Imaging (BSTI), in conjunction with Cimar UK’s Imaging Cloud Technology (cimar.co.uk), have designed, built and deployed a simple, free to use, anonymised and encrypted online portal to upload and refer imaging of patients with either confirmed or suspected COVID-19. From these cases, BSTI hope to provide an imaging database of known UK patient examples for reference and teaching.
+
+- [The Role of Chest Imaging in Patient Management during the COVID-19 Pandemic](https://www.fleischner-covid19.org/)
+  - Dataset description: Welcome to the Fleischner Society’s educational repository of radiographic and CT images of patients diagnosed with COVID-19. We provide this on-line supplement to our published statement as an aid to familiarize the medical community with the typical imaging findings of COVID-19. 
+
+- [SIRM COVID-19 DATABASE](https://www.sirm.org/category/senza-categoria/covid-19/)
+  - Dataset description: COVID-19 radiological cases from the Italian Society of Medical Radiology (SIRM), including images from X-rays and CT scans.
+
+- [farmy-ai/covid-fighters](https://github.com/farmy-ai/covid-fighters)
+  - Dataset description: Data collection and label tool for COVID-19 disease chest scans. 
+  - Project website: [COVIDEEP](http://www.covideep.net)
+
+- [COVID-19 Radiography Database](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database)
+  - Dataset description: A team of researchers from Qatar University, Doha, Qatar and the University of Dhaka, Bangladesh along with their collaborators from Pakistan and Malaysia in collaboration with medical doctors have created a database of chest X-ray images for COVID-19 positive cases along with Normal and Viral Pneumonia images. 
+    - Related research paper: [Can AI help in screening Viral and COVID-19 pneumonia?](https://arxiv.org/abs/2003.13145) (M.E.H. Chowdhury, T. Rahman, A. Khandakar, R. Mazhar, M.A. Kadir, Z.B. Mahbub, K.R. Islam, M.S. Khan, A. Iqbal, N. Al-Emadi, M.B.I. Reaz)
+    - Code repository: [tawsifur/COVID-19-Chest-X-ray-Detection](https://github.com/tawsifur/COVID-19-Chest-X-ray-Detection)  
+
+- [Aman9026/COVID-19-Predictor-dataset](https://github.com/Aman9026/COVID-19-Predictor-dataset)
+  - Dataset description: Predict COVID-19 by analyzing chest X-Ray images in this dataset.
+
+- [Radiopaedia](https://radiopaedia.org/)
+  - Dataset description: Radiopaedia.org is a rapidly growing, open-edit radiology resource, compiled by radiologists and other health professionals from across the globe.
+  - Search for COVID cases: https://radiopaedia.org/search?lang=us&page=6&q=covid&scope=cases
+  - License: [Modified CC license](https://radiopaedia.org/terms)
+
+- [Eurorad](https://www.eurorad.org/)
+  - Dataset description: The purpose of Eurorad is to provide a learning environment for radiologists, radiology residents and students worldwide. It is a peer-reviewed educational tool based on radiological case reports.
+  - Search for COVID cases: https://www.eurorad.org/advanced-search?search=COVID
+
+- [SARS-COV-2 Ct-Scan Dataset](https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset)
+  - Dataset description: A large dataset of CT scans for SARS-CoV-2 (COVID-19) identification
+    - Related research paper: [SARS-CoV-2 CT-scan dataset: A large dataset of real patients CT scans for SARS-CoV-2 identification](https://www.medrxiv.org/content/10.1101/2020.04.24.20078584v3) (Eduardo Soares, Plamen Angelov, Sarah Biaso, Michele Higa Froes, Daniel Kanda Abe)
+    - Code repository: https://github.com/Plamen-Eduardo/xDNN-SARS-CoV-2-CT-Scan
+  - License: [Creative Commons CC BY-NC-SA 4.0](https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset)
+
+- [China National Center for Bioinformation: 2019 Novel Coronavirus Resource (2019nCoVR)](http://ncov-ai.big.ac.cn/download?lang=en)
+  - Dataset description: Dataset of the CT images and metadata are constructed from cohorts from the China Consortium of Chest CT Image Investigation (CC-CCII). All CT images are classified into novel coronavirus pneumonia (NCP) due to SARS-CoV-2 virus infection, common pneumonia and normal controls. This dataset is available globally with the aim to assist the clinicians and researchers to combat the COVID-19 pandemic.
+    - Related research paper: [Clinically Applicable AI System for Accurate Diagnosis, Quantitative Measurements and Prognosis of COVID-19 Pneumonia Using Computed Tomography](https://www.cell.com/cell/fulltext/S0092-8674(20)30551-1?rss=yes) (Kang Zhang, Xiaohong Liu, Jun Shen, et al. Jianxing He, Tianxin Lin, Weimin Li, Guangyu Wang)
+
+- [mr7495/COVID-CTset](https://github.com/mr7495/COVID-CTset)
+  - Dataset description: Large Covid-19 CT scans dataset from paper: https://doi.org/10.1101/2020.06.08.20121541
+    - The dataset is shared in this folder:
+https://drive.google.com/drive/folders/1xdk-mCkxCDNwsMAk2SGv203rY1mrbnPB?usp=sharing
+    - Related research paper: [A Fully Automated Deep Learning-based Network For Detecting COVID-19 from a New And Large Lung CT Scan Dataset](https://doi.org/10.1101/2020.06.08.20121541) (Mohammad Rahimzadeh, Abolfazl Attar, Seyed Mohammad Sakhaei)
+    - Code repository: https://github.com/mr7495/COVID-CT-Code
+
+- [aniruddh-1/COVID19_Pneumonia_detection/tree/master/ct_scan_dataset](https://github.com/aniruddh-1/COVID19_Pneumonia_detection/tree/master/ct_scan_dataset)
+  - Dataset description: Images taken from https://github.com/UCSD-AI4H/COVID-CT/tree/master/Images-processed and then converted into PNG format
+    - Code repository: https://github.com/aniruddh-1/COVID19_Pneumonia_detection/tree/master/codes
+
+- [mohammad2682/Covid19-Dataset](https://github.com/mohammad2682/Covid19-Dataset)
+  - Dataset description: This dataset contains 1252 CT scans that are positive for SARS-CoV-2 infection (COVID-19) and 1230 CT scans for patients non-infected by SARS-CoV-2, 2482 CT scans in total.
+    - Dataset on Kaggle: http://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset
+    - Related research paper: [EXPLAINABLE-BY-DESIGN APPROACH FOR COVID-19
+CLASSIFICATION VIA CT-SCAN](https://eprints.lancs.ac.uk/id/eprint/143767/1/EXPLAINABLE_BY_DESIGN_APPROACH_FOR_COVID_19_CLASSI.pdf) (Plamen Angelov and Eduardo Almeida Soares)
+    - Related research paper: [SARS-CoV-2 CT-scan dataset: A large dataset of real patients CT scans for SARS-CoV-2 identification](https://doi.org/10.1101/2020.04.24.20078584) (Eduardo Soares, Plamen Angelov, Sarah Biaso, Michele Higa Froes, Daniel Kanda Abe)
+
+- [ncbi-nlp/COVID-19-CT-CXR](https://github.com/ncbi-nlp/COVID-19-CT-CXR)
+  - Dataset description: COVID-19-CT-CXR is a public database of COVID-19 CXR and CT images, which are automatically extracted from COVID-19-relevant articles from the PubMed Central Open Access (PMC-OA) Subset. The annotations, relevant text, and a local copy of figures can be found at https://github.com/ncbi-nlp/COVID-19-CT-CXR/releases/
+    - Related research paper: [COVID-19-CT-CXR: a freely accessible and weakly labeled chest X-ray and CT image collection on COVID-19 from biomedical literature](https://arxiv.org/abs/2006.06177) (Yifan Peng, Yu-Xing Tang, Sungwon Lee, Yingying Zhu, Ronald M. Summers, Zhiyong Lu)
+    - Dataset citation: Peng Y, Tang YX, Lee S, Zhu Y, Summers RM, Lu Z. COVID-19-CT-CXR: a freely accessible and weakly labeled chest X-ray and CT image collection on COVID-19 from the biomedical literature. arxiv:2006.06177. 2020.
+
+- [A large dataset of real patients CT scans for COVID-19 identification](https://doi.org/10.7910/DVN/SZDUQX)
+  - Dataset description: We describe a publicly available multiclass CT scan dataset for SARS-CoV-2 infection identification. These data have been collected in the Public Hospital of the Government Employees of Sao Paulo (HSPM) and the Metropolitan Hospital of Lapa, both in Sao Paulo - Brazil. 
+    - Related research paper: [SARS-CoV-2 CT-scan dataset: A large dataset of real patients CT scans for SARS-CoV-2 identification](https://www.medrxiv.org/content/10.1101/2020.04.24.20078584v3) (Eduardo Soares, Plamen Angelov, Sarah Biaso, Michele Higa Froes, Daniel Kanda Abe)
+    - Dataset citation: Soares, Eduardo; Angelov, Plamen, 2020, "A large dataset of real patients CT scans for COVID-19 identification", https://doi.org/10.7910/DVN/SZDUQX, Harvard Dataverse, V1
+
+- [lido1500/Extensive-and-Augmented-COVID-19-X-Ray-and-CT-Chest-Images-Dataset-](https://github.com/lido1500/Extensive-and-Augmented-COVID-19-X-Ray-and-CT-Chest-Images-Dataset-)
+  - Dataset description: This COVID-19 dataset consists of Non-COVID and COVID cases of both X-ray and CT images. The associated dataset is augmented with different augmentation techniques to generate about 17100 X-ray and CT images. 
+    - You can download this dataset from the following link: https://data.mendeley.com/datasets/8h65ywd2jr/2
+    - Dataset citation: El-Shafai, Walid; E. Abd El-Samie, Fathi (2020), “Extensive and Augmented COVID-19 X-Ray and CT Chest Images Dataset”, Mendeley Data, v2
+    - Other dataset versions: [v1](https://data.mendeley.com/datasets/8h65ywd2jr/1), [v2](https://data.mendeley.com/datasets/8h65ywd2jr/2), [v3](https://data.mendeley.com/datasets/8h65ywd2jr/3)
+
+- [BrixIA: COVID19 severity score assessment project and database](https://brixia.github.io/)
+  - Dataset description: We designed an end-to-end deep learning architecture for predicting, on Chest X-rays images (CRX), a multi-regional score conveying the degree of lung compromise in COVID-19 patients. Such scoring system, namely Brixia score, was applied in serial monitoring of such patients, showing significant prognostic value, in one of the hospitals that experienced one of the highest pandemic peaks in Italy. Moreover, we provide the full dataset with the related metadata and Brixia score annotations, and the code to reproduce our results.
+    - Related research paper: [End-to-end learning for semiquantitative rating of COVID-19 severity on Chest X-rays](https://arxiv.org/abs/2006.04603) (Alberto Signoroni, Mattia Savardi, Sergio Benini, Nicola Adami, Riccardo Leonardi, Paolo Gibellini, Filippo Vaccher, Marco Ravanelli, Andrea Borghesi, Roberto Maroldi, Davide Farina (University of Brescia))
+    - Code repository: [BrixIA/Brixia-score-COVID-19](https://github.com/BrixIA/Brixia-score-COVID-19)
+
+- [v7labs/covid-19-xray-dataset](https://github.com/v7labs/covid-19-xray-dataset)
+  - Dataset description: 12000+ manually drawn pixel-level lung segmentations, with and without covid. **WARNING:** This dataset is not intended for use in clinical diagnostics.
+    - Browse & download the dataset on V7 Darwin here: https://darwin.v7labs.com/v7-labs/covid-19-chest-x-ray-dataset
+
+- [GeneralBlockchain/covid-19-chest-xray-segmentations-dataset](https://github.com/GeneralBlockchain/covid-19-chest-xray-segmentations-dataset)
+  - Dataset description: Lung Segmentations of COVID-19 Chest X-ray Dataset.
+
+- [GeneralBlockchain/covid-19-chest-xray-lung-bounding-boxes-dataset](https://github.com/GeneralBlockchain/covid-19-chest-xray-lung-bounding-boxes-dataset)
+  - Dataset description: Lung Bounding Boxes of COVID-19 Chest X-ray Dataset.
+
+
+
+
+
 ## Software Projects and Tutorials
 
 - [JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR)
@@ -791,120 +908,6 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [lukerschwan/Covid-19_Lung_Image_CNN](https://github.com/lukerschwan/Covid-19_Lung_Image_CNN)
   - Project description: This project presents a high resolution neural network to predict the presence of Covid-19 in chest xrays.
   - License: [Apache License 2.0](https://github.com/lukerschwan/Covid-19_Lung_Image_CNN/blob/master/LICENSE)
-
-
-## Image Data
-
-- [ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)
-  - Dataset description: We are building a database of COVID-19 cases with chest X-ray or CT images. We are looking for COVID-19 cases as well as MERS, SARS, and ARDS.
-    - Related research paper: [On the limits of cross-domain generalization in automated X-ray prediction](https://arxiv.org/abs/2002.02497) (Joseph Paul Cohen; Mohammad Hashir; Rupert Brooks; Hadrien Bertrand Mila, Université de Montréal)
-  - License: (Some images in this dataset are licensed under CC BY, CC BY-NC-SA, CC BY-NC-ND, or Apache 2.0; for many other images, the license is unknown)
-
-- [ml-workgroup/covid-19-image-repository](https://github.com/ml-workgroup/covid-19-image-repository)
-  - Dataset description: This project aims to create an anonymized data set of COVID-19 cases with a focus on radiological imaging. This includes images with extensive metadata, such as admission-, ICU-, laboratory-, and patient master-data.
-  - License: [Creative Commons CC BY 3.0](https://github.com/ml-workgroup/covid-19-image-repository/blob/master/LICENSE)
-
-- [UCSD-AI4H/COVID-CT](https://github.com/UCSD-AI4H/COVID-CT)
-  - Dataset description: The COVID-CT-Dataset has CT images containing clinical findings of COVID-19. We are continuously adding new COVID CT images and we would like to invite the community to contribute COVID CTs as well.
-    - Related research paper: [COVID-CT-Dataset: A CT Scan Dataset about COVID-19](https://arxiv.org/abs/2003.13865) (Jinyu Zhao, UC San Diego; Yichen Zhang, UC San Diego; Xuehai He, UC San Diego; Pengtao Xie, UC San Diego, Petuum Inc)
-
-- [agchung/Figure1-COVID-chestxray-dataset](https://github.com/agchung/Figure1-COVID-chestxray-dataset)
-  - Dataset description: Figure 1 COVID-19 Chest X-ray Dataset Initiative. We are building this dataset as a part of the COVIDx dataset to enhance our models for COVID-19 detection. Please see the main [COVID-Net](https://github.com/lindawangg/COVID-Net) repo for details on data extraction and instructions for creating the full COVIDx dataset.
-
-- [coyotespike/covid19-images](https://github.com/coyotespike/covid19-images)
-  - Dataset description: A large collection of COVID-19 radiology imaging datasets for use in machine learning.
-
-- [CORONACASES.ORG](https://coronacases.org/)
-  - Dataset description: This community is for health professionals to share confirmed cases of coronavirus. We review posts in order to assure anonymization.
-
-- [COVID-19 BSTI Imaging Database](https://www.bsti.org.uk/training-and-education/covid-19-bsti-imaging-database/)
-  - Dataset description: The British Society of Thoracic Imaging (BSTI), in conjunction with Cimar UK’s Imaging Cloud Technology (cimar.co.uk), have designed, built and deployed a simple, free to use, anonymised and encrypted online portal to upload and refer imaging of patients with either confirmed or suspected COVID-19. From these cases, BSTI hope to provide an imaging database of known UK patient examples for reference and teaching.
-
-- [The Role of Chest Imaging in Patient Management during the COVID-19 Pandemic](https://www.fleischner-covid19.org/)
-  - Dataset description: Welcome to the Fleischner Society’s educational repository of radiographic and CT images of patients diagnosed with COVID-19. We provide this on-line supplement to our published statement as an aid to familiarize the medical community with the typical imaging findings of COVID-19. 
-
-- [SIRM COVID-19 DATABASE](https://www.sirm.org/category/senza-categoria/covid-19/)
-  - Dataset description: COVID-19 radiological cases from the Italian Society of Medical Radiology (SIRM), including images from X-rays and CT scans.
-
-- [farmy-ai/covid-fighters](https://github.com/farmy-ai/covid-fighters)
-  - Dataset description: Data collection and label tool for COVID-19 disease chest scans. 
-  - Project website: [COVIDEEP](http://www.covideep.net)
-
-- [COVID-19 Radiography Database](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database)
-  - Dataset description: A team of researchers from Qatar University, Doha, Qatar and the University of Dhaka, Bangladesh along with their collaborators from Pakistan and Malaysia in collaboration with medical doctors have created a database of chest X-ray images for COVID-19 positive cases along with Normal and Viral Pneumonia images. 
-    - Related research paper: [Can AI help in screening Viral and COVID-19 pneumonia?](https://arxiv.org/abs/2003.13145) (M.E.H. Chowdhury, T. Rahman, A. Khandakar, R. Mazhar, M.A. Kadir, Z.B. Mahbub, K.R. Islam, M.S. Khan, A. Iqbal, N. Al-Emadi, M.B.I. Reaz)
-    - Code repository: [tawsifur/COVID-19-Chest-X-ray-Detection](https://github.com/tawsifur/COVID-19-Chest-X-ray-Detection)  
-
-- [Aman9026/COVID-19-Predictor-dataset](https://github.com/Aman9026/COVID-19-Predictor-dataset)
-  - Dataset description: Predict COVID-19 by analyzing chest X-Ray images in this dataset.
-
-- [Radiopaedia](https://radiopaedia.org/)
-  - Dataset description: Radiopaedia.org is a rapidly growing, open-edit radiology resource, compiled by radiologists and other health professionals from across the globe.
-  - Search for COVID cases: https://radiopaedia.org/search?lang=us&page=6&q=covid&scope=cases
-  - License: [Modified CC license](https://radiopaedia.org/terms)
-
-- [Eurorad](https://www.eurorad.org/)
-  - Dataset description: The purpose of Eurorad is to provide a learning environment for radiologists, radiology residents and students worldwide. It is a peer-reviewed educational tool based on radiological case reports.
-  - Search for COVID cases: https://www.eurorad.org/advanced-search?search=COVID
-
-- [SARS-COV-2 Ct-Scan Dataset](https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset)
-  - Dataset description: A large dataset of CT scans for SARS-CoV-2 (COVID-19) identification
-    - Related research paper: [SARS-CoV-2 CT-scan dataset: A large dataset of real patients CT scans for SARS-CoV-2 identification](https://www.medrxiv.org/content/10.1101/2020.04.24.20078584v3) (Eduardo Soares, Plamen Angelov, Sarah Biaso, Michele Higa Froes, Daniel Kanda Abe)
-    - Code repository: https://github.com/Plamen-Eduardo/xDNN-SARS-CoV-2-CT-Scan
-  - License: [Creative Commons CC BY-NC-SA 4.0](https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset)
-
-- [China National Center for Bioinformation: 2019 Novel Coronavirus Resource (2019nCoVR)](http://ncov-ai.big.ac.cn/download?lang=en)
-  - Dataset description: Dataset of the CT images and metadata are constructed from cohorts from the China Consortium of Chest CT Image Investigation (CC-CCII). All CT images are classified into novel coronavirus pneumonia (NCP) due to SARS-CoV-2 virus infection, common pneumonia and normal controls. This dataset is available globally with the aim to assist the clinicians and researchers to combat the COVID-19 pandemic.
-    - Related research paper: [Clinically Applicable AI System for Accurate Diagnosis, Quantitative Measurements and Prognosis of COVID-19 Pneumonia Using Computed Tomography](https://www.cell.com/cell/fulltext/S0092-8674(20)30551-1?rss=yes) (Kang Zhang, Xiaohong Liu, Jun Shen, et al. Jianxing He, Tianxin Lin, Weimin Li, Guangyu Wang)
-
-- [mr7495/COVID-CTset](https://github.com/mr7495/COVID-CTset)
-  - Dataset description: Large Covid-19 CT scans dataset from paper: https://doi.org/10.1101/2020.06.08.20121541
-    - The dataset is shared in this folder:
-https://drive.google.com/drive/folders/1xdk-mCkxCDNwsMAk2SGv203rY1mrbnPB?usp=sharing
-    - Related research paper: [A Fully Automated Deep Learning-based Network For Detecting COVID-19 from a New And Large Lung CT Scan Dataset](https://doi.org/10.1101/2020.06.08.20121541) (Mohammad Rahimzadeh, Abolfazl Attar, Seyed Mohammad Sakhaei)
-    - Code repository: https://github.com/mr7495/COVID-CT-Code
-
-- [aniruddh-1/COVID19_Pneumonia_detection/tree/master/ct_scan_dataset](https://github.com/aniruddh-1/COVID19_Pneumonia_detection/tree/master/ct_scan_dataset)
-  - Dataset description: Images taken from https://github.com/UCSD-AI4H/COVID-CT/tree/master/Images-processed and then converted into PNG format
-    - Code repository: https://github.com/aniruddh-1/COVID19_Pneumonia_detection/tree/master/codes
-
-- [mohammad2682/Covid19-Dataset](https://github.com/mohammad2682/Covid19-Dataset)
-  - Dataset description: This dataset contains 1252 CT scans that are positive for SARS-CoV-2 infection (COVID-19) and 1230 CT scans for patients non-infected by SARS-CoV-2, 2482 CT scans in total.
-    - Dataset on Kaggle: http://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset
-    - Related research paper: [EXPLAINABLE-BY-DESIGN APPROACH FOR COVID-19
-CLASSIFICATION VIA CT-SCAN](https://eprints.lancs.ac.uk/id/eprint/143767/1/EXPLAINABLE_BY_DESIGN_APPROACH_FOR_COVID_19_CLASSI.pdf) (Plamen Angelov and Eduardo Almeida Soares)
-    - Related research paper: [SARS-CoV-2 CT-scan dataset: A large dataset of real patients CT scans for SARS-CoV-2 identification](https://doi.org/10.1101/2020.04.24.20078584) (Eduardo Soares, Plamen Angelov, Sarah Biaso, Michele Higa Froes, Daniel Kanda Abe)
-
-- [ncbi-nlp/COVID-19-CT-CXR](https://github.com/ncbi-nlp/COVID-19-CT-CXR)
-  - Dataset description: COVID-19-CT-CXR is a public database of COVID-19 CXR and CT images, which are automatically extracted from COVID-19-relevant articles from the PubMed Central Open Access (PMC-OA) Subset. The annotations, relevant text, and a local copy of figures can be found at https://github.com/ncbi-nlp/COVID-19-CT-CXR/releases/
-    - Related research paper: [COVID-19-CT-CXR: a freely accessible and weakly labeled chest X-ray and CT image collection on COVID-19 from biomedical literature](https://arxiv.org/abs/2006.06177) (Yifan Peng, Yu-Xing Tang, Sungwon Lee, Yingying Zhu, Ronald M. Summers, Zhiyong Lu)
-    - Dataset citation: Peng Y, Tang YX, Lee S, Zhu Y, Summers RM, Lu Z. COVID-19-CT-CXR: a freely accessible and weakly labeled chest X-ray and CT image collection on COVID-19 from the biomedical literature. arxiv:2006.06177. 2020.
-
-- [A large dataset of real patients CT scans for COVID-19 identification](https://doi.org/10.7910/DVN/SZDUQX)
-  - Dataset description: We describe a publicly available multiclass CT scan dataset for SARS-CoV-2 infection identification. These data have been collected in the Public Hospital of the Government Employees of Sao Paulo (HSPM) and the Metropolitan Hospital of Lapa, both in Sao Paulo - Brazil. 
-    - Related research paper: [SARS-CoV-2 CT-scan dataset: A large dataset of real patients CT scans for SARS-CoV-2 identification](https://www.medrxiv.org/content/10.1101/2020.04.24.20078584v3) (Eduardo Soares, Plamen Angelov, Sarah Biaso, Michele Higa Froes, Daniel Kanda Abe)
-    - Dataset citation: Soares, Eduardo; Angelov, Plamen, 2020, "A large dataset of real patients CT scans for COVID-19 identification", https://doi.org/10.7910/DVN/SZDUQX, Harvard Dataverse, V1
-
-- [lido1500/Extensive-and-Augmented-COVID-19-X-Ray-and-CT-Chest-Images-Dataset-](https://github.com/lido1500/Extensive-and-Augmented-COVID-19-X-Ray-and-CT-Chest-Images-Dataset-)
-  - Dataset description: This COVID-19 dataset consists of Non-COVID and COVID cases of both X-ray and CT images. The associated dataset is augmented with different augmentation techniques to generate about 17100 X-ray and CT images. 
-    - You can download this dataset from the following link: https://data.mendeley.com/datasets/8h65ywd2jr/2
-    - Dataset citation: El-Shafai, Walid; E. Abd El-Samie, Fathi (2020), “Extensive and Augmented COVID-19 X-Ray and CT Chest Images Dataset”, Mendeley Data, v2
-    - Other dataset versions: [v1](https://data.mendeley.com/datasets/8h65ywd2jr/1), [v2](https://data.mendeley.com/datasets/8h65ywd2jr/2), [v3](https://data.mendeley.com/datasets/8h65ywd2jr/3)
-
-- [BrixIA: COVID19 severity score assessment project and database](https://brixia.github.io/)
-  - Dataset description: We designed an end-to-end deep learning architecture for predicting, on Chest X-rays images (CRX), a multi-regional score conveying the degree of lung compromise in COVID-19 patients. Such scoring system, namely Brixia score, was applied in serial monitoring of such patients, showing significant prognostic value, in one of the hospitals that experienced one of the highest pandemic peaks in Italy. Moreover, we provide the full dataset with the related metadata and Brixia score annotations, and the code to reproduce our results.
-    - Related research paper: [End-to-end learning for semiquantitative rating of COVID-19 severity on Chest X-rays](https://arxiv.org/abs/2006.04603) (Alberto Signoroni, Mattia Savardi, Sergio Benini, Nicola Adami, Riccardo Leonardi, Paolo Gibellini, Filippo Vaccher, Marco Ravanelli, Andrea Borghesi, Roberto Maroldi, Davide Farina (University of Brescia))
-    - Code repository: [BrixIA/Brixia-score-COVID-19](https://github.com/BrixIA/Brixia-score-COVID-19)
-
-- [v7labs/covid-19-xray-dataset](https://github.com/v7labs/covid-19-xray-dataset)
-  - Dataset description: 12000+ manually drawn pixel-level lung segmentations, with and without covid. **WARNING:** This dataset is not intended for use in clinical diagnostics.
-    - Browse & download the dataset on V7 Darwin here: https://darwin.v7labs.com/v7-labs/covid-19-chest-x-ray-dataset
-
-- [GeneralBlockchain/covid-19-chest-xray-segmentations-dataset](https://github.com/GeneralBlockchain/covid-19-chest-xray-segmentations-dataset)
-  - Dataset description: Lung Segmentations of COVID-19 Chest X-ray Dataset.
-
-- [GeneralBlockchain/covid-19-chest-xray-lung-bounding-boxes-dataset](https://github.com/GeneralBlockchain/covid-19-chest-xray-lung-bounding-boxes-dataset)
-  - Dataset description: Lung Bounding Boxes of COVID-19 Chest X-ray Dataset.
 
 ---
 
