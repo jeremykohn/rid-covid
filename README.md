@@ -924,6 +924,9 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [onvungocminh/Covid-19Xray](https://github.com/onvungocminh/Covid-19Xray)
   - Project description: This project is implemented to detect covid-19 by using Xray images.
 
+- [11fenil11/Covid19-Detection-Using-Chest-X-Ray](https://github.com/11fenil11/Covid19-Detection-Using-Chest-X-Ray)
+  - Project description: Covid-19 detection in chest x-ray images using Convolution Neural Network.
+  - License: [MIT License](https://github.com/11fenil11/Covid19-Detection-Using-Chest-X-Ray/blob/master/LICENSE)
 
 ---
 
