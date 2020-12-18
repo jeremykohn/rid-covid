@@ -931,6 +931,15 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [SaikrishnaPulipati533/Covid19-XrayImages-DL-TerraAI-Project](https://github.com/SaikrishnaPulipati533/Covid19-XrayImages-DL-TerraAI-Project)
   - Project description: Identify covid19 x-ray images using keras, tensorflows
 
+- [itsvivekghosh/Detecting-COVID-19-using-Xray](https://github.com/itsvivekghosh/Detecting-COVID-19-using-Xray)
+  - Project description: Detect Disease using Deep Learning and Transfer Learning(ResNet50)
+  - License: [GNU General Public License (GPL) v3.0](https://github.com/itsvivekghosh/Detecting-COVID-19-using-Xray/blob/master/LICENSE)
+
+- [KhizarAziz/covid-detector](https://github.com/KhizarAziz/covid-detector)
+  - Project description: A multi class classifier based on fastai for xray classification and covid19 detection.
+
+- [saisrirammortha/Covid-Chest-Xray-Classification](https://github.com/saisrirammortha/Covid-Chest-Xray-Classification)
+  - Project description: Classify Chest X-ray Images of patients into COVID-Positive and Negative
 
 ---
 
