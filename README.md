@@ -928,6 +928,10 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
   - Project description: Covid-19 detection in chest x-ray images using Convolution Neural Network.
   - License: [MIT License](https://github.com/11fenil11/Covid19-Detection-Using-Chest-X-Ray/blob/master/LICENSE)
 
+- [SaikrishnaPulipati533/Covid19-XrayImages-DL-TerraAI-Project](https://github.com/SaikrishnaPulipati533/Covid19-XrayImages-DL-TerraAI-Project)
+  - Project description: Identify covid19 x-ray images using keras, tensorflows
+
+
 ---
 
 **NOTE**
