@@ -941,6 +941,16 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [saisrirammortha/Covid-Chest-Xray-Classification](https://github.com/saisrirammortha/Covid-Chest-Xray-Classification)
   - Project description: Classify Chest X-ray Images of patients into COVID-Positive and Negative
 
+- [DivyamSharma04/Covid-19-ChestXray-Prediction](https://github.com/DivyamSharma04/Covid-19-ChestXray-Prediction)
+  - Project description: Covid Prediction Through Chest X ray
+
+- [shashilsravan/codeintine](https://github.com/shashilsravan/codeintine)
+  - Project description: covid 19 detector with xray images
+
+- [arpit1920/COVID-19-Xray-Detection](https://github.com/arpit1920/COVID-19-Xray-Detection)
+  - Project description: Detecting COVID-19 in X-ray images with Keras, TensorFlow, and Deep Learning
+  - License: [MIT License](https://github.com/arpit1920/COVID-19-Xray-Detection/blob/master/LICENSE)
+
 ---
 
 **NOTE**
