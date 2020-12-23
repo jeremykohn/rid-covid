@@ -957,6 +957,19 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [K-adu/covid19-detection-from-xray](https://github.com/K-adu/covid19-detection-from-xray)
   - Project description: Covid detection using neuralnet
 
+- [daniel-obare/Chest-Xray-on--COVID-19-detection](https://github.com/daniel-obare/Chest-Xray-on--COVID-19-detection)
+  - Project description: Chest Analysis to detect X-ray image with COVID-19
+
+- [OrtizThiago/Licon-Xray](https://github.com/OrtizThiago/Licon-Xray)
+  - Project description: This repository aim to manage the creation of a CNN to auxiliate covid-19 diagnosis
+  - License: [MIT License](https://github.com/OrtizThiago/Licon-Xray/blob/master/LICENSE)
+
+- [l-kwok/COVID-19-XRAY-CNN](https://github.com/l-kwok/COVID-19-XRAY-CNN)
+  - Project description: Using Artificial Intelligence (Convolutional Neural Network) to detect COVID-19 in chest x-rays
+
+- [otsapp/covid-xray-classifier](https://github.com/otsapp/covid-xray-classifier)
+  - Project description: Uses pre-trained resnet-18 to classify x-ray images with developed covid-19 vs. other lung conditions
+
 
 ---
 
