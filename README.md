@@ -970,6 +970,9 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [otsapp/covid-xray-classifier](https://github.com/otsapp/covid-xray-classifier)
   - Project description: Uses pre-trained resnet-18 to classify x-ray images with developed covid-19 vs. other lung conditions
 
+- [jeevankishorekn/Covid-19-Deep-Learning-CNN](https://github.com/jeevankishorekn/Covid-19-Deep-Learning-CNN)
+  - Project description: A Deep Learning Model created using Convolution Neural Networks to detect Covid-19 by analysing a Chest XRay.
+
 
 ---
 
