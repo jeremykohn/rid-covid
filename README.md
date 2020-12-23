@@ -951,6 +951,13 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
   - Project description: Detecting COVID-19 in X-ray images with Keras, TensorFlow, and Deep Learning
   - License: [MIT License](https://github.com/arpit1920/COVID-19-Xray-Detection/blob/master/LICENSE)
 
+- [daniel-obare/Chest-Xray-on--COVID-19-detection](https://github.com/daniel-obare/Chest-Xray-on--COVID-19-detection)
+  - Project description: Chest Analysis to detect X-ray image with COVID-19
+
+- [K-adu/covid19-detection-from-xray](https://github.com/K-adu/covid19-detection-from-xray)
+  - Project description: Covid detection using neuralnet
+
+
 ---
 
 **NOTE**
