@@ -973,6 +973,26 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [jeevankishorekn/Covid-19-Deep-Learning-CNN](https://github.com/jeevankishorekn/Covid-19-Deep-Learning-CNN)
   - Project description: A Deep Learning Model created using Convolution Neural Networks to detect Covid-19 by analysing a Chest XRay.
 
+- [deepakkvresearch/covid-detection-from-xrays](https://github.com/deepakkvresearch/covid-detection-from-xrays)
+  - Project description: We present CovidAID (Covid AI Detector), a PyTorch (python3) based implementation, to identify COVID-19 cases from X-Ray images. 
+
+- [ArkaprabhaChakraborty/ChestXrayCOVID-19](https://github.com/ArkaprabhaChakraborty/ChestXrayCOVID-19)
+  - Project description: Using chest xray images to identify COVID-19 patients
+
+- [DrDavidEllison/COVID_19_Xray](https://github.com/DrDavidEllison/COVID_19_Xray)
+  - Project description: Deep learning classifier to identify covid-19 cases from X-ray images
+
+- [Arksyd96/covid19-detection-with-xray-image-keras](https://github.com/Arksyd96/covid19-detection-with-xray-image-keras)
+  - Project description: COVID-19 detection neural networik using X-ray images dataset and keras
+  - License: [MIT License](https://github.com/Arksyd96/covid19-detection-with-xray-image-keras/blob/master/LICENSE)
+
+- [subhrangshu/covid-19-xray](https://github.com/subhrangshu/covid-19-xray)
+  - Project description: Classification of Covid-19 vs Normal with Chest X-Ray and Transfer Learning
+  - License: [MIT License](https://github.com/subhrangshu/covid-19-xray/blob/master/LICENSE)
+
+- [AyobamiAdebesin/Identifying-COVID19-from-Xray-](https://github.com/AyobamiAdebesin/Identifying-COVID19-from-Xray-)
+  - Project description: An attempt to use Keras to detect covid-19 from X-ray images
+
 
 ---
 
