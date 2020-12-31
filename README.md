@@ -993,6 +993,12 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [AyobamiAdebesin/Identifying-COVID19-from-Xray-](https://github.com/AyobamiAdebesin/Identifying-COVID19-from-Xray-)
   - Project description: An attempt to use Keras to detect covid-19 from X-ray images
 
+- [abr-98/Covid-19_x_ray_detection](https://github.com/abr-98/Covid-19_x_ray_detection)
+  - Project description: Covid-19 Detection using CNN using Chest Xray
+  - License: [MIT License](https://github.com/abr-98/Covid-19_x_ray_detection/blob/master/LICENSE)
+
+- [chetanpopli/covid_detection_using_xray](https://github.com/chetanpopli/covid_detection_using_xray)
+  - Project description: A program to predict whether a person is covid-19 positive or negative on the basis of their chest X-ray, using machine learning
 
 ---
 
