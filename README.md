@@ -1000,6 +1000,19 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [chetanpopli/covid_detection_using_xray](https://github.com/chetanpopli/covid_detection_using_xray)
   - Project description: A program to predict whether a person is covid-19 positive or negative on the basis of their chest X-ray, using machine learning
 
+- [rjn01/COVID-19-Xray](https://github.com/rjn01/COVID-19-Xray)
+  - Project description: COVID-19 X-Ray Scan
+
+- [sarbajyoti123/Artificial-Intelligence-Covid-19-detection-using-X-rays-and-CT-scans](https://github.com/sarbajyoti123/Artificial-Intelligence-Covid-19-detection-using-X-rays-and-CT-scans)
+  - Project description: This Covid-19 detection detects Covid-19,Pneumonia and Normal from Xrays & CT-scans.
+  - License: [BSD 3-Clause License](https://github.com/sarbajyoti123/Artificial-Intelligence-Covid-19-detection-using-X-rays-and-CT-scans/blob/master/LICENSE)
+
+- [deril2605/Predict-Covid19-using-Chest-XRay-Images](https://github.com/deril2605/Predict-Covid19-using-Chest-XRay-Images)
+  - Project description: Uses VGG16 model to predict Covid19 from chest XRay images
+  
+- [Jishan-works/Covid-19-Xray-classification-RESNET50-flask-deployment-](https://github.com/Jishan-works/Covid-19-Xray-classification-RESNET50-flask-deployment-)
+  - Project description: Repo for Covid-19 Xray classification
+
 ---
 
 **NOTE**
