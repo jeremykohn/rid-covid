@@ -1000,6 +1000,9 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [chetanpopli/covid_detection_using_xray](https://github.com/chetanpopli/covid_detection_using_xray)
   - Project description: A program to predict whether a person is covid-19 positive or negative on the basis of their chest X-ray, using machine learning
 
+- [ambikasadhu1101/CovidDetectionFromChest-XRay](https://github.com/ambikasadhu1101/CovidDetectionFromChest-XRay)
+  - Project description: Finding COVID-19 positive patients using Chest XRay images
+
 - [rjn01/COVID-19-Xray](https://github.com/rjn01/COVID-19-Xray)
   - Project description: COVID-19 X-Ray Scan
 
