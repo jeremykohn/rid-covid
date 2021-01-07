@@ -1017,6 +1017,15 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [Jishan-works/Covid-19-Xray-classification-RESNET50-flask-deployment-](https://github.com/Jishan-works/Covid-19-Xray-classification-RESNET50-flask-deployment-)
   - Project description: Repo for Covid-19 Xray classification
 
+- [jawadtariq1996/COVID19-Detection](https://github.com/jawadtariq1996/COVID19-Detection)
+  - Project description: This project involves experimentation with XRAY dataset to detect COVID19. I used transfer learning and performed different experiments to improve the accuracy. I also used Focal Loss Function to solve the problem of imblance dataset.
+  
+- [dusaurabh/COVID19](https://github.com/dusaurabh/COVID19)  
+  - Project description: This repository contains COVID19 Detection from XRay Images
+
+- [bhavita/CovidPrediction](https://github.com/bhavita/CovidPrediction)  
+  - Project description: Proof of concept for COVID-19 prediction using Patient's Xray for analysis.
+
 ---
 
 **NOTE**
