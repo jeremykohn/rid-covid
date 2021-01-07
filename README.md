@@ -119,9 +119,6 @@ CLASSIFICATION VIA CT-SCAN](https://eprints.lancs.ac.uk/id/eprint/143767/1/EXPLA
   - Dataset description: Lung Bounding Boxes of COVID-19 Chest X-ray Dataset.
 
 
-
-
-
 ## Software Projects and Tutorials
 
 - [JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR)
@@ -176,7 +173,6 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 
 - [AleGiovanardi/covidhelper](https://github.com/AleGiovanardi/covidhelper)
   - Project description: Detect COVID19 infection from RX and CT scans
-  
 
 - [rekalantar/covid19_detector](https://github.com/rekalantar/covid19_detector)
   - Project description: Using Deep Learning to detect Covid-19 from X-Ray/CT scans of patients
@@ -295,7 +291,7 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
   - License: [MIT License](https://github.com/amobiny/DECAPS_for_COVID19/blob/master/LICENSE)
 
 - [junqiangchen/COVID-CT19-Challenge](https://github.com/junqiangchen/COVID-CT19-Challenge)
-  - Project description: This is an example of classifying each CT image into positive COVID-19 (the image has clinical findings of COVID-19) or negative COVID-19 ( the image does not have clinical findings of COVID-19).
+  - Project description: This is an example of classifying each CT image into positive COVID-19 (the image has clinical findings of COVID-19) or negative COVID-19 (the image does not have clinical findings of COVID-19).
 
 - [mr7495/COVID-CT-Code](https://github.com/mr7495/COVID-CT-Code)
   - Project description: Fully automated code for Covid-19 detection from CT scans from paper: https://doi.org/10.1101/2020.06.08.20121541
