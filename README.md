@@ -1026,6 +1026,21 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [bhavita/CovidPrediction](https://github.com/bhavita/CovidPrediction)  
   - Project description: Proof of concept for COVID-19 prediction using Patient's Xray for analysis.
 
+- [ioseff-i/Covid_19_Chest_Xray](https://github.com/ioseff-i/Covid_19_Chest_Xray)
+  - Project description: Classification of the Chest X-ray images using the Convolutional Neural Networks
+
+- [vishnuexe/Covid-detection-from-xrays-using-pytorch](https://github.com/vishnuexe/Covid-detection-from-xrays-using-pytorch)
+  - Project description: The objective of this project is to create an image classification model that can predict Chest X-Ray scans that belong to one of the three classes with a reasonably high accuracy (Normal, Viral Pneumonia and COVID-19).
+
+- [Siddharth3013/Covid-Xray-Detector](https://github.com/Siddharth3013/Covid-Xray-Detector)
+  - Project description: Detection of Covid19 through Xray images.
+
+- [arnavmehta7/COVID_DETECTOR](https://github.com/arnavmehta7/COVID_DETECTOR)
+  - Project description: This is the file to detect corona with the lung xray trained with transfer learning VGG-16
+
+- [SethurajS/Covid-Xray-Diagnosis](https://github.com/SethurajS/Covid-Xray-Diagnosis)
+  - Project description: Diagnose COVID using Chest X-ray images.
+
 ---
 
 **NOTE**
