@@ -1041,6 +1041,21 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [SethurajS/Covid-Xray-Diagnosis](https://github.com/SethurajS/Covid-Xray-Diagnosis)
   - Project description: Diagnose COVID using Chest X-ray images.
 
+- [aditis1204/Covid_Detection](https://github.com/aditis1204/Covid_Detection)
+  - Project description: Covid 19 Detection using Transfer Learning on chest xray images
+
+- [ruchakhopkar/COVID-19-detection](https://github.com/ruchakhopkar/COVID-19-detection)
+  - Project description: Detecting COVID-19 with the help of chest xrays. The training is done on pytorch by a pretrained RESNET-18 model.
+
+- [evaandres/Covid19-xray](https://github.com/evaandres/Covid19-xray)
+  - Project description: Deep Learning solution on cloud
+
+- [varunpusarla/Covid19Detector](https://github.com/varunpusarla/Covid19Detector)
+  - Project description: A covid19 detector that works on XRay images created using CNNs
+
+- [Vishwabvs/COVID-19-Prediction-Using-X-Ray-Images](https://github.com/Vishwabvs/COVID-19-Prediction-Using-X-Ray-Images)
+  - Project description: Given a Xray image of a person, the trained model predicts whether a person is affected with Corona Virus
+
 ---
 
 **NOTE**
