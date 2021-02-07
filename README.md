@@ -1056,6 +1056,15 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [Vishwabvs/COVID-19-Prediction-Using-X-Ray-Images](https://github.com/Vishwabvs/COVID-19-Prediction-Using-X-Ray-Images)
   - Project description: Given a Xray image of a person, the trained model predicts whether a person is affected with Corona Virus
 
+- [MuhammadUmairShahid/Detecting-Covid19-with-Chest-XRay-using-PyTorch](https://github.com/MuhammadUmairShahid/Detecting-Covid19-with-Chest-XRay-using-PyTorch)
+  - Project description: Used ResNet18 model with adam optimizer and cross entropy loss function to detect corona virus from chest Xrays. The accuracy achieved was 96 percent.
+
+- [Unco3892/covid-xray](https://github.com/Unco3892/covid-xray)
+  - Project description: Deep learning repository for COVID-19
+
+- [HaneenSu/ExplainableAI-COVID-19](https://github.com/HaneenSu/ExplainableAI-COVID-19)
+  - Project description: Classification of COVID-19 chest xrays and explainability using Lime explainer and shapley value. Adapted from: https://github.com/aildnont/covid-cxr
+
 ---
 
 **NOTE**
