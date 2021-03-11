@@ -1068,6 +1068,17 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [shashwat1225/Detecting-covid19-using-chest-xrays-with-pytorch](https://github.com/shashwat1225/Detecting-covid19-using-chest-xrays-with-pytorch)
   - Project description: Our objective in this project was to create an image classification model that can predict Chest X-Ray scans that belong to one of the three classes with a reasonably high accuracy.
 
+- [AashishDhakal/Covid-Xray-Test](https://github.com/AashishDhakal/Covid-Xray-Test)
+  - Project description: Django API to predict COVID using Xray
+  - License: [BSD 3-Clause License](https://github.com/AashishDhakal/Covid-Xray-Test/blob/master/LICENSE)
+
+- [teja0508/COVID-19-Detection-Based-On-Human-ChestXray](https://github.com/teja0508/COVID-19-Detection-Based-On-Human-ChestXray)
+  - Project description: Successfully built a deep neural network model by implementing Convolutional Neural Network (CNN) to automatically interprete ChestX-ray_Based-COVID detection. In addition, we also built a Flask application so user can upload their X-ray images and interpret the results.
+
+- [ClownMonster/Covid19_Detection_Using_Xrays](https://github.com/ClownMonster/Covid19_Detection_Using_Xrays)
+  - Project description: Using Pythons Machine Learning And Deep Learning libraries, making an attempt to create a model which can detect the covid infected patients from their chest X-ray
+  - License: [MIT License](https://github.com/ClownMonster/Covid19_Detection_Using_Xrays/blob/master/LICENSE)
+
 
 ---
 
