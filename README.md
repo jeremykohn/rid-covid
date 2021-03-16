@@ -1079,6 +1079,12 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
   - Project description: Using Pythons Machine Learning And Deep Learning libraries, making an attempt to create a model which can detect the covid infected patients from their chest X-ray
   - License: [MIT License](https://github.com/ClownMonster/Covid19_Detection_Using_Xrays/blob/master/LICENSE)
 
+- [gsyrrakos/Covid_XRay_Tensorflow_Transfer_learning](https://github.com/gsyrrakos/Covid_XRay_Tensorflow_Transfer_learning)
+  - Project description: Making a model for prediction Covid via Xray Image Dataset using Transfer Learning
+
+- [pranjwalsingh236/Project-Detection-Of-Covid19-with-Chest-XRay-Using-PyTorch](https://github.com/pranjwalsingh236/Project-Detection-Of-Covid19-with-Chest-XRay-Using-PyTorch)
+  - Project description: Our objective in the project was to create an image classification model that can predict Chest X-Ray scans that belong to one of the three classes with a reasonably high accuracy.
+
 
 ---
 
