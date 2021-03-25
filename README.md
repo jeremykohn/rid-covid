@@ -1085,6 +1085,12 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [pranjwalsingh236/Project-Detection-Of-Covid19-with-Chest-XRay-Using-PyTorch](https://github.com/pranjwalsingh236/Project-Detection-Of-Covid19-with-Chest-XRay-Using-PyTorch)
   - Project description: Our objective in the project was to create an image classification model that can predict Chest X-Ray scans that belong to one of the three classes with a reasonably high accuracy.
 
+- [aryan0141/ML_Covid_Dtetector](https://github.com/aryan0141/ML_Covid_Dtetector)
+  - Project description: Covid-19 Detector using machine learning algorithms like xgboost or random forest
+
+- [axe76/Covid_Classifier](https://github.com/axe76/Covid_Classifier)
+  - Project description: A model that classifies a chest xray image into either the healthy or the covid category
+
 
 ---
 
