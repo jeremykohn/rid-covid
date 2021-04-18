@@ -1091,6 +1091,10 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [axe76/Covid_Classifier](https://github.com/axe76/Covid_Classifier)
   - Project description: A model that classifies a chest xray image into either the healthy or the covid category
 
+- [Parag0506/ChecXray](https://github.com/Parag0506/ChecXray)
+  - Project description: A flutter app to detect Covid-19 disease using chest radiographs.
+  - License: [GNU Affero General Public License (AGPL) v3.0](https://github.com/Parag0506/ChecXray/blob/master/LICENSE)
+
 
 ---
 
