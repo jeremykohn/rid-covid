@@ -1098,6 +1098,21 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [jod35/detecting-covid-19-from-chest-xrays](https://github.com/jod35/detecting-covid-19-from-chest-xrays)
   - Project description: This is a demo of how covid can be detected from Xray images using Tensorflow and Keras.
 
+- [lalloo/COVID19-Face-Mask-Detection-and-Xray-with-Deep-Learning](https://github.com/lalloo/COVID19-Face-Mask-Detection-and-Xray-with-Deep-Learning)
+  - Project description: COVID-19 MASK DETECTION AND XRAY FOR PNEUMONIA XRAYS Using Deep Learning Techniques (in Tensorflow), performed image classification and object detection/recognition using deep computer vision with Convolutional Neural Network (CNN)
+
+- [LeoFrancaBessa/Deep-Learning-Based-Covid19-XRay-Prediction-WebApp](https://github.com/LeoFrancaBessa/Deep-Learning-Based-Covid19-XRay-Prediction-WebApp)
+  - Project description: A web page using Convolutional Neural Networks for classify xray images.
+
+- [NathanielOy/covid19cnn](https://github.com/NathanielOy/covid19cnn)
+  - Project description: Deep learning model for detecting covid19 using chest-xray digital images
+
+- [shaythuram/Covid_X-Ray_CNN](https://github.com/shaythuram/Covid_X-Ray_CNN)
+  - Project description: A CNN model using FastAI to predict if a person has Covid Based on their Chest Xray
+
+- [priyavrat-misra/detect-covid19-from-xrays](https://github.com/priyavrat-misra/detect-covid19-from-xrays)
+  - Project description: Diagnosing Pneumonia or COVID-19 from Chest X-Rays using CNNs.
+  - License: [MIT License](https://github.com/priyavrat-misra/detect-covid19-from-xrays/blob/master/LICENSE)
 
 ---
 
