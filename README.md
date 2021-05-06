@@ -84,10 +84,11 @@ https://drive.google.com/drive/folders/1xdk-mCkxCDNwsMAk2SGv203rY1mrbnPB?usp=sha
 
 - [mohammad2682/Covid19-Dataset](https://github.com/mohammad2682/Covid19-Dataset)
   - Dataset description: This dataset contains 1252 CT scans that are positive for SARS-CoV-2 infection (COVID-19) and 1230 CT scans for patients non-infected by SARS-CoV-2, 2482 CT scans in total.
-    - Dataset on Kaggle: http://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset
-    - Related research paper: [EXPLAINABLE-BY-DESIGN APPROACH FOR COVID-19
+    - Related research papers: 
+      - [EXPLAINABLE-BY-DESIGN APPROACH FOR COVID-19
 CLASSIFICATION VIA CT-SCAN](https://eprints.lancs.ac.uk/id/eprint/143767/1/EXPLAINABLE_BY_DESIGN_APPROACH_FOR_COVID_19_CLASSI.pdf) (Plamen Angelov and Eduardo Almeida Soares)
-    - Related research paper: [SARS-CoV-2 CT-scan dataset: A large dataset of real patients CT scans for SARS-CoV-2 identification](https://doi.org/10.1101/2020.04.24.20078584) (Eduardo Soares, Plamen Angelov, Sarah Biaso, Michele Higa Froes, Daniel Kanda Abe)
+      - [SARS-CoV-2 CT-scan dataset: A large dataset of real patients CT scans for SARS-CoV-2 identification](https://doi.org/10.1101/2020.04.24.20078584) (Eduardo Soares, Plamen Angelov, Sarah Biaso, Michele Higa Froes, Daniel Kanda Abe)
+    - Related dataset: [SARS-COV-2 Ct-Scan Dataset](https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset) (Kaggle)
 
 - [ncbi-nlp/COVID-19-CT-CXR](https://github.com/ncbi-nlp/COVID-19-CT-CXR)
   - Dataset description: COVID-19-CT-CXR is a public database of COVID-19 CXR and CT images, which are automatically extracted from COVID-19-relevant articles from the PubMed Central Open Access (PMC-OA) Subset. The annotations, relevant text, and a local copy of figures can be found at https://github.com/ncbi-nlp/COVID-19-CT-CXR/releases/
