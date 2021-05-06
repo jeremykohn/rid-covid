@@ -42,7 +42,7 @@ For now, the goal is to help people find what already exists. Eventually this ef
   - Dataset description: Data collection and label tool for COVID-19 disease chest scans. 
   - Project website: [COVIDEEP](http://www.covideep.net)
 
-- [COVID-19 Radiography Database](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database)
+- [COVID-19 Radiography Database](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database) (Kaggle)
   - Dataset description: A team of researchers from Qatar University, Doha, Qatar and the University of Dhaka, Bangladesh along with their collaborators from Pakistan and Malaysia in collaboration with medical doctors have created a database of chest X-ray images for COVID-19 positive cases along with Normal and Viral Pneumonia images. 
     - Related research papers:
       - [Can AI help in screening Viral and COVID-19 pneumonia?](https://arxiv.org/abs/2003.13145) (M.E.H. Chowdhury, T. Rahman, A. Khandakar, R. Mazhar, M.A. Kadir, Z.B. Mahbub, K.R. Islam, M.S. Khan, A. Iqbal, N. Al-Emadi, M.B.I. Reaz)
@@ -61,7 +61,7 @@ For now, the goal is to help people find what already exists. Eventually this ef
   - Dataset description: The purpose of Eurorad is to provide a learning environment for radiologists, radiology residents and students worldwide. It is a peer-reviewed educational tool based on radiological case reports.
   - Search for COVID cases: https://www.eurorad.org/advanced-search?search=COVID
 
-- [SARS-COV-2 Ct-Scan Dataset](https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset)
+- [SARS-COV-2 Ct-Scan Dataset](https://www.kaggle.com/plameneduardo/sarscov2-ctscan-dataset) (Kaggle)
   - Dataset description: A large dataset of CT scans for SARS-CoV-2 (COVID-19) identification
     - Related research paper: [SARS-CoV-2 CT-scan dataset: A large dataset of real patients CT scans for SARS-CoV-2 identification](https://www.medrxiv.org/content/10.1101/2020.04.24.20078584v3) (Eduardo Soares, Plamen Angelov, Sarah Biaso, Michele Higa Froes, Daniel Kanda Abe)
     - Code repository: https://github.com/Plamen-Eduardo/xDNN-SARS-CoV-2-CT-Scan
@@ -229,7 +229,7 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
 - [tawsifur/COVID-19-Chest-X-ray-Detection](https://github.com/tawsifur/COVID-19-Chest-X-ray-Detection)
   - Project description: A team of researchers from Qatar University, Doha, Qatar and the University of Dhaka, Bangladesh along with their collaborators from Pakistan and Malaysia in collaboration with medical doctors have managed to classify COVID-19, Viral pneumonia and Normal Chest X-ray images with an accuracy of 98.3%.
     - Related research paper: [Can AI help in screening Viral and COVID-19 pneumonia?](https://arxiv.org/abs/2003.13145) (M.E.H. Chowdhury, T. Rahman, A. Khandakar, R. Mazhar, M.A. Kadir, Z.B. Mahbub, K.R. Islam, M.S. Khan, A. Iqbal, N. Al-Emadi, M.B.I. Reaz)
-    - Related dataset: [COVID-19 Radiography Database](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database)
+    - Related dataset: [COVID-19 Radiography Database](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database) (Kaggle)
 
 - [talhaanwarch/Corona_Virus](https://github.com/talhaanwarch/Corona_Virus)
   - Project description: Diagnosis of corona virus using Chest Xray, through deep learning
