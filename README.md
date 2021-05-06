@@ -1112,7 +1112,12 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 
 - [priyavrat-misra/detect-covid19-from-xrays](https://github.com/priyavrat-misra/detect-covid19-from-xrays)
   - Project description: Diagnosing Pneumonia or COVID-19 from Chest X-Rays using CNNs.
+    - Updated and better version: [priyavrat-misra/xrays-and-gradcam](https://github.com/priyavrat-misra/xrays-and-gradcam)
   - License: [MIT License](https://github.com/priyavrat-misra/detect-covid19-from-xrays/blob/master/LICENSE)
+
+- [priyavrat-misra/xrays-and-gradcam](https://github.com/priyavrat-misra/xrays-and-gradcam)
+  - Project description: Classification and Gradient-based Localization of Chest Radiographs using PyTorch.
+  - License: [MIT License](https://github.com/priyavrat-misra/xrays-and-gradcam/blob/master/LICENSE)
 
 ---
 
