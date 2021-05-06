@@ -1132,6 +1132,9 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
   - Project description: COVID-19 Detection from X-Ray Images
   - License: [Apache License 2.0](https://github.com/dragonsan17/covid_detection_from_xray/blob/main/LICENSE)
 
+- [koushikjoshi/covid-xray](https://github.com/koushikjoshi/covid-xray)
+  - Project description: COVID detection using X-ray images
+
 
 ---
 
