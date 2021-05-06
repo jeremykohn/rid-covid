@@ -1062,6 +1062,9 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [Unco3892/covid-xray](https://github.com/Unco3892/covid-xray)
   - Project description: Deep learning repository for COVID-19
 
+- [Unco3892/covid-xray-2020-dl](https://github.com/Unco3892/covid-xray-2020-dl)
+  - Project description: Deep learning models implemented for identification of Covid-19 in addition to viral and bacterial pneumonia.
+
 - [HaneenSu/ExplainableAI-COVID-19](https://github.com/HaneenSu/ExplainableAI-COVID-19)
   - Project description: Classification of COVID-19 chest xrays and explainability using Lime explainer and shapley value. Adapted from: https://github.com/aildnont/covid-cxr
 
