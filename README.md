@@ -126,6 +126,11 @@ CLASSIFICATION VIA CT-SCAN](https://eprints.lancs.ac.uk/id/eprint/143767/1/EXPLA
     - Related research paper: [BIMCV COVID-19+: a large annotated dataset of RX and CT images from COVID-19 patients](https://arxiv.org/abs/2006.01174) (Maria de la Iglesia Vayá, Jose Manuel Saborit, Joaquim Angel Montell, Antonio Pertusa, Aurelia Bustos, Miguel Cazorla, Joaquin Galant, Xavier Barber, Domingo Orozco-Beltrán, Francisco García-García, Marisa Caparrós, Germán González, Jose María Salinas)
     - Code repository: [BIMCV-CSUSP/BIMCV-COVID-19](https://github.com/BIMCV-CSUSP/BIMCV-COVID-19)
 
+- [optimus789/Covidcare-Dataset](https://github.com/optimus789/Covidcare-Dataset)
+  - Dataset description: Dataset of CT Scans and XRay Images used to train the Covid detection AI Model
+    - Code repository: [optimus789/covidcare](https://github.com/optimus789/covidcare)
+
+
 ## Software Projects and Tutorials
 
 - [JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR)
@@ -1135,6 +1140,10 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 
 - [koushikjoshi/covid-xray](https://github.com/koushikjoshi/covid-xray)
   - Project description: COVID detection using X-ray images
+
+- [optimus789/covidcare](https://github.com/optimus789/covidcare)
+  - Project description: Covid Care Hackathon Project
+    - Related dataset: [optimus789/Covidcare-Dataset](https://github.com/optimus789/Covidcare-Dataset)
 
 
 ---
