@@ -1142,10 +1142,18 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [koushikjoshi/covid-xray](https://github.com/koushikjoshi/covid-xray)
   - Project description: COVID detection using X-ray images
 
+- [adelzaitri/classification-of-covid19-using-chest-xray-images-in-keras](https://github.com/adelzaitri/classification-of-covid19-using-chest-xray-images-in-keras)
+  - Project description: Classification of COVID19 Chest X-ray Images using Convolutional Neural Network
+
+- [MKSK22/Detecting_Covid19_fromChestXrays](https://github.com/MKSK22/Detecting_Covid19_fromChestXrays)
+  - Project description: In this project was developed an algorithm for detection of COVID-19 from Chest X-Rays images in Pytorch.
+
 - [optimus789/covidcare](https://github.com/optimus789/covidcare)
   - Project description: Covid Care Hackathon Project
     - Related dataset: [optimus789/Covidcare-Dataset](https://github.com/optimus789/Covidcare-Dataset)
 
+- [sabya10-4/covid-chest-xray](https://github.com/sabya10-4/covid-chest-xray)
+  - Project description: Deep learning model to predict covid from chest x-rays
 
 ---
 
