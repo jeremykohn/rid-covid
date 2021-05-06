@@ -1128,6 +1128,11 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
   - Project description: Classification and Gradient-based Localization of Chest Radiographs using PyTorch.
   - License: [MIT License](https://github.com/priyavrat-misra/xrays-and-gradcam/blob/master/LICENSE)
 
+- [dragonsan17/covid_detection_from_xray](https://github.com/dragonsan17/covid_detection_from_xray)
+  - Project description: COVID-19 Detection from X-Ray Images
+  - License: [Apache License 2.0](https://github.com/dragonsan17/covid_detection_from_xray/blob/main/LICENSE)
+
+
 ---
 
 **NOTE**
