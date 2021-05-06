@@ -120,6 +120,10 @@ CLASSIFICATION VIA CT-SCAN](https://eprints.lancs.ac.uk/id/eprint/143767/1/EXPLA
 - [GeneralBlockchain/covid-19-chest-xray-lung-bounding-boxes-dataset](https://github.com/GeneralBlockchain/covid-19-chest-xray-lung-bounding-boxes-dataset)
   - Dataset description: Lung Bounding Boxes of COVID-19 Chest X-ray Dataset.
 
+- [BIMCV-COVID19](https://bimcv.cipf.es/bimcv-projects/bimcv-covid19/)
+  - Dataset description: Valencia Region Image Bank (BIMCV) that combines data from the PadChest dataset with future datasets based on COVID-19 pathology to provide the open scientific community with data of clinical-scientific value that helps early detection of COVID-19.
+    - Related research paper: [BIMCV COVID-19+: a large annotated dataset of RX and CT images from COVID-19 patients](https://arxiv.org/abs/2006.01174) (Maria de la Iglesia Vayá, Jose Manuel Saborit, Joaquim Angel Montell, Antonio Pertusa, Aurelia Bustos, Miguel Cazorla, Joaquin Galant, Xavier Barber, Domingo Orozco-Beltrán, Francisco García-García, Marisa Caparrós, Germán González, Jose María Salinas)
+    - Code repository: [BIMCV-CSUSP/BIMCV-COVID-19](https://github.com/BIMCV-CSUSP/BIMCV-COVID-19)
 
 ## Software Projects and Tutorials
 
