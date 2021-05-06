@@ -168,9 +168,10 @@ Department of Radiology, Union Hospital, Tongji Medical College, Huazhong Univer
   - License: [Creative Commons CC-BY-NC-SA-4.0](https://github.com/sydney0zq/covid-19-detection/blob/master/CC-BY-NC-SA-4.0)
   - Related GitHub Gist: [convert_dicom_to_npy.py](https://gist.github.com/sydney0zq/4813618fd92781618e3c90809fc1db8b)
 
-- [elcronos/COVID-19](https://github.com/elcronos/COVID-19) (Predecessor of [FightCOVID19](https://github.com/FightCOVID19))
+- [elcronos/COVID-19](https://github.com/elcronos/COVID-19)
   - Project description: COVID-19 Detector from x-rays using Computer Vision and Deep Learning
   - License: COVID-19 Detector by Camilo Pestana is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
+  - Successor: [FightCOVID19](https://github.com/FightCOVID19)
 
 - [FightCOVID19](https://github.com/FightCOVID19)
   - Project description: Fight COVID-19 is a non-profit, collaborative community democratising AI to assist in the detection and triage of COVID-19 cases
@@ -1125,9 +1126,10 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [shaythuram/Covid_X-Ray_CNN](https://github.com/shaythuram/Covid_X-Ray_CNN)
   - Project description: A CNN model using FastAI to predict if a person has Covid Based on their Chest Xray
 
-- [priyavrat-misra/detect-covid19-from-xrays](https://github.com/priyavrat-misra/detect-covid19-from-xrays) (Updated and better version: [priyavrat-misra/xrays-and-gradcam](https://github.com/priyavrat-misra/xrays-and-gradcam))
+- [priyavrat-misra/detect-covid19-from-xrays](https://github.com/priyavrat-misra/detect-covid19-from-xrays)
   - Project description: Diagnosing Pneumonia or COVID-19 from Chest X-Rays using CNNs.
   - License: [MIT License](https://github.com/priyavrat-misra/detect-covid19-from-xrays/blob/master/LICENSE)
+  - Updated and better version: [priyavrat-misra/xrays-and-gradcam](https://github.com/priyavrat-misra/xrays-and-gradcam)
 
 - [priyavrat-misra/xrays-and-gradcam](https://github.com/priyavrat-misra/xrays-and-gradcam)
   - Project description: Classification and Gradient-based Localization of Chest Radiographs using PyTorch.
