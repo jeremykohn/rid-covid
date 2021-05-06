@@ -1155,6 +1155,10 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [sabya10-4/covid-chest-xray](https://github.com/sabya10-4/covid-chest-xray)
   - Project description: Deep learning model to predict covid from chest x-rays
 
+- [MHCovid/PredictionModel](https://github.com/MHCovid/PredictionModel)
+  - Project description: Deep convolutional neural network to predict COVID-19 in X-Ray images
+
+
 ---
 
 **NOTE**
