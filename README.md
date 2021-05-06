@@ -1125,9 +1125,8 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [shaythuram/Covid_X-Ray_CNN](https://github.com/shaythuram/Covid_X-Ray_CNN)
   - Project description: A CNN model using FastAI to predict if a person has Covid Based on their Chest Xray
 
-- [priyavrat-misra/detect-covid19-from-xrays](https://github.com/priyavrat-misra/detect-covid19-from-xrays)
+- [priyavrat-misra/detect-covid19-from-xrays](https://github.com/priyavrat-misra/detect-covid19-from-xrays) (Updated and better version: [priyavrat-misra/xrays-and-gradcam](https://github.com/priyavrat-misra/xrays-and-gradcam))
   - Project description: Diagnosing Pneumonia or COVID-19 from Chest X-Rays using CNNs.
-    - Updated and better version: [priyavrat-misra/xrays-and-gradcam](https://github.com/priyavrat-misra/xrays-and-gradcam)
   - License: [MIT License](https://github.com/priyavrat-misra/detect-covid19-from-xrays/blob/master/LICENSE)
 
 - [priyavrat-misra/xrays-and-gradcam](https://github.com/priyavrat-misra/xrays-and-gradcam)
