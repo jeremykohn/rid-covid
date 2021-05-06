@@ -44,7 +44,9 @@ For now, the goal is to help people find what already exists. Eventually this ef
 
 - [COVID-19 Radiography Database](https://www.kaggle.com/tawsifurrahman/covid19-radiography-database)
   - Dataset description: A team of researchers from Qatar University, Doha, Qatar and the University of Dhaka, Bangladesh along with their collaborators from Pakistan and Malaysia in collaboration with medical doctors have created a database of chest X-ray images for COVID-19 positive cases along with Normal and Viral Pneumonia images. 
-    - Related research paper: [Can AI help in screening Viral and COVID-19 pneumonia?](https://arxiv.org/abs/2003.13145) (M.E.H. Chowdhury, T. Rahman, A. Khandakar, R. Mazhar, M.A. Kadir, Z.B. Mahbub, K.R. Islam, M.S. Khan, A. Iqbal, N. Al-Emadi, M.B.I. Reaz)
+    - Related research papers:
+      - [Can AI help in screening Viral and COVID-19 pneumonia?](https://arxiv.org/abs/2003.13145) (M.E.H. Chowdhury, T. Rahman, A. Khandakar, R. Mazhar, M.A. Kadir, Z.B. Mahbub, K.R. Islam, M.S. Khan, A. Iqbal, N. Al-Emadi, M.B.I. Reaz)
+      - [Exploring the effect of image enhancement techniques on COVID-19 detection using chest X-ray images](https://www.sciencedirect.com/science/article/pii/S001048252100113X) (Tawsifur Rahman, Amith Khandakar, Yazan Qiblawey, Anas Tahir, Serkan Kiranyaz, Saad Bin Abul Kashem, Mohammad Tariqul Islam, Somaya Al Maadeed, Susu M. Zughaier, Muhammad Salman Khan, Muhammad E. H. Chowdhury)
     - Code repository: [tawsifur/COVID-19-Chest-X-ray-Detection](https://github.com/tawsifur/COVID-19-Chest-X-ray-Detection)  
 
 - [Aman9026/COVID-19-Predictor-dataset](https://github.com/Aman9026/COVID-19-Predictor-dataset)
