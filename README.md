@@ -1166,6 +1166,13 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 
 - [meet-soni5720/covid_detection_from_xray](https://github.com/meet-soni5720/covid_detection_from_xray)
   - Project description: The task is to detect whether pneumonia or Covid-19 is present from x-ray images or patient is completely normal.
+
+- [akshaybharati991/Covid-Detection-using-Deep-Learning-on-Chest-Xray-images](https://github.com/akshaybharati991/Covid-Detection-using-Deep-Learning-on-Chest-Xray-images)
+  - Project description: A CNN network To using keras to classify covid, normal and pneumonia images.
+
+- [bsamimi25/COVID-19_Chest-Xray_Neural_Network](https://github.com/bsamimi25/COVID-19_Chest-Xray_Neural_Network)
+  - Project description: In this project I created a Multiclass Classification Neural Network in which I determined based on a image dataset consisting of Chest X-rays, if a patient is classified as diagnosed with COVID-19, Normal, or has Pneumonia.
+
 ---
 
 **NOTE**
