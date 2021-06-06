@@ -1161,7 +1161,11 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [abhisekh08/Covid19_Detection_using_Chest_XRAYS](https://github.com/abhisekh08/Covid19_Detection_using_Chest_XRAYS)
   - Project description: Covid19 Detection using Chest Xrays
 
+- [V4G4X/COVID19_Classifier](https://github.com/V4G4X/COVID19_Classifier)
+  - Project description: Using CNNs to create an XRay Image classifier for Covid-19
 
+- [meet-soni5720/covid_detection_from_xray](https://github.com/meet-soni5720/covid_detection_from_xray)
+  - Project description: The task is to detect whether pneumonia or Covid-19 is present from x-ray images or patient is completely normal.
 ---
 
 **NOTE**
