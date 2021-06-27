@@ -1176,6 +1176,15 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [rshalini28/covid19-chest-xray](https://github.com/rshalini28/covid19-chest-xray)
   - Project description: Automatic Detection of Coronavirus Disease (COVID-19) Using X-ray Images
 
+- [GundeepSinghGulati/Covid19_Prediction_Using_Xray_Images](https://github.com/GundeepSinghGulati/Covid19_Prediction_Using_Xray_Images)
+  - Project description: In this project, I detect whether the patient has covid or normal using X-ray images.
+
+- [pollmix/covid-detection-from-xray](https://github.com/pollmix/covid-detection-from-xray)
+  - Project description: Detect COVID-19 from X-RAY image
+
+- [sandrofab/Covid-X-ray](https://github.com/sandrofab/Covid-X-ray)
+  - Project description: A project of CV Deep Learning model for Covid pneumonias Xray images classification.
+  - License: [GNU General Public License (GPL) v2.0](https://github.com/sandrofab/Covid-X-ray/blob/master/LICENSE)
 
 ---
 
