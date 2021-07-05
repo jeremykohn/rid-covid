@@ -1186,6 +1186,19 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
   - Project description: A project of CV Deep Learning model for Covid pneumonias Xray images classification.
   - License: [GNU General Public License (GPL) v2.0](https://github.com/sandrofab/Covid-X-ray/blob/master/LICENSE)
 
+- [bernardohenz/iffar_covid_from_xray](https://github.com/bernardohenz/iffar_covid_from_xray)
+  - Project description: Deep-learning method for detecting COVID-19 from x-ray images.
+
+- [MahsaSeifikar/Covid19XrayImageClassification](https://github.com/MahsaSeifikar/Covid19XrayImageClassification)
+  - Project description: X-ray Image classification to detect covid-19 cases using transfer learning in PyTorch.
+
+- [PriyamvadaKumar/Xray-Image-Classification-using-Deep-Learning-CNN-Logistic-Regression-Models](https://github.com/PriyamvadaKumar/Xray-Image-Classification-using-Deep-Learning-CNN-Logistic-Regression-Models)
+  - Project description: Convolutional Neural network and Logistic Regression multi-class models that can diagnose Pneumonia and COVID-19 from X-Ray images with 86% accuracy.
+  - License: [MIT License](https://github.com/PriyamvadaKumar/Xray-Image-Classification-using-Deep-Learning-CNN-Logistic-Regression-Models/blob/main/LICENSE.md)
+
+- [oliverjohn-github/coviddetection](https://github.com/oliverjohn-github/coviddetection)
+  - Project description: A project of creating a ML-model which detects whether a patient is tested positive for COVID-19 or not, and a website on which a person can upload his/her Xray or CT-scan image to determine that they would classify them as carrier of COVID 19 or not.
+
 ---
 
 **NOTE**
