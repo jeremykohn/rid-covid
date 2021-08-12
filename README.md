@@ -1199,6 +1199,12 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [oliverjohn-github/coviddetection](https://github.com/oliverjohn-github/coviddetection)
   - Project description: A project of creating a ML-model which detects whether a patient is tested positive for COVID-19 or not, and a website on which a person can upload his/her Xray or CT-scan image to determine that they would classify them as carrier of COVID 19 or not.
 
+- [bsets/Covid19_Detection_from_XRay_Images](https://github.com/bsets/Covid19_Detection_from_XRay_Images)
+  - Project description: CNN Implementation on Pytorch to detect Covid19 from Chest X-Ray Images
+
+- [manjitullal/pneumonia-covid-detection](https://github.com/manjitullal/pneumonia-covid-detection)
+  - Project description: Project on detecting Covid/Pneumonia using Xray Images
+
 ---
 
 **NOTE**
