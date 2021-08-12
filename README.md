@@ -1205,6 +1205,9 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [manjitullal/pneumonia-covid-detection](https://github.com/manjitullal/pneumonia-covid-detection)
   - Project description: Project on detecting Covid/Pneumonia using Xray Images
 
+- [hsmoradian/COVID19-Xray_imageprocessing](https://github.com/hsmoradian/COVID19-Xray_imageprocessing)
+  - Project description: Classification of Xray images to detect COVID19 using DNN
+
 ---
 
 **NOTE**
