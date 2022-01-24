@@ -1208,6 +1208,13 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [hsmoradian/COVID19-Xray_imageprocessing](https://github.com/hsmoradian/COVID19-Xray_imageprocessing)
   - Project description: Classification of Xray images to detect COVID19 using DNN
 
+- [Aksh97/Covid-Detection](https://github.com/Aksh97/Covid-Detection)
+  - Project description: Detection through Xrays images
+
+- [QTechnocrats/covid19-detection-chest-xray-dataset](https://github.com/QTechnocrats/covid19-detection-chest-xray-dataset)
+  - Project description: Analysis, Prediction and Evaluation of Covid-19 Datasets using Quanvolutional Neural Network
+
+
 ---
 
 **NOTE**
