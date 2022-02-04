@@ -1214,6 +1214,11 @@ Learning](https://arxiv.org/pdf/2004.09363.pdf) (Shervin Minaeea, Rahele Kafiehb
 - [QTechnocrats/covid19-detection-chest-xray-dataset](https://github.com/QTechnocrats/covid19-detection-chest-xray-dataset)
   - Project description: Analysis, Prediction and Evaluation of Covid-19 Datasets using Quanvolutional Neural Network
 
+- [pinaki-sen/covid-chest-xray-classifier-classical](https://github.com/pinaki-sen/covid-chest-xray-classifier-classical)
+  - Project description: Detecting Covid19 or Viral Pneumonia using Chest x-ray
+
+- [pinaki-sen/covid-chest-xray-classifier-quantum](https://github.com/pinaki-sen/covid-chest-xray-classifier-quantum)
+  - Project description: Analysis, Prediction and Evaluation of Covid-19 Datasets using Quanvolutional Neural Network
 
 ---
 
