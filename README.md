@@ -130,6 +130,10 @@ CLASSIFICATION VIA CT-SCAN](https://eprints.lancs.ac.uk/id/eprint/143767/1/EXPLA
   - Dataset description: Dataset of CT Scans and XRay Images used to train the Covid detection AI Model
     - Code repository: [optimus789/covidcare](https://github.com/optimus789/covidcare)
 
+- [medical-dataset/CT-Images](https://github.com/medical-dataset/CT-Images)
+  - Dataset description: covid-19 severity dataset
+  - Download link: https://drive.google.com/file/d/1BFQXXDpfPp-m79qGTViyddXij08Z4FJC/view
+
 
 ## Software Projects and Tutorials
 
